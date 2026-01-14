@@ -1,19 +1,42 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-1,Access Server Options from Configuration Menu,"Navigate to the configuration page, access server options from the menu, and return to the home page to verify successful navigation.","Step 1: Navigate to /config
-Step 2: Click on button menu
-Step 3: Click on link serverOptions -> Navigate to page '/config/server-options'
-Step 4: Click on header serverOptions -> Navigate to page ''
-Step 5: Take full page screenshot as checkpoint
+1,Access Server Options from Configuration Menu,"Navigate to the configuration page, access server options from the menu, and return to the home page to verify successful navigation.","Step 1: {'step_name': StepName(name='Navigate to /config', ref=''), 'action_id': None, 'timestamp': None, 'target_name': ''}
+Step 2: {'step_name': StepName(name='Click on button menu', ref=''), 'action_id': '680f841e-0a02-42d2-8aa9-8e90f315a88d', 'timestamp': 1768293188862, 'target_name': 'button_menu'}
+Step 3: {'step_name': StepName(name=""Click on link serverOptions -> Navigate to page '/config/server-options'"", ref=''), 'action_id': '84ae0d13-43c2-4253-9c33-b77956c5ea25', 'timestamp': 1768293200356, 'target_name': 'link_serverOptions'}
+Step 4: {'step_name': StepName(name=""Click on header serverOptions -> Navigate to page ''"", ref=''), 'action_id': 'fc4c2963-cbe9-4ade-ac12-51e348273b10', 'timestamp': 1768293201170, 'target_name': 'header_serverOptions'}
+Step 5: {'step_name': StepName(name='Take full page screenshot as checkpoint', ref=''), 'action_id': None, 'timestamp': None, 'target_name': ''}
 ",High,STABLE
-4,Access Goc Nhin Page and Verify,"Begin at the home page, click the Goc Nhin link, and verify that the Goc Nhin page is displayed correctly.","Step 1: Navigate to /
-Step 2: Click on link gocNhin -> Navigate to page '/goc-nhin'
-Step 3: Take full page screenshot as checkpoint
+6,Explore Political Content and Return to Home Page,"Begin at the home page, explore political content links, and return to the home page while ensuring the navigation is functioning correctly.","Step 1: {'step_name': StepName(name='Navigate to /', ref=''), 'action_id': None, 'timestamp': None, 'target_name': ''}
+Step 2: {'step_name': StepName(name=""Click on link gocNhin -> Navigate to page '/goc-nhin'"", ref=''), 'action_id': 'c40c4bd5-b3da-43b0-98ec-227f10e2123b', 'timestamp': 1768298571979, 'target_name': 'link_gocNhin'}
+Step 3: {'step_name': StepName(name=""Click on link chinhTriChinhSach -> Navigate to page '/goc-nhin/chinh-tri-chinh-sach'"", ref=''), 'action_id': 'f29551ce-b699-4d69-bdd5-7df6f6e59a03', 'timestamp': 1768298942367, 'target_name': 'link_chinhTriChinhSach'}
+Step 4: {'step_name': StepName(name=""Click on link home -> Navigate to page '/'"", ref=''), 'action_id': 'e4ecf534-ea98-455f-a5e7-090ad52d16b9', 'timestamp': 1768298948074, 'target_name': 'link_home'}
+Step 5: {'step_name': StepName(name=""Click on link gioiThieuMon -> Navigate to page '/*'"", ref=''), 'action_id': 'b37f6a35-08ae-4e24-8325-3e90b9c48247', 'timestamp': 1768298954719, 'target_name': 'link_gioiThieuMon'}
+Step 6: {'step_name': StepName(name='Take full page screenshot as checkpoint', ref=''), 'action_id': 'e264042c-e9da-442c-89f3-0323dfe84b75', 'timestamp': 1768298955968, 'target_name': ''}
 ",Medium,NEW
-3,Navigate through Dynamic Links and Verify Home Page,"Start at the home page, click various dynamic links, navigate to business and property details, and verify the home page.","Step 1: Navigate to /
-Step 2: Click on link dynamicObject (viewDetails) -> Navigate to page '/*'
-Step 3: Click on link business -> Navigate to page '/kinh-doanh'
-Step 4: Click on link propertyDetails -> Navigate to page '/*'
-Step 5: Click on link vnExpress -> Navigate to page '/'
-Step 6: Click on link dynamicObject (thuTuongNghienCuu) -> Navigate to page '/*'
-Step 7: Take full page screenshot as checkpoint
-",Trivial,NEW
+5,Navigate and Verify Dynamic Links on Home Page,"Start at the home page, click various dynamic links, and verify that the home page is displayed correctly after navigating through different sections.","Step 1: {'step_name': StepName(name='Navigate to /', ref=''), 'action_id': None, 'timestamp': None, 'target_name': ''}
+Step 2: {'step_name': StepName(name=""Click on link dynamicObject (dynamicObject) -> Navigate to page '/*'"", ref=''), 'action_id': 'ef72135b-74b8-4543-9777-1c069ad4b379', 'timestamp': 1768294591665, 'target_name': 'link_dynamicObject'}
+Step 3: {'step_name': StepName(name=""Click on link business -> Navigate to page '/kinh-doanh'"", ref=''), 'action_id': 'abb2ff65-2517-403c-ac76-18a7ecefead7', 'timestamp': 1768294659124, 'target_name': 'link_business'}
+Step 4: {'step_name': StepName(name=""Click on link propertyDetails -> Navigate to page '/*'"", ref=''), 'action_id': '101eff41-e01b-4aa7-8b05-0137e0e7bc64', 'timestamp': 1768294693139, 'target_name': 'link_propertyDetails'}
+Step 5: {'step_name': StepName(name=""Click on link vnExpress -> Navigate to page '/'"", ref=''), 'action_id': 'd09632f6-7d62-47c7-af16-79ae6cf2229c', 'timestamp': 1768295760388, 'target_name': 'link_vnExpress'}
+Step 6: {'step_name': StepName(name=""Click on link dynamicObject (dynamicObject2) -> Navigate to page '/*'"", ref=''), 'action_id': '050df68b-df6a-46f1-9942-fc351a888a69', 'timestamp': 1768295852345, 'target_name': 'link_dynamicObject'}
+Step 7: {'step_name': StepName(name='Take full page screenshot as checkpoint', ref=''), 'action_id': '03266241-160d-4cfb-9389-3fefc905374b', 'timestamp': 1768295855317, 'target_name': ''}
+",Low,NEW
+7,Search and Verify Navigation on Home Page,"Start at the home page, perform a search, navigate through different sections, and verify that the home page is displayed correctly after all interactions.","Step 1: {'step_name': StepName(name='Navigate to /', ref=''), 'action_id': None, 'timestamp': None, 'target_name': ''}
+Step 2: {'step_name': StepName(name='Click on link showAll', ref=''), 'action_id': '58a306b6-dcff-4d64-ab1f-8b1861e3a950', 'timestamp': 1768363837873, 'target_name': 'link_showAll'}
+Step 3: {'step_name': StepName(name=""Click on link spotlight -> Navigate to page '/spotlight'"", ref=''), 'action_id': 'b8880210-d345-4e18-805f-c2e3c1b973f5', 'timestamp': 1768363841140, 'target_name': 'link_spotlight'}
+Step 4: {'step_name': StepName(name='Click on button search', ref=''), 'action_id': '5801b16f-1b87-4ef6-90e6-4ecac58b59aa', 'timestamp': 1768363847822, 'target_name': 'button_search'}
+Step 5: {'step_name': StepName(name='Click on input search', ref=''), 'action_id': '84db8e50-ae52-48e2-8ca0-ee3cb9e67c1f', 'timestamp': 1768363849227, 'target_name': 'input_search'}
+Step 6: {'step_name': StepName(name='Enter input value in input search', ref=''), 'action_id': 'ae2fd685-53a3-45ea-b399-2aa78dcef6b8', 'timestamp': 1768363852108, 'target_name': 'input_search'}
+Step 7: {'step_name': StepName(name='Press key Enter on input search', ref=''), 'action_id': '0b7a32d8-6be1-44c1-83fa-a78a61e2510d', 'timestamp': 1768363853600, 'target_name': 'input_search'}
+Step 8: {'step_name': StepName(name=""Click on link home -> Navigate to page '/'"", ref=''), 'action_id': '26b44cfa-2b30-4eca-8b9a-ca3091ce5195', 'timestamp': 1768363865390, 'target_name': 'link_home'}
+Step 9: {'step_name': StepName(name='Click on link showAll', ref=''), 'action_id': '8ea255ea-f28e-4078-80d3-d3befcfc97fa', 'timestamp': 1768363868106, 'target_name': 'link_showAll'}
+Step 10: {'step_name': StepName(name=""Click on link moiNhat -> Navigate to page '/*'"", ref=''), 'action_id': '06d4ac0b-274e-4047-88b7-32f2271104da', 'timestamp': 1768363869757, 'target_name': 'link_moiNhat'}
+Step 11: {'step_name': StepName(name='Take full page screenshot as checkpoint', ref=''), 'action_id': '4e3e45bd-67e0-4621-9adb-ad2fa9aee54f', 'timestamp': 1768363870245, 'target_name': ''}
+",Low,NEW
+3,Navigate through Dynamic Links and Verify Home Page,"Start at the home page, click various dynamic links, navigate to business and property details, and verify the home page.","Step 1: {'step_name': StepName(name='Navigate to /', ref=''), 'action_id': None, 'timestamp': None, 'target_name': ''}
+Step 2: {'step_name': StepName(name=""Click on link dynamicObject (viewDetails) -> Navigate to page '/*'"", ref=''), 'action_id': 'ef72135b-74b8-4543-9777-1c069ad4b379', 'timestamp': 1768294591665, 'target_name': 'link_dynamicObject'}
+Step 3: {'step_name': StepName(name=""Click on link business -> Navigate to page '/kinh-doanh'"", ref=''), 'action_id': 'abb2ff65-2517-403c-ac76-18a7ecefead7', 'timestamp': 1768294659124, 'target_name': 'link_business'}
+Step 4: {'step_name': StepName(name=""Click on link propertyDetails -> Navigate to page '/*'"", ref=''), 'action_id': '101eff41-e01b-4aa7-8b05-0137e0e7bc64', 'timestamp': 1768294693139, 'target_name': 'link_propertyDetails'}
+Step 5: {'step_name': StepName(name=""Click on link vnExpress -> Navigate to page '/'"", ref=''), 'action_id': 'd09632f6-7d62-47c7-af16-79ae6cf2229c', 'timestamp': 1768295760388, 'target_name': 'link_vnExpress'}
+Step 6: {'step_name': StepName(name=""Click on link dynamicObject (thuTuongNghienCuu) -> Navigate to page '/*'"", ref=''), 'action_id': '050df68b-df6a-46f1-9942-fc351a888a69', 'timestamp': 1768295852345, 'target_name': 'link_dynamicObject'}
+Step 7: {'step_name': StepName(name='Take full page screenshot as checkpoint', ref=''), 'action_id': '03266241-160d-4cfb-9389-3fefc905374b', 'timestamp': 1768295855317, 'target_name': ''}
+",Trivial,RETAINED

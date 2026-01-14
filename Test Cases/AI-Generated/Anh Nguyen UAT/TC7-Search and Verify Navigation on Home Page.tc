@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>40d018da-4b73-4053-a790-a806e33457f5</id>
+        </flow>
+    </customField>
+    <description>Start at the home page, perform a search, navigate through different sections, and verify that the home page is displayed correctly after all interactions.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "User Session"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC7-Search and Verify Navigation on Home Page</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>22559b8c-13a4-457a-9cd9-abbcf1314007</testCaseGuid>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 6: Enter input value in input search - (Input data variable)</description>
+        <id>d9f31649-cea3-4853-9aa4-cd05bfeaa794</id>
+        <masked>false</masked>
+        <name>input_search</name>
+    </variable>
+</TestCaseEntity>

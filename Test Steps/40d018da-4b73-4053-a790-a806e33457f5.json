@@ -1,0 +1,80 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "name": "Navigate to /",
+      "sub_steps": [],
+      "target_name": ""
+    },
+    {
+      "name": "Click on link showAll",
+      "sub_steps": [],
+      "action_id": "58a306b6-dcff-4d64-ab1f-8b1861e3a950",
+      "timestamp": 1768363837873,
+      "target_name": "link_showAll"
+    },
+    {
+      "name": "Click on link spotlight -> Navigate to page '/spotlight'",
+      "sub_steps": [],
+      "action_id": "b8880210-d345-4e18-805f-c2e3c1b973f5",
+      "timestamp": 1768363841140,
+      "target_name": "link_spotlight"
+    },
+    {
+      "name": "Click on button search",
+      "sub_steps": [],
+      "action_id": "5801b16f-1b87-4ef6-90e6-4ecac58b59aa",
+      "timestamp": 1768363847822,
+      "target_name": "button_search"
+    },
+    {
+      "name": "Click on input search",
+      "sub_steps": [],
+      "action_id": "84db8e50-ae52-48e2-8ca0-ee3cb9e67c1f",
+      "timestamp": 1768363849227,
+      "target_name": "input_search"
+    },
+    {
+      "name": "Enter input value in input search",
+      "sub_steps": [],
+      "action_id": "ae2fd685-53a3-45ea-b399-2aa78dcef6b8",
+      "timestamp": 1768363852108,
+      "target_name": "input_search"
+    },
+    {
+      "name": "Press key Enter on input search",
+      "sub_steps": [],
+      "action_id": "0b7a32d8-6be1-44c1-83fa-a78a61e2510d",
+      "timestamp": 1768363853600,
+      "target_name": "input_search"
+    },
+    {
+      "name": "Click on link home -> Navigate to page '/'",
+      "sub_steps": [],
+      "action_id": "26b44cfa-2b30-4eca-8b9a-ca3091ce5195",
+      "timestamp": 1768363865390,
+      "target_name": "link_home"
+    },
+    {
+      "name": "Click on link showAll",
+      "sub_steps": [],
+      "action_id": "8ea255ea-f28e-4078-80d3-d3befcfc97fa",
+      "timestamp": 1768363868106,
+      "target_name": "link_showAll"
+    },
+    {
+      "name": "Click on link moiNhat -> Navigate to page '/*'",
+      "sub_steps": [],
+      "action_id": "06d4ac0b-274e-4047-88b7-32f2271104da",
+      "timestamp": 1768363869757,
+      "target_name": "link_moiNhat"
+    },
+    {
+      "name": "Take full page screenshot as checkpoint",
+      "sub_steps": [],
+      "action_id": "4e3e45bd-67e0-4621-9adb-ad2fa9aee54f",
+      "timestamp": 1768363870245,
+      "target_name": ""
+    }
+  ]
+}
