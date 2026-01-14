@@ -1,0 +1,52 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "name": "Navigate to /",
+      "sub_steps": [],
+      "target_name": ""
+    },
+    {
+      "name": "Click on link dynamicObject (viewDetails) -> Navigate to page '/*'",
+      "sub_steps": [],
+      "action_id": "ef72135b-74b8-4543-9777-1c069ad4b379",
+      "timestamp": 1768294591665,
+      "target_name": "link_dynamicObject"
+    },
+    {
+      "name": "Click on link business -> Navigate to page '/kinh-doanh'",
+      "sub_steps": [],
+      "action_id": "abb2ff65-2517-403c-ac76-18a7ecefead7",
+      "timestamp": 1768294659124,
+      "target_name": "link_business"
+    },
+    {
+      "name": "Click on link propertyDetails -> Navigate to page '/*'",
+      "sub_steps": [],
+      "action_id": "101eff41-e01b-4aa7-8b05-0137e0e7bc64",
+      "timestamp": 1768294693139,
+      "target_name": "link_propertyDetails"
+    },
+    {
+      "name": "Click on link vnExpress -> Navigate to page '/'",
+      "sub_steps": [],
+      "action_id": "d09632f6-7d62-47c7-af16-79ae6cf2229c",
+      "timestamp": 1768295760388,
+      "target_name": "link_vnExpress"
+    },
+    {
+      "name": "Click on link dynamicObject (thuTuongNghienCuu) -> Navigate to page '/*'",
+      "sub_steps": [],
+      "action_id": "050df68b-df6a-46f1-9942-fc351a888a69",
+      "timestamp": 1768295852345,
+      "target_name": "link_dynamicObject"
+    },
+    {
+      "name": "Take full page screenshot as checkpoint",
+      "sub_steps": [],
+      "action_id": "03266241-160d-4cfb-9389-3fefc905374b",
+      "timestamp": 1768295855317,
+      "target_name": ""
+    }
+  ]
+}

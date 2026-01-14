@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>07ea8748-a1d7-47e7-8333-5192f47b34fc</id>
+        </flow>
+    </customField>
+    <description>Start at the home page, click various dynamic links, navigate to business and property details, and verify the home page.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "User Session"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC3-Navigate through Dynamic Links and Verify Home Page</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>835ee438-014b-42cb-a434-cb4c69f99856</testCaseGuid>
+    <variable>
+        <defaultValue>'\\u0110\\u1ed3 h\\u1ed9p H\\u1ea1 Lo{{name}}\\u1ea3 l\\u01b0\\u01a1ng c\\u00f4ng nh\\u00e2n khi d\\u1eebng s\\u1ea3n xu\\u1ea5t'</defaultValue>
+        <description>Step 2: Click on link dynamicObject (viewDetails) -&gt; Navigate to page '/*' - (Dynamic locator variable)</description>
+        <id>29d3548d-8d40-4e2e-b7f2-8103754e03dd</id>
+        <masked>false</masked>
+        <name>link_dynamicObject_AInternalText</name>
+    </variable>
+    <variable>
+        <defaultValue>'Th\\u1ee7 t\\u01b0\\u1edbng: Nghi\\u00ean c\\u1ee9u \\u00e1p thu\\u1ebf \\u0111\\u1ec3 h\\u1ea1n ch\\u1ebf \\u0111\\u1ea7u c\\u01a1, th\\u1ed5i gi\\u00e1 b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n'</defaultValue>
+        <description>Step 6: Click on link dynamicObject (thuTuongNghienCuu) -&gt; Navigate to page '/*' - (Dynamic locator variable)</description>
+        <id>ba063af4-bba0-4ee5-a2d9-986a59949180</id>
+        <masked>false</masked>
+        <name>link_dynamicObject_AInternalText_1</name>
+    </variable>
+</TestCaseEntity>
