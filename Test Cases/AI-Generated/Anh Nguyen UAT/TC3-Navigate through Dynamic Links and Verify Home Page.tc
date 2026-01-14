@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TestCaseEntity>
-    <comment></comment>
+    <comment />
     <customField>
         <flow>
             <id>07ea8748-a1d7-47e7-8333-5192f47b34fc</id>
@@ -19,7 +18,7 @@
     </integratedEntity>
     <name>TC3-Navigate through Dynamic Links and Verify Home Page</name>
     <origin>TRUETEST</origin>
-    <tag></tag>
+    <tag>vnexpress</tag>
     <testCaseGuid>835ee438-014b-42cb-a434-cb4c69f99856</testCaseGuid>
     <variable>
         <defaultValue>'\\u0110\\u1ed3 h\\u1ed9p H\\u1ea1 Lo{{name}}\\u1ea3 l\\u01b0\\u01a1ng c\\u00f4ng nh\\u00e2n khi d\\u1eebng s\\u1ea3n xu\\u1ea5t'</defaultValue>
