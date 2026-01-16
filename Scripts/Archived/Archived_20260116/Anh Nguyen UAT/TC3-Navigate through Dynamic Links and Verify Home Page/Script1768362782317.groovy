@@ -21,33 +21,33 @@ TrueTestScripts.navigate("/")
 
 "Step 2: Click on link dynamicObject (viewDetails) -> Navigate to page '/*'"
 
-// Bind values to the variables in the locators of "AI-Generated/Anh Nguyen UAT/Dynamic Objects/Page_home/link_dynamicObject"
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Dynamic Objects/Page_home/link_dynamicObject', ['link_dynamicObject_AInternalText_1': link_dynamicObject_AInternalText]))
+// Bind values to the variables in the locators of "Archived/Archived_20260116/Anh Nguyen UAT/Dynamic Objects/Page_home/link_dynamicObject"
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Dynamic Objects/Page_home/link_dynamicObject', ['link_dynamicObject_AInternalText_1': link_dynamicObject_AInternalText]))
 
 // WebUI.takeScreenshot(reportLocation + '/TC3/Step 2-Click on link dynamicObject viewDetails - Navigate to page .png')
 
 "Step 3: Click on link business -> Navigate to page '/kinh-doanh'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_home/link_business'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_home/link_business'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC3/Step 3-Click on link business - Navigate to page kinh-doanh.png')
 
 "Step 4: Click on link propertyDetails -> Navigate to page '/*'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_kinh_doanh/link_propertyDetails'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_kinh_doanh/link_propertyDetails'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC3/Step 4-Click on link propertyDetails - Navigate to page .png')
 
 "Step 5: Click on link vnExpress -> Navigate to page '/'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_home/link_vnExpress'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_home/link_vnExpress'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC3/Step 5-Click on link vnExpress - Navigate to page .png')
 
 "Step 6: Click on link dynamicObject (thuTuongNghienCuu) -> Navigate to page '/*'"
 
-// Bind values to the variables in the locators of "AI-Generated/Anh Nguyen UAT/Dynamic Objects/Page_home/link_dynamicObject"
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Dynamic Objects/Page_home/link_dynamicObject', ['link_dynamicObject_AInternalText_1': link_dynamicObject_AInternalText_1]))
+// Bind values to the variables in the locators of "Archived/Archived_20260116/Anh Nguyen UAT/Dynamic Objects/Page_home/link_dynamicObject"
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Dynamic Objects/Page_home/link_dynamicObject', ['link_dynamicObject_AInternalText_1': link_dynamicObject_AInternalText_1]))
 
 // WebUI.takeScreenshot(reportLocation + '/TC3/Step 6-Click on link dynamicObject thuTuongNghienCuu - Navigate to page .png')
 

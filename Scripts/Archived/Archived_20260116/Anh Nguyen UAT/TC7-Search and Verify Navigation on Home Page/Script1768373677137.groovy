@@ -22,55 +22,55 @@ TrueTestScripts.navigate("/")
 
 "Step 2: Click on link showAll"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_home/link_showAll'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_home/link_showAll'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 2-Click on link showAll.png')
 
 "Step 3: Click on link spotlight -> Navigate to page '/spotlight'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_home/link_spotlight'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_home/link_spotlight'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 3-Click on link spotlight - Navigate to page spotlight.png')
 
 "Step 4: Click on button search"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_spotlight/button_search'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_spotlight/button_search'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 4-Click on button search.png')
 
 "Step 5: Click on input search"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_spotlight/input_search'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_spotlight/input_search'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 5-Click on input search.png')
 
 "Step 6: Enter input value in input search"
 
-WebUI.setText(findTestObject('AI-Generated/Anh Nguyen UAT/Page_spotlight/input_search'), input_search)
+WebUI.setText(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_spotlight/input_search'), input_search)
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 6-Enter input value in input search.png')
 
 "Step 7: Press key Enter on input search"
 
-WebUI.sendKeys(findTestObject('AI-Generated/Anh Nguyen UAT/Page_spotlight/input_search'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_spotlight/input_search'), Keys.chord(Keys.ENTER))
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 7-Press key Enter on input search.png')
 
 "Step 8: Click on link home -> Navigate to page '/'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_spotlight/link_home'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_spotlight/link_home'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 8-Click on link home - Navigate to page .png')
 
 "Step 9: Click on link showAll"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_home/link_showAll'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_home/link_showAll'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 9-Click on link showAll.png')
 
 "Step 10: Click on link moiNhat -> Navigate to page '/*'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Anh Nguyen UAT/Page_home/link_moiNhat'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260116/Anh Nguyen UAT/Page_home/link_moiNhat'))
 
 // WebUI.takeScreenshot(reportLocation + '/TC7/Step 10-Click on link moiNhat - Navigate to page .png')
 
