@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>5bbeb571-8bf7-427b-9f34-aef81c2649ee</id>
+        </flow>
+    </customField>
+    <description>Start at the product page, navigate through the K Cellphone Shop, add accessories to the cart, adjust quantities, and proceed to checkout. Verify navigation and page transitions.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "User Session"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC23-Navigate and Purchase Accessories from K Cellphone Shop</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>95446a76-8a73-4dbe-8567-0672a280b62b</testCaseGuid>
+    <variable>
+        <defaultValue>'iphone-15-silicone-case-with-magsafe'</defaultValue>
+        <description>Step 1: Navigate to /product/* - (Dynamic URL variable)</description>
+        <id>67c0eb79-7ea8-40de-9962-482f66f0d2e3</id>
+        <masked>false</masked>
+        <name>product_id</name>
+    </variable>
+</TestCaseEntity>
