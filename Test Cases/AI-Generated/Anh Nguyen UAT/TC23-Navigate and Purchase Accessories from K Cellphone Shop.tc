@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TestCaseEntity>
-    <comment></comment>
+    <comment />
     <customField>
         <flow>
             <id>5bbeb571-8bf7-427b-9f34-aef81c2649ee</id>
@@ -19,7 +18,7 @@
     </integratedEntity>
     <name>TC23-Navigate and Purchase Accessories from K Cellphone Shop</name>
     <origin>TRUETEST</origin>
-    <tag></tag>
+    <tag>cellphone-tc</tag>
     <testCaseGuid>95446a76-8a73-4dbe-8567-0672a280b62b</testCaseGuid>
     <variable>
         <defaultValue>'iphone-15-silicone-case-with-magsafe'</defaultValue>
