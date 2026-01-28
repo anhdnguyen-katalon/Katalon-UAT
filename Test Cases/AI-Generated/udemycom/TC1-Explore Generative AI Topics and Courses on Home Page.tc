@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>6d9df73f-77bc-48e0-ba17-bb0958c602b2</id>
+        </flow>
+    </customField>
+    <description>Navigate to the home page, explore generative AI topics, search for courses, and verify the home page after interacting with various elements.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "User Session"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC1-Explore Generative AI Topics and Courses on Home Page</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>bcefa84c-4bd7-4562-89ea-482ccc5b00ad</testCaseGuid>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 13: Enter input value in input search - (Input data variable)</description>
+        <id>5b9b38e9-8863-42dd-b9d5-13690f08a10b</id>
+        <masked>false</masked>
+        <name>input_search</name>
+    </variable>
+</TestCaseEntity>

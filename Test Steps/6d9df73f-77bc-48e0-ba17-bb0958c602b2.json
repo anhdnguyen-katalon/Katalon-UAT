@@ -1,0 +1,255 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "bb7dfdf9-9632-482b-854e-aa5e2eda70ab",
+      "name": "Navigate to /",
+      "sub_steps": [],
+      "target_name": "",
+      "target_test_object_id": ""
+    },
+    {
+      "id": "72b3b05b-0eda-4b81-acae-6bc96bbe19bf",
+      "name": "Click on link login -> Navigate to page '/join/passwordless-auth'",
+      "sub_steps": [],
+      "action_id": "29e2abd6-9895-4826-a0d4-9f904724fa53",
+      "timestamp": 1769158329252,
+      "target_name": "link_login",
+      "target_test_object_id": "bd6b4562-a5c9-4fed-be4e-43345caf60ad"
+    },
+    {
+      "id": "72ff7b41-caa8-4048-abcf-cb2042eca9a8",
+      "name": "Click on link logo -> Navigate to page '/'",
+      "sub_steps": [],
+      "action_id": "0f2cc8e5-463a-4042-bb60-fb2ba0b6837b",
+      "timestamp": 1769158333653,
+      "target_name": "link_logo",
+      "target_test_object_id": "329a6d70-92c2-49cd-935c-9136b35d63db"
+    },
+    {
+      "id": "b1028a4c-6eb1-47db-baac-9090988db19a",
+      "name": "Click on div carousel -> Navigate to page '/topic/generative-ai'",
+      "sub_steps": [],
+      "action_id": "902bac1b-afbc-4ce7-ac99-53fd7398d731",
+      "timestamp": 1769158337755,
+      "target_name": "div_carousel",
+      "target_test_object_id": "2209e8c1-78af-4e73-9960-add18e053f8b"
+    },
+    {
+      "id": "ea526e5c-1ae9-4639-975c-4fe46118b262",
+      "name": "Click on label toggle",
+      "sub_steps": [],
+      "action_id": "bec2c6c6-5339-49bd-8d8d-5b6de45702f1",
+      "timestamp": 1769158370437,
+      "target_name": "label_toggle",
+      "target_test_object_id": "14e8bc4c-7796-443f-adc5-802531bf1241"
+    },
+    {
+      "id": "09fc93ca-6f74-4ed8-a530-52a52e26e31b",
+      "name": "Click on label toggle2",
+      "sub_steps": [],
+      "action_id": "0d373530-6be3-45c1-8aae-481dc372dd81",
+      "timestamp": 1769158372267,
+      "target_name": "label_toggle2",
+      "target_test_object_id": "b744d76a-9bd5-4aa2-b6d7-4183d44bf75a"
+    },
+    {
+      "id": "f1520f8d-4e6d-4a14-a50d-cfd89388efdb",
+      "name": "Click on label ratings",
+      "sub_steps": [],
+      "action_id": "2f0e6ca2-5453-4c17-b7e1-01091f56d7f0",
+      "timestamp": 1769158374300,
+      "target_name": "label_ratings",
+      "target_test_object_id": "dd7e6dcf-572a-42ba-bd52-526d9a42a634"
+    },
+    {
+      "id": "99bb3114-757b-4d7b-ba5a-7e94ccdea3cf",
+      "name": "Click on button topic",
+      "sub_steps": [],
+      "action_id": "2eb62ba3-269c-4238-8c3c-19b3642ef85e",
+      "timestamp": 1769158377134,
+      "target_name": "button_topic",
+      "target_test_object_id": "1978cccf-e2ed-4511-8fe5-0687134d6ecc"
+    },
+    {
+      "id": "75cb53ff-29b3-4713-97f7-dc9cbd7cc614",
+      "name": "Click on label generativeAi",
+      "sub_steps": [],
+      "action_id": "1214f91c-23a0-4436-8f9d-8bcbe0a53646",
+      "timestamp": 1769158378317,
+      "target_name": "label_generativeAi",
+      "target_test_object_id": "d2fa5957-593e-428a-af07-4d55a8193272"
+    },
+    {
+      "id": "22136580-7058-4377-b7bf-5f258b09997a",
+      "name": "Click on link instructorTitle -> Navigate to page '/user/aakritielearning'",
+      "sub_steps": [],
+      "action_id": "53881de4-0c18-47ca-8fef-b146e044f3d4",
+      "timestamp": 1769158383567,
+      "target_name": "link_instructorTitle",
+      "target_test_object_id": "db29c331-f6d6-45dd-97a3-23acb3e06ae1"
+    },
+    {
+      "id": "38223b28-a574-4400-a565-cb17b876868e",
+      "name": "Click on link logo -> Navigate to page '/'",
+      "sub_steps": [],
+      "action_id": "499a7aea-215f-4adc-972c-2482b901bd64",
+      "timestamp": 1769158390956,
+      "target_name": "link_logo",
+      "target_test_object_id": "ba5ccd54-4d6e-4dfe-9308-7414f019086c"
+    },
+    {
+      "id": "4c2d2e5b-d2d7-4123-82f8-8b3098874d9d",
+      "name": "Click on input search",
+      "sub_steps": [],
+      "action_id": "25c6e472-e75f-48f1-b15c-b35dbfd87718",
+      "timestamp": 1769158392624,
+      "target_name": "input_search",
+      "target_test_object_id": "4dddd27d-b9ca-4f8b-8eec-ed307b322b26"
+    },
+    {
+      "id": "ba753667-8743-450a-a9ea-9f8453ef172a",
+      "name": "Enter input value in input search",
+      "sub_steps": [],
+      "action_id": "9ae4da32-4236-4bf1-827f-35fc9a920836",
+      "timestamp": 1769158393848,
+      "target_name": "input_search",
+      "target_test_object_id": "4dddd27d-b9ca-4f8b-8eec-ed307b322b26"
+    },
+    {
+      "id": "dc73f6ca-5e9c-44c1-821f-bd691531212a",
+      "name": "Press key Enter on input search -> Navigate to page '/courses/search'",
+      "sub_steps": [],
+      "action_id": "46183dae-d34c-44d3-9841-f530d0596f0f",
+      "timestamp": 1769158394806,
+      "target_name": "input_search",
+      "target_test_object_id": "4dddd27d-b9ca-4f8b-8eec-ed307b322b26"
+    },
+    {
+      "id": "a0cfed66-e7db-4bb5-aa37-254f0eaaf3b6",
+      "name": "Click on link completeCourse",
+      "sub_steps": [],
+      "action_id": "c933844f-fa6b-4317-84b3-eba326d7c1ba",
+      "timestamp": 1769158398955,
+      "target_name": "link_completeCourse",
+      "target_test_object_id": "fbc4ef58-c034-4e70-b478-a353fb27869d"
+    },
+    {
+      "id": "b6392a75-06a0-4c27-a21d-a054f81db0e4",
+      "name": "Click on button generativeAiforBeginners",
+      "sub_steps": [],
+      "action_id": "2e6fa6ea-03af-44cf-9bcd-bad1f6c83cdf",
+      "timestamp": 1769158407723,
+      "target_name": "button_generativeAiforBeginners",
+      "target_test_object_id": "c829ed88-f8f9-4dc2-8550-10336cbae298"
+    },
+    {
+      "id": "69e2f44c-e932-4f08-ad9a-2629030705e7",
+      "name": "Click on link logo -> Navigate to page '/'",
+      "sub_steps": [],
+      "action_id": "64b6c844-5a55-40cb-98d0-99ecf4c771c4",
+      "timestamp": 1769158421271,
+      "target_name": "link_logo",
+      "target_test_object_id": "dcd424fe-7270-4afb-a93d-8c4d3ecbc04b"
+    },
+    {
+      "id": "c7f892fd-8ca9-4a08-b5d7-42b74ccc2aa3",
+      "name": "Click on image rolePlayInterface",
+      "sub_steps": [],
+      "action_id": "0bfb72b3-45cf-477d-acd2-2d5839d2563d",
+      "timestamp": 1769158425401,
+      "target_name": "image_rolePlayInterface",
+      "target_test_object_id": "eafe1bf0-3c7d-4148-9571-a117957286bd"
+    },
+    {
+      "id": "21ac651a-2809-4f54-9e9d-1f5c8ba7e0c9",
+      "name": "Click on link udemyLogo",
+      "sub_steps": [],
+      "action_id": "611a08d7-4858-48c9-88e5-b3b4e0db61c3",
+      "timestamp": 1769159746487,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "0f4d7f93-e263-49d1-b1f7-8057f290889a"
+    },
+    {
+      "id": "aa758c63-a0bd-4cf1-b3e4-18bebb0a3f0c",
+      "name": "Click on header desktop",
+      "sub_steps": [],
+      "action_id": "6c6d359b-47eb-46de-b53e-4990c47be0d5",
+      "timestamp": 1769159765336,
+      "target_name": "header_desktop",
+      "target_test_object_id": "bb3a7d8b-be18-442f-bcfe-0014a07238f7"
+    },
+    {
+      "id": "70a2a123-8478-45ef-bc11-2d5d2274c63d",
+      "name": "Click on link completeCourse",
+      "sub_steps": [],
+      "action_id": "97ac2d79-86ce-44b4-b0f6-08c0c0c70f4f",
+      "timestamp": 1769159772781,
+      "target_name": "link_completeCourse",
+      "target_test_object_id": "37c310e4-835f-4735-a7b7-8d5d893625fb"
+    },
+    {
+      "id": "8f862be9-d7ff-454b-9ce6-2373f669a22b",
+      "name": "Click on div enrichedSkillsPlaceholder",
+      "sub_steps": [],
+      "action_id": "e8f2fc33-c025-4420-8ca6-d53864ee7406",
+      "timestamp": 1769159780570,
+      "target_name": "div_enrichedSkillsPlaceholder",
+      "target_test_object_id": "f88076a2-1c47-4eb2-b51f-b6c938fa048d"
+    },
+    {
+      "id": "268c77e7-2864-477a-b02c-b69fba21c0a4",
+      "name": "Click on div mobileHeader",
+      "sub_steps": [],
+      "action_id": "6bf4906a-7979-4c53-aa0e-1f770e81b459",
+      "timestamp": 1769160385454,
+      "target_name": "div_mobileHeader",
+      "target_test_object_id": "fcf10b0d-301f-4568-9a59-8b3fd4a56f36"
+    },
+    {
+      "id": "1b0702bb-29c3-40b1-9fa6-e061a3421efe",
+      "name": "Click on section enrichedSkills",
+      "sub_steps": [],
+      "action_id": "f0267284-5ef3-4792-9c84-52d07ef731bd",
+      "timestamp": 1769161117723,
+      "target_name": "section_enrichedSkills",
+      "target_test_object_id": "95b5408f-3c6e-4df3-ba59-6e9b265fa2dd"
+    },
+    {
+      "id": "fa06f91e-8904-490a-8b67-40719e62810d",
+      "name": "Click on link chatGpt -> Navigate to page '/topic/chatgpt'",
+      "sub_steps": [],
+      "action_id": "557d6026-a7a5-4dbc-b42d-47928e891cdc",
+      "timestamp": 1769161288395,
+      "target_name": "link_chatGpt",
+      "target_test_object_id": "c72d7f51-e775-4b4c-be21-c07656395354"
+    },
+    {
+      "id": "e7d729e8-6785-44cd-b95c-fac919a5f203",
+      "name": "Click on p courseDescription",
+      "sub_steps": [],
+      "action_id": "a309884c-2b2b-4720-a627-aab5453dc671",
+      "timestamp": 1769161291219,
+      "target_name": "p_courseDescription",
+      "target_test_object_id": "ec6a5329-60f4-48bc-b9ab-08f2339e4cbc"
+    },
+    {
+      "id": "7d95a41e-1caa-4d0d-991d-f34e9aea089e",
+      "name": "Click on link home -> Navigate to page '/'",
+      "sub_steps": [],
+      "action_id": "cd89d91b-c809-42b4-aada-04b7489451ea",
+      "timestamp": 1769161404012,
+      "target_name": "link_home",
+      "target_test_object_id": "c08ba1b1-4bc1-4518-82fb-5388a7b76fd0"
+    },
+    {
+      "id": "2d47d697-9e8e-4bf5-8526-b9ebf23a92c9",
+      "name": "Take full page screenshot as checkpoint",
+      "sub_steps": [],
+      "action_id": "2dea6eb0-9167-47f3-9141-59568973f7fa",
+      "timestamp": 1769161406001,
+      "target_name": "",
+      "target_test_object_id": ""
+    }
+  ]
+}

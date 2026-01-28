@@ -1,74 +1,30 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-12,Navigate and Verify Home Page from Search,"Access the search page, view more results, and click on a specific request to navigate to the home page. Verify that the home page is displayed.","Step 1: Navigate to /search with params (gs lcrp, ie, oq, q, rlz, sourceid)
-Step 2: Click on span showMore
-Step 3: Click on span grantGmxmlhttpRequest
-Step 4: Click on span grantGmxmlhttpRequest -> Navigate to page ''
-Step 5: Take full page screenshot as checkpoint
-",High,STABLE
-1,Access Server Options from Configuration Menu,"Navigate to the configuration page, access server options from the menu, and return to the home page to verify successful navigation.","Step 1: Navigate to /config
-Step 2: Click on button menu
-Step 3: Click on link serverOptions -> Navigate to page '/config/server-options'
-Step 4: Click on header serverOptions -> Navigate to page ''
-Step 5: Take full page screenshot as checkpoint
-",High,STABLE
-19,Navigate through Dynamic Links and Verify Home Page,"Start at the home page, click various dynamic links, and verify that the home page is displayed correctly after navigation.","Step 1: Navigate to /
-Step 2: Click on link dynamicObject -> Navigate to page '/*'
-Step 3: Click on link business -> Navigate to page '/kinh-doanh'
-Step 4: Click on link propertyDetails -> Navigate to page '/*'
-Step 5: Click on link vnExpress -> Navigate to page '/'
-Step 6: Click on link dynamicObject2 -> Navigate to page '/*'
-Step 7: Take full page screenshot as checkpoint
-",Low,NEW
-20,Explore Political Content and Return to Home Page,"From the home page, navigate through political links and return to the home page, ensuring the page is displayed correctly.","Step 1: Navigate to /
-Step 2: Click on link gocNhin -> Navigate to page '/goc-nhin'
-Step 3: Click on link chinhTriChinhSach -> Navigate to page '/goc-nhin/chinh-tri-chinh-sach'
-Step 4: Click on link home -> Navigate to page '/'
-Step 5: Click on link gioiThuMonVietNam -> Navigate to page '/*'
-Step 6: Take full page screenshot as checkpoint
-",Low,NEW
-21,Search and Browse Latest Content from Home Page,"Navigate from the home page to search for content, browse latest articles, and verify that the home page is displayed correctly.","Step 1: Navigate to /
-Step 2: Click on link showAll
-Step 3: Click on link spotlight -> Navigate to page '/spotlight'
-Step 4: Click on button search
-Step 5: Click on input search
-Step 6: Enter input value in input search
-Step 7: Press key Enter on input search
-Step 8: Click on link home -> Navigate to page '/'
-Step 9: Click on link showAll
-Step 10: Click on link moiNhat -> Navigate to page '/*'
-Step 11: Take full page screenshot as checkpoint
-",Low,NEW
-22,Explore Various Categories and Verify Home Page,"Start at the home page, explore different product categories, and verify that the home page is displayed correctly after multiple navigations.","Step 1: Navigate to /
-Step 2: Click on link quaTangDauXuan -> Navigate to page '/bo-suu-tap/*'
-Step 3: Click on link maySayBatElmich -> Navigate to page '/*'
-Step 4: Click on link khfeDep -> Navigate to page '/lam-dep-suc-khoe/*'
-Step 5: Click on header main
-Step 6: Click on link usernameKhoang -> Navigate to page '/xit-khoang/*'
-Step 7: Click on link camKet -> Navigate to page '/thong-tin/tiki-doi-tra-de-dang-an-tam-mua-sam'
-Step 8: Click on link tikiLogo -> Navigate to page '/'
-Step 9: Click on link suaBotEnfamil -> Navigate to page '/*'
-Step 10: Click on button thoat -> Navigate to page '/'
-Step 11: Click on link tikiLogo
-Step 12: Click on link dienGiaDung -> Navigate to page '/dien-gia-dung/*'
-Step 13: Click on link dienGiaDung -> Navigate to page ''
-Step 14: Take full page screenshot as checkpoint
-",Low,NEW
-23,Navigate and Purchase Accessories from K Cellphone Shop,"Start at the product page, navigate through the K Cellphone Shop, add accessories to the cart, adjust quantities, and proceed to checkout. Verify navigation and page transitions.","Step 1: Navigate to /product/*
-Step 2: Click on main product
-Step 3: Click on link kCellphoneShop -> Navigate to page '/'
-Step 4: Click on div kCellphoneShop
-Step 5: Click on div kCellphoneShop
-Step 6: Click on link kCellphoneShopLogo
-Step 7: Click on button hamburgerMenu
-Step 8: Click on link accessories
-Step 9: Click on link apple -> Navigate to page '/category/accessories-apple'
-Step 10: Click on button addToCart
-Step 11: Click on link placeOrder -> Navigate to page '/cart'
-Step 12: Click on div quantity
-Step 13: Click on button increaseQuantity
-Step 14: Click on button proceedToCheckout -> Navigate to page '/checkout/info'
-Step 15: Click on div logoWrapper
-Step 16: Click on link backToCart -> Navigate to page '/cart'
-Step 17: Click on link accessoriesFooter -> Navigate to page ''
-Step 18: Take full page screenshot as checkpoint
-",Low,NEW
+1,Explore Generative AI Topics and Courses on Home Page,"Navigate to the home page, explore generative AI topics, search for courses, and verify the home page after interacting with various elements.","Step 1: Navigate to /
+Step 2: Click on link login -> Navigate to page '/join/passwordless-auth'
+Step 3: Click on link logo -> Navigate to page '/'
+Step 4: Click on div carousel -> Navigate to page '/topic/generative-ai'
+Step 5: Click on label toggle
+Step 6: Click on label toggle2
+Step 7: Click on label ratings
+Step 8: Click on button topic
+Step 9: Click on label generativeAi
+Step 10: Click on link instructorTitle -> Navigate to page '/user/aakritielearning'
+Step 11: Click on link logo -> Navigate to page '/'
+Step 12: Click on input search
+Step 13: Enter input value in input search
+Step 14: Press key Enter on input search -> Navigate to page '/courses/search'
+Step 15: Click on link completeCourse
+Step 16: Click on button generativeAiforBeginners
+Step 17: Click on link logo -> Navigate to page '/'
+Step 18: Click on image rolePlayInterface
+Step 19: Click on link udemyLogo
+Step 20: Click on header desktop
+Step 21: Click on link completeCourse
+Step 22: Click on div enrichedSkillsPlaceholder
+Step 23: Click on div mobileHeader
+Step 24: Click on section enrichedSkills
+Step 25: Click on link chatGpt -> Navigate to page '/topic/chatgpt'
+Step 26: Click on p courseDescription
+Step 27: Click on link home -> Navigate to page '/'
+Step 28: Take full page screenshot as checkpoint
+",High,NEW
