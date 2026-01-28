@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TestCaseEntity>
-    <comment></comment>
+    <comment />
     <customField>
         <flow>
             <id>6d9df73f-77bc-48e0-ba17-bb0958c602b2</id>
@@ -19,7 +18,7 @@
     </integratedEntity>
     <name>TC1-Explore Generative AI Topics and Courses on Home Page</name>
     <origin>TRUETEST</origin>
-    <tag></tag>
+    <tag>udemy-28-jan</tag>
     <testCaseGuid>bcefa84c-4bd7-4562-89ea-482ccc5b00ad</testCaseGuid>
     <variable>
         <defaultValue>''</defaultValue>
