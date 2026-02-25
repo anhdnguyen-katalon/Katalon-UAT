@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TestCaseEntity>
-    <comment></comment>
+    <comment />
     <customField>
         <flow>
             <id>5192c1f8-1d4e-4e8f-8d51-ec1955f5ebf0</id>
@@ -19,7 +18,7 @@
     </integratedEntity>
     <name>TC1-Create New Customer and Navigate through Business Type Selection</name>
     <origin>TRUETEST</origin>
-    <tag></tag>
+    <tag>oneshield</tag>
     <testCaseGuid>974542fe-7aa7-49e4-b845-b6fb0e53b16d</testCaseGuid>
     <variable>
         <defaultValue>''</defaultValue>
