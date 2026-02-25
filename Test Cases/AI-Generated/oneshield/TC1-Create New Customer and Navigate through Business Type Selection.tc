@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>5192c1f8-1d4e-4e8f-8d51-ec1955f5ebf0</id>
+        </flow>
+    </customField>
+    <description>Navigate to the SSO page and create a new customer. Select various customer and business types, input personal information, and verify navigation back to the home page.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "User Session"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC1-Create New Customer and Navigate through Business Type Selection</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>974542fe-7aa7-49e4-b845-b6fb0e53b16d</testCaseGuid>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 62: Enter input value in input businessType - (Input data variable)</description>
+        <id>bc64f2ab-5423-46e0-83b1-f6b4e48d040d</id>
+        <masked>false</masked>
+        <name>input_businessType</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 13: Enter input value in input customerType2 - (Input data variable)</description>
+        <id>855a662e-d87a-4c51-9b7f-17fe311eb52c</id>
+        <masked>false</masked>
+        <name>input_customerType2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 65: Enter input value in input customerType3 - (Input data variable)</description>
+        <id>b4b39a71-8df4-4a69-b813-26c922293f74</id>
+        <masked>false</masked>
+        <name>input_customerType3</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 70: Enter input value in input personalInformation (firstNameRequired) - (Input data variable)</description>
+        <id>108c05b1-169a-4f69-8f35-895f7a6dc495</id>
+        <masked>false</masked>
+        <name>input_personalInformation</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 73: Enter input value in input personalInformation (lastName2) - (Input data variable)</description>
+        <id>42a9a2be-8e75-45e3-ad46-5fa73105c31a</id>
+        <masked>false</masked>
+        <name>input_personalInformation_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'{{name}}*'</defaultValue>
+        <description>Step 69: Click on input personalInformation (firstName) - (Dynamic locator variable)</description>
+        <id>20618071-386b-4b63-be3a-07872db3ebc7</id>
+        <masked>false</masked>
+        <name>input_personalInformation_InternalLabel_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Last {{name}}*'</defaultValue>
+        <description>Step 73: Enter input value in input personalInformation (lastName2) - (Dynamic locator variable)</description>
+        <id>239d3c64-9601-4bf8-8731-d2ea8eaced0e</id>
+        <masked>false</masked>
+        <name>input_personalInformation_InternalLabel_10</name>
+    </variable>
+    <variable>
+        <defaultValue>'{{address}}*'</defaultValue>
+        <description>Step 85: Click on input personalInformation (postalCode) - (Dynamic locator variable)</description>
+        <id>05da5cf1-8041-4f2a-ab41-305dceed33ca</id>
+        <masked>false</masked>
+        <name>input_personalInformation_InternalLabel_13</name>
+    </variable>
+    <variable>
+        <defaultValue>'{{name}}*'</defaultValue>
+        <description>Step 70: Enter input value in input personalInformation (firstNameRequired) - (Dynamic locator variable)</description>
+        <id>e4610d21-200b-49c8-b064-7c2dadaddf50</id>
+        <masked>false</masked>
+        <name>input_personalInformation_InternalLabel_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'Last {{name}}*'</defaultValue>
+        <description>Step 72: Click on input personalInformation (lastName) - (Dynamic locator variable)</description>
+        <id>b5f361b0-b9cf-49ae-8b90-d637629443b5</id>
+        <masked>false</masked>
+        <name>input_personalInformation_InternalLabel_7</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"ID22322654399_1583848_1-Label_22322654399_29240914-R0C1-inputEl\\"]'</defaultValue>
+        <description>Step 69: Click on input personalInformation (firstName) - (Dynamic locator variable)</description>
+        <id>eb4b08a4-470e-4f91-a93c-8b1df4efef23</id>
+        <masked>false</masked>
+        <name>input_personalInformation_css_value_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"ID22322654399_1583848_1-Label_22322654399_29240914-R0C1-inputEl\\"]'</defaultValue>
+        <description>Step 70: Enter input value in input personalInformation (firstNameRequired) - (Dynamic locator variable)</description>
+        <id>1c1a1829-3bc1-4991-bbf7-84391b998ea2</id>
+        <masked>false</masked>
+        <name>input_personalInformation_css_value_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"ID22322654399_1583848_2-Label_22322654399_29241114-R0C2-inputEl\\"]'</defaultValue>
+        <description>Step 72: Click on input personalInformation (lastName) - (Dynamic locator variable)</description>
+        <id>ff408a61-ae00-46ea-b238-c420825295b0</id>
+        <masked>false</masked>
+        <name>input_personalInformation_css_value_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"ID22322654399_1583848_2-Label_22322654399_29241114-R0C2-inputEl\\"]'</defaultValue>
+        <description>Step 73: Enter input value in input personalInformation (lastName2) - (Dynamic locator variable)</description>
+        <id>cb5af1d2-7c2a-4cdf-a9cd-3a02be39ca20</id>
+        <masked>false</masked>
+        <name>input_personalInformation_css_value_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"ID22322654399_1583748_1-Label_22322654399_32944448p29505846-R0C1-inputEl\\"]'</defaultValue>
+        <description>Step 85: Click on input personalInformation (postalCode) - (Dynamic locator variable)</description>
+        <id>3029152f-8b6b-461e-a4ce-a2ab837e95e3</id>
+        <masked>false</masked>
+        <name>input_personalInformation_css_value_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'[class=\\"x-boundlist-item\\\\ x-boundlist-item-over\\"]'</defaultValue>
+        <description>Step 56: Click on item accountTypes (businessOption) - (Dynamic locator variable)</description>
+        <id>658ca9af-3167-472c-bfbf-7b73b6cc855d</id>
+        <masked>false</masked>
+        <name>item_accountTypes_css_value_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'[class=\\"x-boundlist-item\\\\ x-boundlist-item-over\\"]'</defaultValue>
+        <description>Step 58: Click on item accountTypes (corporationOption) - (Dynamic locator variable)</description>
+        <id>4e93a4c3-64d5-4bb7-95a0-a1410da64356</id>
+        <masked>false</masked>
+        <name>item_accountTypes_css_value_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"ext-507\\"]'</defaultValue>
+        <description>Step 80: Click on item accountTypes (individualOption) - (Dynamic locator variable)</description>
+        <id>dc705728-193a-4a19-b582-2f50753570b8</id>
+        <masked>false</masked>
+        <name>item_accountTypes_css_value_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'[id=\\"ext-512\\"]'</defaultValue>
+        <description>Step 82: Click on item accountTypes (addressOption) - (Dynamic locator variable)</description>
+        <id>e9c9121e-63de-4e16-a37a-3f8252fc732c</id>
+        <masked>false</masked>
+        <name>item_accountTypes_css_value_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'eb236403-9e04-44d4-80ee-40b692ad1b0b'</defaultValue>
+        <description>Step 1: Navigate to /oneshield/sso with params (osst) - (Dynamic URL variable)</description>
+        <id>3ec99d47-46b9-4c37-b335-4c0756c00338</id>
+        <masked>false</masked>
+        <name>sso_osst</name>
+    </variable>
+</TestCaseEntity>
