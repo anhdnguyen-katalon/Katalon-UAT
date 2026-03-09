@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>e32debb8-ec03-4db0-a5a3-c17a79697294</id>
+        </flow>
+    </customField>
+    <description>Navigate to the home page and explore various sections including top stories, health, and latest items. Verify the home page after multiple interactions.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "User Session"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC1-Navigate and Explore Top Stories on Home Page</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>a8ca735a-af74-47e7-aa1d-89b829ad3f1d</testCaseGuid>
+    <variable>
+        <defaultValue>'[class=\\"section\\\\ section_topstory\\"]'</defaultValue>
+        <description>Step 2: Click on section topStories (topStory) - (Dynamic locator variable)</description>
+        <id>95b7243b-6cd4-4f45-852e-3815f8190061</id>
+        <masked>false</masked>
+        <name>section_topStories_css_value</name>
+    </variable>
+    <variable>
+        <defaultValue>'[class=\\"section\\\\ section_topstory\\"]'</defaultValue>
+        <description>Step 3: Click on section topStories (topStory) - (Dynamic locator variable)</description>
+        <id>4a331548-4b99-43d9-9d1f-f600ab7e610f</id>
+        <masked>false</masked>
+        <name>section_topStories_css_value_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'[class=\\"section\\\\ section_topstory\\"]'</defaultValue>
+        <description>Step 7: Click on section topStories (boTruong) - (Dynamic locator variable)</description>
+        <id>d007566a-9fc2-481d-b1b8-4bc0d652c79d</id>
+        <masked>false</masked>
+        <name>section_topStories_css_value_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'[class=\\"section\\\\ section_topstory\\"]'</defaultValue>
+        <description>Step 17: Click on section topStories (topStory2) - (Dynamic locator variable)</description>
+        <id>5f36b0cc-cf50-4720-8644-067ed715d8df</id>
+        <masked>false</masked>
+        <name>section_topStories_css_value_3</name>
+    </variable>
+</TestCaseEntity>
