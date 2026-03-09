@@ -1,0 +1,388 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "8ea240eb-7652-41c0-9dc3-bb954aea67e5",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "d7a01f5b-a53a-4b7c-9a19-8302379419d3",
+      "name": "Click on div quicklinks",
+      "action_id": "6db1ea10-f978-426d-a5d9-820a434b61cf",
+      "timestamp": 1773052837633,
+      "target_name": "div_quicklinks",
+      "target_test_object_id": "146c3a50-18c2-4b6f-994d-2c9801a83981",
+      "sub_steps": []
+    },
+    {
+      "id": "4d3df1f8-e2a2-4215-8297-13d0df58fa4b",
+      "name": "Click on input freeship",
+      "action_id": "399ca999-ea6b-464c-9890-5640194d5d09",
+      "timestamp": 1773052841454,
+      "target_name": "input_freeship",
+      "target_test_object_id": "1438e9c3-3c6a-494a-a2ba-732b996d8c4a",
+      "sub_steps": []
+    },
+    {
+      "id": "62fef433-a64e-4a0c-bf24-037df2ca06cb",
+      "name": "Click on div object",
+      "action_id": "0e1bb360-828d-4d46-a740-6df0ce093074",
+      "timestamp": 1773052850065,
+      "target_name": "div_object",
+      "target_test_object_id": "cd1afdf0-d820-4771-9cb5-b32ac722680e",
+      "sub_steps": []
+    },
+    {
+      "id": "2977de69-b59b-4099-bf5a-87e407869fc1",
+      "name": "Click on link nhaSachTiki -> Navigate to page '/nha-sach-tiki/*'",
+      "action_id": "2568e9e8-2f83-4e59-92fe-5af2fea324f5",
+      "timestamp": 1773052851014,
+      "target_name": "link_nhaSachTiki",
+      "target_test_object_id": "d4a247ed-7dad-4b12-ae1e-8ca410399102",
+      "sub_steps": []
+    },
+    {
+      "id": "f2a57fdd-6651-4d1b-afbe-a07f30605385",
+      "name": "Click on div categoryExplore",
+      "action_id": "307f92d2-8630-4b9d-b3f9-a048167b2e43",
+      "timestamp": 1773052855599,
+      "target_name": "div_categoryExplore",
+      "target_test_object_id": "8a99a2f7-e407-411a-8ff6-f2dcc7e96292",
+      "sub_steps": []
+    },
+    {
+      "id": "46e3fbbc-ce21-44f1-9934-534563002ad6",
+      "name": "Click on div categoryExplore",
+      "action_id": "3c11a9a8-d155-4ffe-9782-b65f194305a4",
+      "timestamp": 1773052857698,
+      "target_name": "div_categoryExplore",
+      "target_test_object_id": "8a99a2f7-e407-411a-8ff6-f2dcc7e96292",
+      "sub_steps": []
+    },
+    {
+      "id": "db29c770-e2c5-4f73-8a06-4af3e5dd1d85",
+      "name": "Click on link dienGiaDung -> Navigate to page '/dien-gia-dung/*'",
+      "action_id": "9c2bcc05-c60c-47bc-ae79-11fd3f21e002",
+      "timestamp": 1773052863783,
+      "target_name": "link_dienGiaDung",
+      "target_test_object_id": "20228d59-4625-4c06-b2a6-f1dba4a061d5",
+      "sub_steps": []
+    },
+    {
+      "id": "33fb196f-c8aa-4cac-807e-b215cdc64395",
+      "name": "Click on input search",
+      "action_id": "90bd123e-4aed-4d17-a182-d1fdc2e7e2ad",
+      "timestamp": 1773052867982,
+      "target_name": "input_search",
+      "target_test_object_id": "88b2f3e3-ef96-4d9c-b6ae-712b484c7181",
+      "sub_steps": []
+    },
+    {
+      "id": "5952be9d-b43b-486e-9983-702f5368d5f8",
+      "name": "Click on link searchSuggestion -> Navigate to page '/san-pham-so/the-cao-dien-thoai'",
+      "action_id": "e7824d1b-5107-42fe-811d-49415ea05b7f",
+      "timestamp": 1773052870547,
+      "target_name": "link_searchSuggestion",
+      "target_test_object_id": "42eb0f0e-a54a-4b24-a14f-4ccfd157b130",
+      "sub_steps": []
+    },
+    {
+      "id": "1262dbf0-1e92-4db1-84b9-64a9e9de1277",
+      "name": "Click on button close",
+      "action_id": "77232db9-6fe3-4051-ae25-3020870386a7",
+      "timestamp": 1773052874665,
+      "target_name": "button_close",
+      "target_test_object_id": "ee499e43-a5c6-4a81-9037-0700439eb7dc",
+      "sub_steps": []
+    },
+    {
+      "id": "a2221c8e-be18-42be-af0c-9aa2fb833a3c",
+      "name": "Click on button close",
+      "action_id": "7d9b8d22-6f44-4d20-a31e-1d86d0868204",
+      "timestamp": 1773052876147,
+      "target_name": "button_close",
+      "target_test_object_id": "ee499e43-a5c6-4a81-9037-0700439eb7dc",
+      "sub_steps": []
+    },
+    {
+      "id": "52e8dcf9-2696-4c73-8c06-a0c321273a62",
+      "name": "Click on button close",
+      "action_id": "d49750ce-00f1-4016-841f-6b30ca0d1e00",
+      "timestamp": 1773052878030,
+      "target_name": "button_close",
+      "target_test_object_id": "ee499e43-a5c6-4a81-9037-0700439eb7dc",
+      "sub_steps": []
+    },
+    {
+      "id": "57c86acd-6dc0-480c-bf95-1cc82d550a26",
+      "name": "Click on div loginModal -> Navigate to page '/dien-gia-dung/*'",
+      "action_id": "c1b53625-9887-46b7-b100-23380b526cfd",
+      "timestamp": 1773052879164,
+      "target_name": "div_loginModal",
+      "target_test_object_id": "d7d74e6f-d073-4410-9124-3e42e105b62a",
+      "sub_steps": []
+    },
+    {
+      "id": "1796348e-9700-4689-b7e6-992925b3e49b",
+      "name": "Click on div productDetails",
+      "action_id": "6727ff34-c5ec-4b1c-a0bc-b6be4731e1f8",
+      "timestamp": 1773052888247,
+      "target_name": "div_productDetails",
+      "target_test_object_id": "7c0f1987-b63a-4187-b5bb-b22f92705c5d",
+      "sub_steps": []
+    },
+    {
+      "id": "4e3e9318-ccfa-4c74-96dc-34eedaec4f2e",
+      "name": "Click on div companyInfo",
+      "action_id": "baa545c9-0ddf-4081-87b4-fccab3e6a650",
+      "timestamp": 1773052889632,
+      "target_name": "div_companyInfo",
+      "target_test_object_id": "294fd1fb-b5b4-4ca7-80c4-a73faeb7510c",
+      "sub_steps": []
+    },
+    {
+      "id": "a5f1148a-f131-4d97-9198-e719ba418590",
+      "name": "Click on div viewMore",
+      "action_id": "e46fe310-436c-45cf-a54a-6234c6ed8758",
+      "timestamp": 1773052890798,
+      "target_name": "div_viewMore",
+      "target_test_object_id": "52073d2c-d62a-4355-8048-374f6960ecda",
+      "sub_steps": []
+    },
+    {
+      "id": "25073c23-7d04-4977-8848-9358f039ba70",
+      "name": "Click on div exploreCategories",
+      "action_id": "8a59e6cf-50a0-42f2-aec8-bf4176cb622b",
+      "timestamp": 1773052893501,
+      "target_name": "div_exploreCategories",
+      "target_test_object_id": "0e7377d1-8a73-4306-8612-cea8acb47cd7",
+      "sub_steps": []
+    },
+    {
+      "id": "15117350-9fc3-47d6-8d47-bbc14e598d56",
+      "name": "Click on link tikiLogo -> Navigate to page '/'",
+      "action_id": "e8167e1e-e3d3-41a6-946c-d2eb8670c545",
+      "timestamp": 1773052900831,
+      "target_name": "link_tikiLogo",
+      "target_test_object_id": "60ebf9c9-0461-4a6d-b3a3-2e7e989cc945",
+      "sub_steps": []
+    },
+    {
+      "id": "9936ebc8-d3e8-4c06-93d8-da48ba2566f7",
+      "name": "Click on div tikiVippromotion",
+      "action_id": "fcc4d5cb-1868-4356-ae6c-a4353bffb176",
+      "timestamp": 1773052905314,
+      "target_name": "div_tikiVippromotion",
+      "target_test_object_id": "2ebfed49-5703-41d2-a6d2-89b705c126a3",
+      "sub_steps": []
+    },
+    {
+      "id": "a1fd79bb-c0e6-4a00-834d-5ef346060d8f",
+      "name": "Click on div object2",
+      "action_id": "4d67f9c7-a69c-4a82-9ee7-3e30f2a43702",
+      "timestamp": 1773052907464,
+      "target_name": "div_object2",
+      "target_test_object_id": "61627f32-44ff-46c0-9d2a-1b02bfc19d69",
+      "sub_steps": []
+    },
+    {
+      "id": "7be37d13-6052-47cb-b5bc-973ee71a71e6",
+      "name": "Click on link sportsCategory -> Navigate to page '/the-thao-da-ngoai/*'",
+      "action_id": "bb1139a7-45cd-46a2-b78f-ba39488bd084",
+      "timestamp": 1773052908081,
+      "target_name": "link_sportsCategory",
+      "target_test_object_id": "381fe14d-f4b4-4097-a51b-13584fa55238",
+      "sub_steps": []
+    },
+    {
+      "id": "70609fec-9d6b-40c8-bf21-5e27118faf1d",
+      "name": "Click on div exploreByCategory",
+      "action_id": "5ae44217-e287-4129-9f18-4cf93fa8dbbf",
+      "timestamp": 1773052910634,
+      "target_name": "div_exploreByCategory",
+      "target_test_object_id": "dfde7d46-08c2-414a-aee8-d5135e1a9bc5",
+      "sub_steps": []
+    },
+    {
+      "id": "bab46c55-8341-433f-bcaa-2f41fbf5903a",
+      "name": "Click on link freeshipPromotion -> Navigate to page '/khuyen-mai/ngay-hoi-freeship'",
+      "action_id": "f46252f6-ed0f-44aa-9d73-f803b46246f4",
+      "timestamp": 1773052911864,
+      "target_name": "link_freeshipPromotion",
+      "target_test_object_id": "4f69513c-e09e-4056-825f-a24c3a61e75c",
+      "sub_steps": []
+    },
+    {
+      "id": "8dacf177-f83b-405a-be2a-abe4eb449f9c",
+      "name": "Click on link tikiLogo -> Navigate to page '/'",
+      "action_id": "741827ed-51dc-42a5-98d2-17a23b7db70c",
+      "timestamp": 1773052914525,
+      "target_name": "link_tikiLogo",
+      "target_test_object_id": "c3bd1bed-3a1a-46c7-9f72-77bb6bd726d7",
+      "sub_steps": []
+    },
+    {
+      "id": "7b37276c-5953-44ea-bc7d-4fbb8fd04be6",
+      "name": "Click on div categoryList",
+      "action_id": "6fdc49c7-3e22-45f7-9fe9-70ac28da9d09",
+      "timestamp": 1773052920512,
+      "target_name": "div_categoryList",
+      "target_test_object_id": "e2adb8bd-93e7-43ba-ac95-5900b6661495",
+      "sub_steps": []
+    },
+    {
+      "id": "91d48224-2dbe-4112-90ce-42445f0096ab",
+      "name": "Click on link promiseDetails -> Navigate to page '/thong-tin/tiki-doi-tra-de-dang-an-tam-mua-sam'",
+      "action_id": "29425c69-0d03-46fb-9b5a-bc30f281efe5",
+      "timestamp": 1773052923507,
+      "target_name": "link_promiseDetails",
+      "target_test_object_id": "706eb488-0315-4b3b-8511-b61ecd327886",
+      "sub_steps": []
+    },
+    {
+      "id": "0d40a542-8ea8-4655-b973-1d92bfc7f031",
+      "name": "Click on link tikiLogo -> Navigate to page '/'",
+      "action_id": "5b85716a-a5c0-418d-b344-c201a6985328",
+      "timestamp": 1773052926422,
+      "target_name": "link_tikiLogo",
+      "target_test_object_id": "a006dc99-db2b-4f50-83fa-5766110a2076",
+      "sub_steps": []
+    },
+    {
+      "id": "a4d14488-bedd-41f6-8bf4-ae227b7afa76",
+      "name": "Click on div categoryList",
+      "action_id": "0555f520-73ca-4e69-97bc-fea9b705345d",
+      "timestamp": 1773052929478,
+      "target_name": "div_categoryList",
+      "target_test_object_id": "e2adb8bd-93e7-43ba-ac95-5900b6661495",
+      "sub_steps": []
+    },
+    {
+      "id": "0d51f473-c78e-42fd-9723-e267cdddb4f3",
+      "name": "Click on main home",
+      "action_id": "d0d34708-7013-4278-9a32-642e3a978a08",
+      "timestamp": 1773052934131,
+      "target_name": "main_home",
+      "target_test_object_id": "6e33dcd0-53c5-4be5-88ee-48a852ba05e8",
+      "sub_steps": []
+    },
+    {
+      "id": "f286c831-34ea-486b-84f5-11c572f94978",
+      "name": "Click on link tikiLogo",
+      "action_id": "889f0229-9a7c-4fa6-a9e3-2b331e49d0f5",
+      "timestamp": 1773052938464,
+      "target_name": "link_tikiLogo",
+      "target_test_object_id": "1849bb4f-0348-44e9-93e9-154a0d5f5be7",
+      "sub_steps": []
+    },
+    {
+      "id": "a526ca71-f40f-45f9-a355-96710753e059",
+      "name": "Click on link nhaSachTiki",
+      "action_id": "58938b83-e072-4ddb-9007-050fbcb920c2",
+      "timestamp": 1773052964116,
+      "target_name": "link_nhaSachTiki",
+      "target_test_object_id": "d4a247ed-7dad-4b12-ae1e-8ca410399102",
+      "sub_steps": []
+    },
+    {
+      "id": "9575cf66-b34f-48ee-8b8f-0f7fce88fc8c",
+      "name": "Click on link nhaSachTiki -> Navigate to page '/nha-sach-tiki/*'",
+      "action_id": "f5ff17a2-c536-4cc9-9917-5eb040af4efd",
+      "timestamp": 1773052964531,
+      "target_name": "link_nhaSachTiki",
+      "target_test_object_id": "d4a247ed-7dad-4b12-ae1e-8ca410399102",
+      "sub_steps": []
+    },
+    {
+      "id": "9263ab3a-f6dd-4158-8e55-4fe98bc6a34c",
+      "name": "Click on link tikiLogo -> Navigate to page '/'",
+      "action_id": "247eebe5-ec24-4204-b027-3b1ca9ce816e",
+      "timestamp": 1773052966948,
+      "target_name": "link_tikiLogo",
+      "target_test_object_id": "68ca3750-b1d8-49f5-9093-eea407caef40",
+      "sub_steps": []
+    },
+    {
+      "id": "67e2143d-6799-4070-bb1e-cf31dbf06448",
+      "name": "Click on link bachHoaOnline -> Navigate to page '/bach-hoa-online/*'",
+      "action_id": "3cd8ef86-2cac-4056-9166-c6e9a8a07f86",
+      "timestamp": 1773052991684,
+      "target_name": "link_bachHoaOnline",
+      "target_test_object_id": "e2e5961d-7ac4-4a93-9c08-038f077cdb3a",
+      "sub_steps": []
+    },
+    {
+      "id": "8e559a77-4b8c-4491-85b8-73cfc9989331",
+      "name": "Click on div breadcrumb",
+      "action_id": "8d5cd76b-b2e5-4f7e-aaee-a9f43eab7e6e",
+      "timestamp": 1773052995849,
+      "target_name": "div_breadcrumb",
+      "target_test_object_id": "064e187c-a1e5-4c72-81c1-8345d0c78b85",
+      "sub_steps": []
+    },
+    {
+      "id": "34811323-922e-45b5-b427-35f7979f9262",
+      "name": "Click on div exploreCategories",
+      "action_id": "ce458510-4f2f-4bf7-a0c0-fa4ee72e2c99",
+      "timestamp": 1773053002882,
+      "target_name": "div_exploreCategories",
+      "target_test_object_id": "92fb8426-e253-4069-9d57-4a84a27676bf",
+      "sub_steps": []
+    },
+    {
+      "id": "78f2b092-c122-4f70-8dc5-d77a5c447778",
+      "name": "Click on div breadcrumb",
+      "action_id": "00b9d076-8275-4bf8-81ef-cd9b1af1b55c",
+      "timestamp": 1773053006600,
+      "target_name": "div_breadcrumb",
+      "target_test_object_id": "064e187c-a1e5-4c72-81c1-8345d0c78b85",
+      "sub_steps": []
+    },
+    {
+      "id": "34ddd120-a452-4ad8-bb79-b4317d49112f",
+      "name": "Click on div breadcrumb",
+      "action_id": "d83e04cf-6677-4abf-8c15-a9d836b59137",
+      "timestamp": 1773053007081,
+      "target_name": "div_breadcrumb",
+      "target_test_object_id": "064e187c-a1e5-4c72-81c1-8345d0c78b85",
+      "sub_steps": []
+    },
+    {
+      "id": "432099ea-a519-46c6-b6d7-7df2f6227509",
+      "name": "Click on link tikiLogo -> Navigate to page '/'",
+      "action_id": "8bd4a862-c341-49e4-b166-5ea1aceeb9e9",
+      "timestamp": 1773053013665,
+      "target_name": "link_tikiLogo",
+      "target_test_object_id": "591f832c-83cf-45e3-994b-69cb75f2be80",
+      "sub_steps": []
+    },
+    {
+      "id": "bfbe3207-4db6-4b86-b4f0-3499fe20ca59",
+      "name": "Click on div mainMenu",
+      "action_id": "baa55102-c836-40df-910b-e4557084aa44",
+      "timestamp": 1773053017448,
+      "target_name": "div_mainMenu",
+      "target_test_object_id": "6eae040f-651a-4f48-b891-a18039148914",
+      "sub_steps": []
+    },
+    {
+      "id": "ae5beade-4332-49e9-bf7a-0fed71db4f3f",
+      "name": "Click on div categoryList2 -> Navigate to page ''",
+      "action_id": "b173d209-96ed-416f-bfc3-99b7efcfb6f2",
+      "timestamp": 1773053020431,
+      "target_name": "div_categoryList2",
+      "target_test_object_id": "5023befd-4ee7-4d53-8ae8-23a338b55e49",
+      "sub_steps": []
+    },
+    {
+      "id": "11e7d876-d9eb-4558-8cfb-936348eb5f5e",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

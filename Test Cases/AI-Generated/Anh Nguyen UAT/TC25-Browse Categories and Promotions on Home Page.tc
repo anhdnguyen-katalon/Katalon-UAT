@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate through quick links and categories. Explore product details, promotions, and various categories, ensuring to return to the home page throughout the process.</description>
+   <name>TC25-Browse Categories and Promotions on Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96d80398-20e4-4210-a653-164fa0d20b0c</testCaseGuid>
+   <customField>
+      <flow>
+         <id>6814ebfa-459f-4481-a24d-c6e6a9c431a8</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

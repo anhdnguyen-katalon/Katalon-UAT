@@ -216,5 +216,24 @@ public class TrueTestScripts {
             }
         }
     }
+    
+    public static switchToNextWindow() {
+        def driver = DriverFactory.getWebDriver()
+        def currentHandle = driver.getWindowHandle()
+        Object[] windowHandles = driver.getWindowHandles().toArray();
+        int indexOfCurrent = -1
+        for (int i = 0; i < windowHandles.length; i++) {
+            String handle = (String) windowHandles[i]
+            if (currentHandle.equals(handle)) {
+                indexOfCurrent = i
+                break
+            }
+        }
+        if (indexOfCurrent >= 0  && indexOfCurrent < windowHandles.length - 1) {
+            driver.switchTo().window((String) windowHandles[indexOfCurrent + 1])
+        } else {
+            WebUI.comment("Cannot find next window.")
+        }
+    }
 }
 

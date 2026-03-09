@@ -1,5 +1,49 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-2,Explore Enriched Skills and Follow Topics on Learning Platform,"Navigate to the home page, explore enriched skills, and follow multiple topics. Verify navigation and interactions with various sections and links.","Step 1: Navigate to /
+25,Browse Categories and Promotions on Home Page,"Navigate through quick links and categories. Explore product details, promotions, and various categories, ensuring to return to the home page throughout the process.","Step 1: Navigate to /
+Step 2: Click on div quicklinks
+Step 3: Click on input freeship
+Step 4: Click on div object
+Step 5: Click on link nhaSachTiki -> Navigate to page '/nha-sach-tiki/*'
+Step 6: Click on div categoryExplore
+Step 7: Click on div categoryExplore
+Step 8: Click on link dienGiaDung -> Navigate to page '/dien-gia-dung/*'
+Step 9: Click on input search
+Step 10: Click on link searchSuggestion -> Navigate to page '/san-pham-so/the-cao-dien-thoai'
+Step 11: Click on button close
+Step 12: Click on button close
+Step 13: Click on button close
+Step 14: Click on div loginModal -> Navigate to page '/dien-gia-dung/*'
+Step 15: Click on div productDetails
+Step 16: Click on div companyInfo
+Step 17: Click on div viewMore
+Step 18: Click on div exploreCategories
+Step 19: Click on link tikiLogo -> Navigate to page '/'
+Step 20: Click on div tikiVippromotion
+Step 21: Click on div object2
+Step 22: Click on link sportsCategory -> Navigate to page '/the-thao-da-ngoai/*'
+Step 23: Click on div exploreByCategory
+Step 24: Click on link freeshipPromotion -> Navigate to page '/khuyen-mai/ngay-hoi-freeship'
+Step 25: Click on link tikiLogo -> Navigate to page '/'
+Step 26: Click on div categoryList
+Step 27: Click on link promiseDetails -> Navigate to page '/thong-tin/tiki-doi-tra-de-dang-an-tam-mua-sam'
+Step 28: Click on link tikiLogo -> Navigate to page '/'
+Step 29: Click on div categoryList
+Step 30: Click on main home
+Step 31: Click on link tikiLogo
+Step 32: Click on link nhaSachTiki
+Step 33: Click on link nhaSachTiki -> Navigate to page '/nha-sach-tiki/*'
+Step 34: Click on link tikiLogo -> Navigate to page '/'
+Step 35: Click on link bachHoaOnline -> Navigate to page '/bach-hoa-online/*'
+Step 36: Click on div breadcrumb
+Step 37: Click on div exploreCategories
+Step 38: Click on div breadcrumb
+Step 39: Click on div breadcrumb
+Step 40: Click on link tikiLogo -> Navigate to page '/'
+Step 41: Click on div mainMenu
+Step 42: Click on div categoryList2 -> Navigate to page ''
+Step 43: Take full page screenshot as checkpoint
+",Low,NEW
+24,Explore Enriched Skills and Topics on Home Page,"Navigate through various sections and topics related to enriched skills. Explore data science, business intelligence, and generative AI content, returning to the home page.","Step 1: Navigate to /
 Step 2: Click on section enrichedSkills
 Step 3: Click on div placeholder
 Step 4: Click on div placeholder
@@ -9,16 +53,48 @@ Step 7: Click on link udemyLogo -> Navigate to page '/'
 Step 8: Click on div trendingSkills
 Step 9: Click on div businessIntelligence
 Step 10: Click on link udemyLogo
-Step 11: Click on button follow
-Step 12: Click on button follow
-Step 13: Click on button follow
-Step 14: Click on button follow
-Step 15: Click on button follow
-Step 16: Click on button follow
-Step 17: Click on button follow
+Step 11: Click on button navigation (follow)
+Step 12: Click on button navigation (follow)
+Step 13: Click on button navigation (follow)
+Step 14: Click on button navigation (follow)
+Step 15: Click on button navigation (follow)
+Step 16: Click on button navigation (follow)
+Step 17: Click on button navigation (follow)
 Step 18: Click on section enrichedSkills2
 Step 19: Click on link object -> Navigate to page '/topic/autocad'
 Step 20: Click on link udemyLogo -> Navigate to page '/'
-Step 21: Click on div placeholder -> Navigate to page ''
-Step 22: Take full page screenshot as checkpoint
+Step 21: Click on div placeholder
+Step 22: Click on button close
+Step 23: Click on button navigation (follow)
+Step 24: Click on button navigation (follow)
+Step 25: Click on button navigation (follow)
+Step 26: Click on button navigation (follow)
+Step 27: Click on button explore
+Step 28: Click on button explore
+Step 29: Click on button aiCourse
+Step 30: Click on link promptEngineering -> Navigate to page '/topic/prompt-engineering'
+Step 31: Click on div topicContent
+Step 32: Click on div topicContent
+Step 33: Click on div topicContent
+Step 34: Click on link home -> Navigate to page '/'
+Step 35: Click on button navigation (follow2)
+Step 36: Click on button navigation (follow2)
+Step 37: Click on button navigation (follow2)
+Step 38: Click on header skills
+Step 39: Click on p enrichedSkillsDescription
+Step 40: Click on section enrichedSkills
+Step 41: Click on button navigation (previous)
+Step 42: Click on button navigation (previous)
+Step 43: Click on button navigation (previous)
+Step 44: Click on div icon -> Navigate to page '/topic/generative-ai'
+Step 45: Click on div generativeAicontent
+Step 46: Click on div generativeAicontent2
+Step 47: Click on div generativeAicontent2
+Step 48: Click on div generativeAicontent2
+Step 49: Click on link home -> Navigate to page '/'
+Step 50: Click on button navigation (follow)
+Step 51: Click on button navigation (follow)
+Step 52: Click on button navigation (previous2)
+Step 53: Click on button navigation (follow) -> Navigate to page ''
+Step 54: Take full page screenshot as checkpoint
 ",Trivial,NEW
