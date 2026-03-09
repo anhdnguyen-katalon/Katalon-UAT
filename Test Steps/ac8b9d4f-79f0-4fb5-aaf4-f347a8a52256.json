@@ -1,0 +1,199 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "9b800962-5eb0-4df8-9710-25e56e978f20",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "e2ed7f52-706c-46d8-bd15-a1655aab4663",
+      "name": "Click on section enrichedSkills",
+      "action_id": "d174f215-6dbb-4e43-84ca-823e92ad39bf",
+      "timestamp": 1773042844922,
+      "target_name": "section_enrichedSkills",
+      "target_test_object_id": "7175b9af-01d7-4cbf-908a-110cb13b7e4f",
+      "sub_steps": []
+    },
+    {
+      "id": "e3f183f5-4760-412a-bec4-07eb52b3003b",
+      "name": "Click on div placeholder",
+      "action_id": "67aaaa44-4f25-4cad-8d28-0d73866a278d",
+      "timestamp": 1773042846688,
+      "target_name": "div_placeholder",
+      "target_test_object_id": "84658c4f-6bb6-4221-aae0-334508f86ead",
+      "sub_steps": []
+    },
+    {
+      "id": "914e2436-787e-447f-9440-d383898a658b",
+      "name": "Click on div placeholder",
+      "action_id": "e50500e7-c11f-491c-96ab-35776e4a691e",
+      "timestamp": 1773042846992,
+      "target_name": "div_placeholder",
+      "target_test_object_id": "84658c4f-6bb6-4221-aae0-334508f86ead",
+      "sub_steps": []
+    },
+    {
+      "id": "aa432ef1-8e80-4086-b14a-d08e9447cc9e",
+      "name": "Click on div enrichedSkillsDescription",
+      "action_id": "1afc1a54-71b0-43c9-995d-421fd05fa5b5",
+      "timestamp": 1773042848455,
+      "target_name": "div_enrichedSkillsDescription",
+      "target_test_object_id": "4baa1cfe-42f0-4ea4-b672-37d506357919",
+      "sub_steps": []
+    },
+    {
+      "id": "d3ad4337-fb21-4a8f-b895-cfc50ec41611",
+      "name": "Click on link dataScienceTopic -> Navigate to page '/topic/data-science'",
+      "action_id": "578eb5bd-5611-4a0b-989e-805f7f38d7b1",
+      "timestamp": 1773042849940,
+      "target_name": "link_dataScienceTopic",
+      "target_test_object_id": "d5f13eb3-ee79-47a1-87b8-c24d6f7d40bc",
+      "sub_steps": []
+    },
+    {
+      "id": "4d4a3002-f980-4847-a52b-ab409904ddc4",
+      "name": "Click on link udemyLogo -> Navigate to page '/'",
+      "action_id": "043f7339-577d-4eca-a42a-051f892c5378",
+      "timestamp": 1773042857592,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "0d7eddda-445c-4b9d-838f-d876ba76a1e2",
+      "sub_steps": []
+    },
+    {
+      "id": "e8db9d49-43b1-4367-8628-29c172ed8812",
+      "name": "Click on div trendingSkills",
+      "action_id": "4a07ee65-be51-40a0-a204-55a62cd71e3b",
+      "timestamp": 1773042861808,
+      "target_name": "div_trendingSkills",
+      "target_test_object_id": "29cfbba3-0a0c-4bd7-8821-982dfd86e44f",
+      "sub_steps": []
+    },
+    {
+      "id": "dd0baf11-d6db-4efc-8656-5deadf27d958",
+      "name": "Click on div businessIntelligence",
+      "action_id": "fb5511da-d605-49ec-b532-1d9154217012",
+      "timestamp": 1773042886924,
+      "target_name": "div_businessIntelligence",
+      "target_test_object_id": "de7f2703-7909-4bb4-a632-d5114df96c99",
+      "sub_steps": []
+    },
+    {
+      "id": "37142025-47bc-4d23-9a8a-fd21a03db0dc",
+      "name": "Click on link udemyLogo",
+      "action_id": "81472ff7-0723-4fab-9582-6903b49da9a6",
+      "timestamp": 1773042891207,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "d821022d-d4b1-4ebf-9aa4-38292a111335",
+      "sub_steps": []
+    },
+    {
+      "id": "34a84235-fb10-45e4-bcb5-6505b8c57a28",
+      "name": "Click on button follow",
+      "action_id": "4c4fbcb2-dffc-4c31-91e2-41295451e925",
+      "timestamp": 1773042893873,
+      "target_name": "button_follow",
+      "target_test_object_id": "122ced58-a8c1-4fe6-bffe-005633a6cb8e",
+      "sub_steps": []
+    },
+    {
+      "id": "37409f80-7290-4899-8b20-affa12b47712",
+      "name": "Click on button follow",
+      "action_id": "1e9001e6-04c8-4ba3-8e58-101d6d65b58e",
+      "timestamp": 1773042894338,
+      "target_name": "button_follow",
+      "target_test_object_id": "122ced58-a8c1-4fe6-bffe-005633a6cb8e",
+      "sub_steps": []
+    },
+    {
+      "id": "bf58c3af-060f-40ea-8f02-c697d4193212",
+      "name": "Click on button follow",
+      "action_id": "610eb620-78c7-442b-a56f-3e88d78897ce",
+      "timestamp": 1773042894805,
+      "target_name": "button_follow",
+      "target_test_object_id": "122ced58-a8c1-4fe6-bffe-005633a6cb8e",
+      "sub_steps": []
+    },
+    {
+      "id": "f5771a8d-58b6-476d-93f5-18b1624c998d",
+      "name": "Click on button follow",
+      "action_id": "07f0fc8e-9f95-48d8-af09-f915edbff74c",
+      "timestamp": 1773042895055,
+      "target_name": "button_follow",
+      "target_test_object_id": "122ced58-a8c1-4fe6-bffe-005633a6cb8e",
+      "sub_steps": []
+    },
+    {
+      "id": "be3048d8-1e67-43d9-aca1-d551f8f99001",
+      "name": "Click on button follow",
+      "action_id": "2c2eacbd-74a4-4246-bd3d-af7048d5acf0",
+      "timestamp": 1773042895255,
+      "target_name": "button_follow",
+      "target_test_object_id": "122ced58-a8c1-4fe6-bffe-005633a6cb8e",
+      "sub_steps": []
+    },
+    {
+      "id": "f6255c26-9d03-48b8-8d9b-26d16b0786d3",
+      "name": "Click on button follow",
+      "action_id": "52308e70-f872-43c6-abe1-9270ed407c6f",
+      "timestamp": 1773042895472,
+      "target_name": "button_follow",
+      "target_test_object_id": "122ced58-a8c1-4fe6-bffe-005633a6cb8e",
+      "sub_steps": []
+    },
+    {
+      "id": "619230bb-b12a-437e-b635-c5df338c00d2",
+      "name": "Click on button follow",
+      "action_id": "882c7320-a8d6-47cb-9392-c4075b12709f",
+      "timestamp": 1773042895655,
+      "target_name": "button_follow",
+      "target_test_object_id": "122ced58-a8c1-4fe6-bffe-005633a6cb8e",
+      "sub_steps": []
+    },
+    {
+      "id": "cc5ae7da-7e4c-4685-b21a-c1305f28cc66",
+      "name": "Click on section enrichedSkills2",
+      "action_id": "bc911f86-bccd-4d92-ba36-2196fc564c99",
+      "timestamp": 1773042900019,
+      "target_name": "section_enrichedSkills2",
+      "target_test_object_id": "e44cd952-61a9-4035-96ce-ffc371cbf262",
+      "sub_steps": []
+    },
+    {
+      "id": "5fa19a7d-2ee5-4192-8d2c-ab6cb9d58282",
+      "name": "Click on link object -> Navigate to page '/topic/autocad'",
+      "action_id": "4a1b242f-402a-4f40-b6d6-e1fb0583b496",
+      "timestamp": 1773042903623,
+      "target_name": "link_object",
+      "target_test_object_id": "21da2194-b973-452f-b5ad-29acf8778f7b",
+      "sub_steps": []
+    },
+    {
+      "id": "01fe41c5-bf99-4955-bbbe-a75ac2a54b74",
+      "name": "Click on link udemyLogo -> Navigate to page '/'",
+      "action_id": "c84ceaeb-074f-42d1-ab68-ffeebb68203a",
+      "timestamp": 1773042914905,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "23f719db-15d0-41df-8cfc-35c93975f0a2",
+      "sub_steps": []
+    },
+    {
+      "id": "1e42e86e-655c-4143-acf6-c65aacdd6203",
+      "name": "Click on div placeholder -> Navigate to page ''",
+      "action_id": "184895b4-b57b-4fb4-8595-8d8cf4dc6c7e",
+      "timestamp": 1773042918405,
+      "target_name": "div_placeholder",
+      "target_test_object_id": "84658c4f-6bb6-4221-aae0-334508f86ead",
+      "sub_steps": []
+    },
+    {
+      "id": "71e26548-e8fa-4ea1-bd76-bdebc3d19e30",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

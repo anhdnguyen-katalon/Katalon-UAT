@@ -1,90 +1,24 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-1,Create New Customer and Navigate through Business Type Selection,"Navigate to the SSO page and create a new customer. Select various customer and business types, input personal information, and verify navigation back to the home page.","Step 1: Navigate to /oneshield/sso with params (osst)
-Step 2: Click on div transactionInfo
-Step 3: Click on div navigationMenu
-Step 4: Click on link closeMessage
-Step 5: Click on link newQuote
-Step 6: Click on link directBusiness
-Step 7: Click on link newCustomer
-Step 8: Click on div object
-Step 9: Click on div object
-Step 10: Click on div riskAddressDetails
-Step 11: Click on input customerType
-Step 12: Click on input customerType
-Step 13: Enter input value in input customerType2
-Step 14: Click on input customerType2
-Step 15: Click on div usernameTrigger
-Step 16: Click on div addNewCustomer
-Step 17: Click on input customerType2
-Step 18: Click on div usernameTrigger
-Step 19: Click on div businessTypeTrigger
-Step 20: Click on input customerType3
-Step 21: Click on div addNewCustomerTitle
-Step 22: Click on input customerType3
-Step 23: Click on input customerType3
-Step 24: Click on div businessTypeTrigger
-Step 25: Click on input customerType3
-Step 26: Click on div businessTypeTrigger
-Step 27: Click on div businessTypeTrigger
-Step 28: Click on div businessTypeTrigger
-Step 29: Click on div businessTypeTrigger
-Step 30: Click on div businessTypeTrigger
-Step 31: Click on div businessTypeTrigger
-Step 32: Click on div businessTypeTrigger
-Step 33: Click on input customerType3
-Step 34: Click on input customerType3
-Step 35: Click on input customerType3
-Step 36: Click on input customerType3
-Step 37: Click on input customerType3
-Step 38: Click on input customerType3
-Step 39: Click on label customerType
-Step 40: Click on input customerType3
-Step 41: Click on div addNewCustomerHeader
-Step 42: Click on input customerType3
-Step 43: Click on input customerType3
-Step 44: Click on input customerType3
-Step 45: Click on input customerType3
-Step 46: Click on div businessTypeTrigger2
-Step 47: Click on div riskAddressDetails
-Step 48: Click on div businessTypeTrigger
-Step 49: Click on input customerType3
-Step 50: Click on input customerType3
-Step 51: Click on div customerTypeSection
-Step 52: Click on div businessTypeTrigger
-Step 53: Click on div businessTypeTrigger
-Step 54: Click on td object
-Step 55: Click on div businessTypeTrigger
-Step 56: Click on item accountTypes (businessOption)
-Step 57: Click on div customerTypeTrigger
-Step 58: Click on item accountTypes (corporationOption)
-Step 59: Click on div customerTypeTrigger
-Step 60: Click on item other
-Step 61: Click on input businessType
-Step 62: Enter input value in input businessType
-Step 63: Click on div riskDetails
-Step 64: Click on input customerType4
-Step 65: Enter input value in input customerType3
-Step 66: Press key Enter on input customerType3
-Step 67: Click on div riskAddressDetailsHeader
-Step 68: Click on input email
-Step 69: Click on input personalInformation (firstName)
-Step 70: Enter input value in input personalInformation (firstNameRequired)
-Step 71: Click on td object
-Step 72: Click on input personalInformation (lastName)
-Step 73: Enter input value in input personalInformation (lastName2)
-Step 74: Click on input customerType4
-Step 75: Click on td object2
-Step 76: Click on input customerType4
-Step 77: Click on item select
-Step 78: Click on input customerType3
-Step 79: Click on div businessTypeTrigger2
-Step 80: Click on item accountTypes (individualOption)
-Step 81: Click on div businessTypeTrigger3
-Step 82: Click on item accountTypes (addressOption)
-Step 83: Click on div riskAddressDetails
-Step 84: Click on label registration
-Step 85: Click on input personalInformation (postalCode)
-Step 86: Click on div backNext
-Step 87: Click on link back -> Navigate to page ''
-Step 88: Take full page screenshot as checkpoint
-",High,NEW
+2,Explore Enriched Skills and Follow Topics on Learning Platform,"Navigate to the home page, explore enriched skills, and follow multiple topics. Verify navigation and interactions with various sections and links.","Step 1: Navigate to /
+Step 2: Click on section enrichedSkills
+Step 3: Click on div placeholder
+Step 4: Click on div placeholder
+Step 5: Click on div enrichedSkillsDescription
+Step 6: Click on link dataScienceTopic -> Navigate to page '/topic/data-science'
+Step 7: Click on link udemyLogo -> Navigate to page '/'
+Step 8: Click on div trendingSkills
+Step 9: Click on div businessIntelligence
+Step 10: Click on link udemyLogo
+Step 11: Click on button follow
+Step 12: Click on button follow
+Step 13: Click on button follow
+Step 14: Click on button follow
+Step 15: Click on button follow
+Step 16: Click on button follow
+Step 17: Click on button follow
+Step 18: Click on section enrichedSkills2
+Step 19: Click on link object -> Navigate to page '/topic/autocad'
+Step 20: Click on link udemyLogo -> Navigate to page '/'
+Step 21: Click on div placeholder -> Navigate to page ''
+Step 22: Take full page screenshot as checkpoint
+",Trivial,NEW
