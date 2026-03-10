@@ -1,24 +1,35 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-1,Navigate and Explore Top Stories on Home Page,"Navigate to the home page and explore various sections including top stories, health, and latest items. Verify the home page after multiple interactions.","Step 1: Navigate to /
-Step 2: Click on section topStories (topStory)
-Step 3: Click on section topStories (topStory)
-Step 4: Click on link logo
-Step 5: Click on link itemBoTruong
-Step 6: Click on header topHeader
-Step 7: Click on section topStories (boTruong)
-Step 8: Click on link itemLoatMay
-Step 9: Click on link itemDanQuan
-Step 10: Click on link itemSucKhoe
-Step 11: Click on link scrollToTop
-Step 12: Click on link scrollToTop
-Step 13: Click on html object
-Step 14: Click on link scrollToTop2
-Step 15: Click on link itemMoiNhat
-Step 16: Click on link logo2
-Step 17: Click on section topStories (topStory2)
-Step 18: Click on section streamHome
-Step 19: Click on body darkTheme
-Step 20: Click on section photo
-Step 21: Click on section photo -> Navigate to page ''
-Step 22: Take full page screenshot as checkpoint
-",High,NEW
+4,Navigate and Explore Topics on Udemy Platform,"Navigate through the Udemy homepage, explore various topics, and interact with different sections. Verify the navigation and return to the homepage.","Step 1: Navigate to /
+Step 2: Click on div fullViewport
+Step 3: Click on div lohpBody
+Step 4: Click on div fullViewport
+Step 5: Click on link timHieuThem -> Navigate to page '/personal-plan'
+Step 6: Click on link udemyLogo -> Navigate to page '/'
+Step 7: Click on link hocAi -> Navigate to page '/topic/artificial-intelligence'
+Step 8: Click on link udemyLogo -> Navigate to page '/'
+Step 9: Click on button explore
+Step 10: Click on link udemyLogo
+Step 11: Click on button tiepTheo
+Step 12: Click on div fullViewport
+Step 13: Click on button truoc
+Step 14: Click on section enrichedSkills
+Step 15: Click on div icon -> Navigate to page '/topic/generative-ai'
+Step 16: Click on link udemyLogo -> Navigate to page '/'
+Step 17: Click on button tiepTheo2
+Step 18: Click on button tiepTheo2
+Step 19: Click on button tiepTheo2
+Step 20: Click on button truoc2
+Step 21: Click on button truoc2
+Step 22: Click on button tiepTheo2
+Step 23: Click on button tiepTheo2
+Step 24: Click on link udemyLogo
+Step 25: Click on link udemyLogo
+Step 26: Click on button tiepTheo
+Step 27: Click on button tiepTheo
+Step 28: Click on button tiepTheo
+Step 29: Click on button tiepTheo
+Step 30: Click on button tiepTheo
+Step 31: Click on button tiepTheo
+Step 32: Click on div fullViewport -> Navigate to page ''
+Step 33: Take full page screenshot as checkpoint
+",Trivial,NEW

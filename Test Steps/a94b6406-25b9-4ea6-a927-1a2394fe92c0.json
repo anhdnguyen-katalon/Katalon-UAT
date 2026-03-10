@@ -1,0 +1,298 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "9ddbf9e5-bd52-4a0c-91bb-44797d8c95e3",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "e8f5f555-2d19-44d0-bac5-6d5b78107fb5",
+      "name": "Click on div fullViewport",
+      "action_id": "1a350643-0b85-4a1d-a39c-3832d06cdc3f",
+      "timestamp": 1773122686692,
+      "target_name": "div_fullViewport",
+      "target_test_object_id": "f1a0562c-05a6-4ab6-9aac-dc042dacd1f8",
+      "sub_steps": []
+    },
+    {
+      "id": "7bd49488-3c1e-401d-80e2-0f54e69e92e6",
+      "name": "Click on div lohpBody",
+      "action_id": "34d91365-1689-47aa-ae2e-e181fccf3256",
+      "timestamp": 1773122694615,
+      "target_name": "div_lohpBody",
+      "target_test_object_id": "5b1706aa-4307-4c25-8f6d-fb9d182aea5c",
+      "sub_steps": []
+    },
+    {
+      "id": "f17819e4-535e-4450-b29e-13e2e73a9f74",
+      "name": "Click on div fullViewport",
+      "action_id": "3e66853d-f485-465a-8b0d-4d62f8e88fc1",
+      "timestamp": 1773122724284,
+      "target_name": "div_fullViewport",
+      "target_test_object_id": "f1a0562c-05a6-4ab6-9aac-dc042dacd1f8",
+      "sub_steps": []
+    },
+    {
+      "id": "3500c0b7-2b3a-4451-a848-038520122a05",
+      "name": "Click on link timHieuThem -> Navigate to page '/personal-plan'",
+      "action_id": "c27de7d5-fba9-4d4c-8555-e023733a979d",
+      "timestamp": 1773122734115,
+      "target_name": "link_timHieuThem",
+      "target_test_object_id": "7c0e08bd-a4db-4f73-817d-5d5777ac1264",
+      "sub_steps": []
+    },
+    {
+      "id": "00833ee1-9849-4239-837e-027fce5ac40e",
+      "name": "Click on link udemyLogo -> Navigate to page '/'",
+      "action_id": "0014fe9f-3f19-4ecc-82b6-d20b0708fd04",
+      "timestamp": 1773122746671,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "a8440812-65b1-4202-b3c7-d8892e84fa4c",
+      "sub_steps": []
+    },
+    {
+      "id": "31d0361f-5994-45fe-9832-2672b5387eeb",
+      "name": "Click on link hocAi -> Navigate to page '/topic/artificial-intelligence'",
+      "action_id": "3f52d780-0f9a-4e2c-b3c0-5aed2360b2ba",
+      "timestamp": 1773122753506,
+      "target_name": "link_hocAi",
+      "target_test_object_id": "5a5bbf9c-7006-4d68-9d41-6afc4702e06d",
+      "sub_steps": []
+    },
+    {
+      "id": "5ef741ab-c2ee-4978-ba2f-d80610c93e3d",
+      "name": "Click on link udemyLogo -> Navigate to page '/'",
+      "action_id": "1f17d202-dbd6-4c96-9330-99bcb7883411",
+      "timestamp": 1773122757251,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "eaaf83c3-8875-418c-a422-8a7da50efb40",
+      "sub_steps": []
+    },
+    {
+      "id": "b0aaf383-a1be-4ea2-99e6-397a360a2b48",
+      "name": "Click on button explore",
+      "action_id": "ba90b5fb-a271-455f-a5df-6bc20f6fb281",
+      "timestamp": 1773122759965,
+      "target_name": "button_explore",
+      "target_test_object_id": "9be295a3-7fb1-436b-ac19-440343f8474f",
+      "sub_steps": []
+    },
+    {
+      "id": "88620edb-c141-4d99-b708-39e40bc042ec",
+      "name": "Click on link udemyLogo",
+      "action_id": "e48c0d94-b276-421b-9082-16c606d43f44",
+      "timestamp": 1773122768850,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "0f4d7f93-e263-49d1-b1f7-8057f290889a",
+      "sub_steps": []
+    },
+    {
+      "id": "478b74fb-3851-4825-9c03-fc98f8f8aca2",
+      "name": "Click on button tiepTheo",
+      "action_id": "bdb73f78-7116-4276-8b1c-2e7ad076f0ab",
+      "timestamp": 1773122772585,
+      "target_name": "button_tiepTheo",
+      "target_test_object_id": "54703f69-623a-47b6-b490-00af9ded3bff",
+      "sub_steps": []
+    },
+    {
+      "id": "36e9f9b3-a0ba-4a77-8f8f-701b157df38c",
+      "name": "Click on div fullViewport",
+      "action_id": "77f00ef9-90f7-40d5-ab4d-0110067ed8fb",
+      "timestamp": 1773122774549,
+      "target_name": "div_fullViewport",
+      "target_test_object_id": "f1a0562c-05a6-4ab6-9aac-dc042dacd1f8",
+      "sub_steps": []
+    },
+    {
+      "id": "435595af-85c5-4ca2-8aea-29c6eeb2f91c",
+      "name": "Click on button truoc",
+      "action_id": "8f4af69d-f2f2-4e8d-b2b1-88504fea2bf3",
+      "timestamp": 1773122777332,
+      "target_name": "button_truoc",
+      "target_test_object_id": "b8580428-9fac-4939-870d-7015278a7acd",
+      "sub_steps": []
+    },
+    {
+      "id": "5266f21d-15c3-4d48-8067-aff1fa29de4d",
+      "name": "Click on section enrichedSkills",
+      "action_id": "7c968ef8-a024-406c-9ac6-f20211737747",
+      "timestamp": 1773122787683,
+      "target_name": "section_enrichedSkills",
+      "target_test_object_id": "db8f1367-975d-4a8f-9216-a6818987564d",
+      "sub_steps": []
+    },
+    {
+      "id": "7dd40fce-eaaf-4fc9-bd43-f63bb4726d3a",
+      "name": "Click on div icon -> Navigate to page '/topic/generative-ai'",
+      "action_id": "3fc61b59-4257-4b6c-bebd-d2f606bb66a5",
+      "timestamp": 1773122790932,
+      "target_name": "div_icon",
+      "target_test_object_id": "2209e8c1-78af-4e73-9960-add18e053f8b",
+      "sub_steps": []
+    },
+    {
+      "id": "d3a9dff1-7c28-4909-beb6-5e5efd991fb1",
+      "name": "Click on link udemyLogo -> Navigate to page '/'",
+      "action_id": "20975819-097c-4a3b-920a-fc54694325d0",
+      "timestamp": 1773122793392,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "873fe91e-6686-4967-b63d-f3c2907bec3f",
+      "sub_steps": []
+    },
+    {
+      "id": "fd1defea-d833-4128-ba63-fd1e1e9896fb",
+      "name": "Click on button tiepTheo2",
+      "action_id": "1d7e8c1a-6c55-422c-a0bb-d9323e7bdf1b",
+      "timestamp": 1773122800618,
+      "target_name": "button_tiepTheo2",
+      "target_test_object_id": "ca63d411-9c48-4eaf-821e-20f41b4440f4",
+      "sub_steps": []
+    },
+    {
+      "id": "6c152cd8-58a0-4d4d-a5ca-7c44655034b9",
+      "name": "Click on button tiepTheo2",
+      "action_id": "6d0e83bc-297a-4055-9ef2-16988ade1a11",
+      "timestamp": 1773122801568,
+      "target_name": "button_tiepTheo2",
+      "target_test_object_id": "ca63d411-9c48-4eaf-821e-20f41b4440f4",
+      "sub_steps": []
+    },
+    {
+      "id": "eb1317d4-9eaf-4343-a08b-b47bab9a8097",
+      "name": "Click on button tiepTheo2",
+      "action_id": "9b626a00-5d75-4c6e-b65d-67e0a23823be",
+      "timestamp": 1773122802583,
+      "target_name": "button_tiepTheo2",
+      "target_test_object_id": "ca63d411-9c48-4eaf-821e-20f41b4440f4",
+      "sub_steps": []
+    },
+    {
+      "id": "c9bbf765-0d49-4ef7-8a96-9fe178a62497",
+      "name": "Click on button truoc2",
+      "action_id": "116eba36-bafd-4898-ad9d-53e2f23c5f6a",
+      "timestamp": 1773122806565,
+      "target_name": "button_truoc2",
+      "target_test_object_id": "a9452d06-997d-4e80-891b-52f92e4eddd0",
+      "sub_steps": []
+    },
+    {
+      "id": "6eb2923d-ea79-4491-9ab3-6204e72cfd91",
+      "name": "Click on button truoc2",
+      "action_id": "3cc484e9-26f9-463c-a9e5-60f0576a3101",
+      "timestamp": 1773122808982,
+      "target_name": "button_truoc2",
+      "target_test_object_id": "a9452d06-997d-4e80-891b-52f92e4eddd0",
+      "sub_steps": []
+    },
+    {
+      "id": "52abe9e8-455a-437d-b201-bfdc2b52e9a1",
+      "name": "Click on button tiepTheo2",
+      "action_id": "a2c3bd62-3cd6-4a0a-8c6d-1e40118bfc4b",
+      "timestamp": 1773122812948,
+      "target_name": "button_tiepTheo2",
+      "target_test_object_id": "ca63d411-9c48-4eaf-821e-20f41b4440f4",
+      "sub_steps": []
+    },
+    {
+      "id": "d80b9ced-60bb-46da-8f3d-28c43f486bcd",
+      "name": "Click on button tiepTheo2",
+      "action_id": "5171fe77-9419-4655-9c40-fa3d56ea6ebb",
+      "timestamp": 1773122815065,
+      "target_name": "button_tiepTheo2",
+      "target_test_object_id": "ca63d411-9c48-4eaf-821e-20f41b4440f4",
+      "sub_steps": []
+    },
+    {
+      "id": "36ae5dd3-ad15-4fbc-b8ce-1a5b3a584cfe",
+      "name": "Click on link udemyLogo",
+      "action_id": "5eddcad1-aa00-4dd3-aa92-53019d227fca",
+      "timestamp": 1773122818498,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "0f4d7f93-e263-49d1-b1f7-8057f290889a",
+      "sub_steps": []
+    },
+    {
+      "id": "9b9ccf8d-786f-4435-b3f7-088a5b2d910d",
+      "name": "Click on link udemyLogo",
+      "action_id": "5ef3cb43-fd93-427d-8991-c2f2a5a8794f",
+      "timestamp": 1773122824302,
+      "target_name": "link_udemyLogo",
+      "target_test_object_id": "0f4d7f93-e263-49d1-b1f7-8057f290889a",
+      "sub_steps": []
+    },
+    {
+      "id": "fb890ef6-17a7-4ed4-be8d-1e309ec6bd73",
+      "name": "Click on button tiepTheo",
+      "action_id": "2878b3c7-8d2a-4e6e-87b6-aefce0524e02",
+      "timestamp": 1773122830661,
+      "target_name": "button_tiepTheo",
+      "target_test_object_id": "54703f69-623a-47b6-b490-00af9ded3bff",
+      "sub_steps": []
+    },
+    {
+      "id": "3b0fbe2a-8553-44b6-a7ab-a6cc59932f15",
+      "name": "Click on button tiepTheo",
+      "action_id": "b4c13261-3ce8-4d1d-a6a5-1598accc911f",
+      "timestamp": 1773122831299,
+      "target_name": "button_tiepTheo",
+      "target_test_object_id": "54703f69-623a-47b6-b490-00af9ded3bff",
+      "sub_steps": []
+    },
+    {
+      "id": "19e340d6-2ef5-4ce7-bd38-7d8b01d556c8",
+      "name": "Click on button tiepTheo",
+      "action_id": "eb842ccf-e9a3-44a2-84ed-72f02aa1d473",
+      "timestamp": 1773122831865,
+      "target_name": "button_tiepTheo",
+      "target_test_object_id": "54703f69-623a-47b6-b490-00af9ded3bff",
+      "sub_steps": []
+    },
+    {
+      "id": "610430ad-0b01-4579-bbc9-404a9a4bd802",
+      "name": "Click on button tiepTheo",
+      "action_id": "ec69a52e-0696-4db4-bef5-438ae728faed",
+      "timestamp": 1773122832418,
+      "target_name": "button_tiepTheo",
+      "target_test_object_id": "54703f69-623a-47b6-b490-00af9ded3bff",
+      "sub_steps": []
+    },
+    {
+      "id": "40cd61d4-eeaa-4708-b0b9-b7da08288700",
+      "name": "Click on button tiepTheo",
+      "action_id": "30f89c2e-8eda-4dfd-bee2-0e796c09628e",
+      "timestamp": 1773122833165,
+      "target_name": "button_tiepTheo",
+      "target_test_object_id": "54703f69-623a-47b6-b490-00af9ded3bff",
+      "sub_steps": []
+    },
+    {
+      "id": "57acd111-90ae-4a79-9fd7-a40026e498da",
+      "name": "Click on button tiepTheo",
+      "action_id": "b0237b15-acc0-4f38-81c8-8491d4c8ea01",
+      "timestamp": 1773122834167,
+      "target_name": "button_tiepTheo",
+      "target_test_object_id": "54703f69-623a-47b6-b490-00af9ded3bff",
+      "sub_steps": []
+    },
+    {
+      "id": "13d33e3a-cc41-4159-a03e-2e5af068b9b7",
+      "name": "Click on div fullViewport -> Navigate to page ''",
+      "action_id": "8a582bad-4584-4f17-87e1-e19749538155",
+      "timestamp": 1773122834968,
+      "target_name": "div_fullViewport",
+      "target_test_object_id": "f1a0562c-05a6-4ab6-9aac-dc042dacd1f8",
+      "sub_steps": []
+    },
+    {
+      "id": "dadcbca1-9745-43da-83f3-e463c9e0cd32",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
