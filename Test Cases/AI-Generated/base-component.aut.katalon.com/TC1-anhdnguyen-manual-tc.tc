@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1-anhdnguyen-manual-tc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b77c9d94-dc6c-413e-9cf8-d74917596be8</testCaseGuid>
+   <customField>
+      <flow>
+         <id>01c6d7c1-2457-4871-9acc-c08cbf9d8777</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session", "assignee": "anh.dnguyen@katalon.com", "linkedTestCaseIds": [519738]}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

@@ -1,0 +1,64 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "3e372584-4702-40e0-972f-36c9e1ecf5a3",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "ecffb715-0bc1-4884-b326-86ebc9d1096c",
+      "name": "Click on div basic",
+      "action_id": "f108b8b8-e468-4516-8674-b623433eef01",
+      "timestamp": 1773807626031,
+      "target_name": "div_basic",
+      "target_test_object_id": "5161e49b-cc0b-40a8-840f-28ecd1c5540d",
+      "sub_steps": []
+    },
+    {
+      "id": "1e5bd205-2756-446d-8210-6e83c368185e",
+      "name": "Click on div basic",
+      "action_id": "8b0d6fd8-afdf-459c-bdca-1d647e8e2665",
+      "timestamp": 1773807626848,
+      "target_name": "div_basic",
+      "target_test_object_id": "5161e49b-cc0b-40a8-840f-28ecd1c5540d",
+      "sub_steps": []
+    },
+    {
+      "id": "ea87e725-f4bd-472a-898e-e15f4e327c77",
+      "name": "Click on header advanced",
+      "action_id": "15857974-4f20-44e7-9f67-bae10d0ca3a6",
+      "timestamp": 1773807638835,
+      "target_name": "header_advanced",
+      "target_test_object_id": "33110bae-0896-44dc-9159-f68abe06711d",
+      "sub_steps": []
+    },
+    {
+      "id": "3513104a-ef12-44ea-83be-711e7155aa16",
+      "name": "Click on list nativeHtmlElements",
+      "action_id": "ef562314-c423-466f-a5ff-a09642d20ea0",
+      "timestamp": 1773807639384,
+      "target_name": "list_nativeHtmlElements",
+      "target_test_object_id": "705117e0-fc59-4820-88b1-6aafd618f90e",
+      "sub_steps": []
+    },
+    {
+      "id": "ebc24912-206e-4153-8601-b6a53939d01f",
+      "name": "Click on link tables -> Navigate to page ''",
+      "action_id": "106cf38c-84fa-46c4-b0c9-23b6dba84d23",
+      "timestamp": 1773807639676,
+      "target_name": "link_tables",
+      "target_test_object_id": "cc74dc57-13f2-40c5-bd60-4c075813948a",
+      "sub_steps": []
+    },
+    {
+      "id": "6e956568-78c2-44eb-880d-85b61a0b9149",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
