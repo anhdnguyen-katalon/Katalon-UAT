@@ -1,0 +1,208 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "9f40d48b-8d83-4173-aa87-ff35ee263f2f",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "cd97c48c-2647-4ff6-89b6-2dbbd91b92eb",
+      "name": "Click on div realWorldOutcomes",
+      "action_id": "f873cb33-6574-4823-840d-c591e57a27d2",
+      "timestamp": 1774263397800,
+      "target_name": "div_realWorldOutcomes",
+      "target_test_object_id": "c7a0e095-8652-41fc-9fd0-65d18495ce3a",
+      "sub_steps": []
+    },
+    {
+      "id": "13583eba-1593-4392-ad97-b124ffd12b91",
+      "name": "Click on div homePageIntroduction",
+      "action_id": "fa691969-5e10-41b2-abdd-1569fdae93af",
+      "timestamp": 1774263407822,
+      "target_name": "div_homePageIntroduction",
+      "target_test_object_id": "cde2c639-7083-467c-a4a2-5f2714654e96",
+      "sub_steps": []
+    },
+    {
+      "id": "2dabc92d-98f5-4430-bcb2-eae1166e27ef",
+      "name": "Click on link projects",
+      "action_id": "51a32909-5b37-4410-b37b-f1f391ea4945",
+      "timestamp": 1774263408313,
+      "target_name": "link_projects",
+      "target_test_object_id": "92ed717d-e170-4e64-8558-a0c1bac6001e",
+      "sub_steps": []
+    },
+    {
+      "id": "50aba59a-b2b1-407e-b551-6208d8401941",
+      "name": "Click on link home",
+      "action_id": "775374f5-cc15-4f54-833c-8a9979c3b8cb",
+      "timestamp": 1774263423200,
+      "target_name": "link_home",
+      "target_test_object_id": "977698d3-c5e4-4489-94b1-765dd09b0c9d",
+      "sub_steps": []
+    },
+    {
+      "id": "cb73ec19-c8e4-4118-8ad5-a68be3864adb",
+      "name": "Click on link caseStudies -> Navigate to page '/case-studies'",
+      "action_id": "bd029b7f-91ab-4f75-a204-0f35f7b692a6",
+      "timestamp": 1774263430739,
+      "target_name": "link_caseStudies",
+      "target_test_object_id": "98125c80-9b27-49e8-a724-abfd38fbd811",
+      "sub_steps": []
+    },
+    {
+      "id": "354ae0ec-b15f-4164-995e-be9badeb2323",
+      "name": "Click on link caseStudy -> Navigate to page '/'",
+      "action_id": "890ae582-313d-4a28-aba0-b5104f4294ca",
+      "timestamp": 1774263433239,
+      "target_name": "link_caseStudy",
+      "target_test_object_id": "2fbb5687-426a-4297-ab5c-eb2779151368",
+      "sub_steps": []
+    },
+    {
+      "id": "dff43df0-490c-43e1-babd-37febdf2e76b",
+      "name": "Click on link aboutPage -> Navigate to page '/about'",
+      "action_id": "eb127a93-b8ba-403e-b3d2-4743c163877d",
+      "timestamp": 1774263438739,
+      "target_name": "link_aboutPage",
+      "target_test_object_id": "2ec60cbf-6e7f-47ee-b15d-f7e87d93156f",
+      "sub_steps": []
+    },
+    {
+      "id": "7e81a702-f25e-43fe-9cea-7477ef7937f5",
+      "name": "Click on div logoWrap",
+      "action_id": "7531bfe9-c0a2-49be-bc32-e364c23ce011",
+      "timestamp": 1774263446620,
+      "target_name": "div_logoWrap",
+      "target_test_object_id": "dad66a40-e7af-4177-a754-aa78e1286d3a",
+      "sub_steps": []
+    },
+    {
+      "id": "ab8b0a26-053d-4f50-ab72-99e2fce9fcb3",
+      "name": "Click on link about -> Navigate to page '/'",
+      "action_id": "6822f9a3-4a7a-4f77-9244-81e0d019df11",
+      "timestamp": 1774263447122,
+      "target_name": "link_about",
+      "target_test_object_id": "44569247-5be0-4575-bd84-6491d0287412",
+      "sub_steps": []
+    },
+    {
+      "id": "9d28ef77-5f9e-4cd8-8307-58a64d272b64",
+      "name": "Click on div homePageIntroduction",
+      "action_id": "7e1eddfe-aad6-44a8-84c1-6483193e9b09",
+      "timestamp": 1774263451936,
+      "target_name": "div_homePageIntroduction",
+      "target_test_object_id": "cde2c639-7083-467c-a4a2-5f2714654e96",
+      "sub_steps": []
+    },
+    {
+      "id": "cd21cb8a-828d-4b84-a5f9-15dd8d9bc970",
+      "name": "Click on div homePageIntroduction",
+      "action_id": "b42b8769-dae3-4500-8174-e79d0e719110",
+      "timestamp": 1774263453555,
+      "target_name": "div_homePageIntroduction",
+      "target_test_object_id": "cde2c639-7083-467c-a4a2-5f2714654e96",
+      "sub_steps": []
+    },
+    {
+      "id": "ddd3f006-b54b-4c3e-aa27-8c0840d2a3d9",
+      "name": "Click on header pushHigherQualitySoftware",
+      "action_id": "1ad5e888-7571-47aa-a2d0-6a303af4f382",
+      "timestamp": 1774263454197,
+      "target_name": "header_pushHigherQualitySoftware",
+      "target_test_object_id": "e5cd783d-4720-42a5-bf35-926409e611c8",
+      "sub_steps": []
+    },
+    {
+      "id": "ce6da228-5e3a-4be2-8e90-67becf43678e",
+      "name": "Click on div testStrategyConsultation",
+      "action_id": "af649f1f-0cc9-47c0-80d7-f329fe540be8",
+      "timestamp": 1774263455888,
+      "target_name": "div_testStrategyConsultation",
+      "target_test_object_id": "b4c02683-369a-44cd-9509-2545f604d75b",
+      "sub_steps": []
+    },
+    {
+      "id": "307beb46-011f-4be4-9cd5-e016ea76d269",
+      "name": "Click on image testing -> Navigate to page '/consulting'",
+      "action_id": "5f827b17-ecf7-4b2b-a182-d6c41edc4ec8",
+      "timestamp": 1774263459180,
+      "target_name": "image_testing",
+      "target_test_object_id": "345849ff-89e9-460a-bb63-8b53e4a95c6d",
+      "sub_steps": []
+    },
+    {
+      "id": "50898e2b-044a-416d-b3a5-56b4c620ba86",
+      "name": "Click on div automatedTesting",
+      "action_id": "f676fbf8-52d1-47e5-850f-11f05a73475b",
+      "timestamp": 1774263469401,
+      "target_name": "div_automatedTesting",
+      "target_test_object_id": "e6415115-60ee-4b6f-8c45-de36e60b260d",
+      "sub_steps": []
+    },
+    {
+      "id": "1b4dd974-432d-421f-b07d-b5c8b338ea8b",
+      "name": "Click on div consultingResults",
+      "action_id": "1dbf881c-0d31-41bf-81a8-a3054279dfb9",
+      "timestamp": 1774263470934,
+      "target_name": "div_consultingResults",
+      "target_test_object_id": "ffe72c93-38a0-43d0-a5d1-076e9558dba2",
+      "sub_steps": []
+    },
+    {
+      "id": "fdde2af1-b075-4d03-9b92-42cb3c27fefc",
+      "name": "Click on div consultingHighlights (clientFeedback)",
+      "action_id": "b28e1ad9-3d0e-4a9c-ab25-1caecb1e1ddd",
+      "timestamp": 1774263471718,
+      "target_name": "div_consultingHighlights",
+      "target_test_object_id": "ad016318-e69f-42a8-90e2-3ae6db772f17",
+      "sub_steps": []
+    },
+    {
+      "id": "b3983e46-3e21-4629-b8cc-40863429e1ac",
+      "name": "Click on div npsScore",
+      "action_id": "98c57f4e-bc9a-46be-84ce-dde4968d9e90",
+      "timestamp": 1774263472384,
+      "target_name": "div_npsScore",
+      "target_test_object_id": "36899d68-69a5-45e4-aa3f-eed050b7c49b",
+      "sub_steps": []
+    },
+    {
+      "id": "100315e6-61ec-4b41-aaa0-dc0186decd0e",
+      "name": "Click on div consultingHighlights (pushHigherQualitySoftware)",
+      "action_id": "909ee154-9275-4b94-8b3f-5489a145c095",
+      "timestamp": 1774263473492,
+      "target_name": "div_consultingHighlights",
+      "target_test_object_id": "316dff62-614e-4d81-a581-5a8eb7e24901",
+      "sub_steps": []
+    },
+    {
+      "id": "b23eeef4-be4f-476e-b98a-ca93faf733d0",
+      "name": "Click on div consultingResults",
+      "action_id": "8d65ac42-433a-412f-8d61-24815b2670b6",
+      "timestamp": 1774263474492,
+      "target_name": "div_consultingResults",
+      "target_test_object_id": "ffe72c93-38a0-43d0-a5d1-076e9558dba2",
+      "sub_steps": []
+    },
+    {
+      "id": "54f5967a-57ea-419f-be90-87838af4d616",
+      "name": "Click on div professionalServices -> Navigate to page ''",
+      "action_id": "6bb29d60-2a66-43a8-b074-a58a7f64cebb",
+      "timestamp": 1774263476067,
+      "target_name": "div_professionalServices",
+      "target_test_object_id": "c55ce1a7-d966-4949-8898-08cb19d7092a",
+      "sub_steps": []
+    },
+    {
+      "id": "3fc20135-04c7-4041-a043-57638bd6cfee",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

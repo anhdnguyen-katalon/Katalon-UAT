@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate through the home page, explore various sections including outcomes, projects, case studies, and consulting services. Verify the home page at the end.</description>
+   <name>TC1-Explore Home Page and Navigate to Consulting Services</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c589f655-ef18-4ca0-bcae-c02f91faa4eb</testCaseGuid>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description>Step 18: Click on div consultingHighlights (clientFeedback) - (Dynamic locator variable)</description>
+      <id>c14c8e04-101f-4d6f-87bc-0a4f8bc957d8</id>
+      <masked>false</masked>
+      <name>div_consultingHighlights_EtBuilderInnerContentDivNthChild</name>
+   </variable>
+   <variable>
+      <defaultValue>'6'</defaultValue>
+      <description>Step 20: Click on div consultingHighlights (pushHigherQualitySoftware) - (Dynamic locator variable)</description>
+      <id>8b04610c-c0c3-496a-aa39-49bbd51334af</id>
+      <masked>false</masked>
+      <name>div_consultingHighlights_EtBuilderInnerContentDivNthChild_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"et_pb_section\\\\ et_pb_section_4\\\\ et_section_regular\\"]'</defaultValue>
+      <description>Step 18: Click on div consultingHighlights (clientFeedback) - (Dynamic locator variable)</description>
+      <id>cfde0d77-57b8-4999-954a-0554f4af16c6</id>
+      <masked>false</masked>
+      <name>div_consultingHighlights_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"et_pb_section\\\\ et_pb_section_5\\\\ et_pb_with_background\\\\ et_section_regular\\"]'</defaultValue>
+      <description>Step 20: Click on div consultingHighlights (pushHigherQualitySoftware) - (Dynamic locator variable)</description>
+      <id>f4a7d8d3-31f2-40b5-add4-28a15e74da7f</id>
+      <masked>false</masked>
+      <name>div_consultingHighlights_css_value_1</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>d2813a03-3176-4833-b356-82a84fce7a50</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>
