@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to case studies and thought leadership sections. Interact with various links and verify that the home page loads correctly after multiple interactions.</description>
+   <name>TC3-Access Case Studies and Verify Home Page Navigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e73e9a63-0a79-4e11-b515-b13bfca5e201</testCaseGuid>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description>Step 15: Click on span serviceType (webMobileApiAutomation) - (Dynamic locator variable)</description>
+      <id>78bc714e-1629-410b-89db-7448c3e1e77d</id>
+      <masked>false</masked>
+      <name>span_serviceType_DivNthChild</name>
+   </variable>
+   <variable>
+      <defaultValue>'6'</defaultValue>
+      <description>Step 16: Click on span serviceType (webDevelopment) - (Dynamic locator variable)</description>
+      <id>86d49dd0-47ad-4dc2-93db-8853c7ca3847</id>
+      <masked>false</masked>
+      <name>span_serviceType_DivNthChild_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"et_pb_with_border\\\\ et_pb_module\\\\ et_pb_blurb\\\\ et_pb_blurb_4\\\\ \\\\ et_pb_text_align_center\\\\ \\\\ et_pb_blurb_position_top\\\\ et_pb_bg_layout_light\\"] [class=\\"et_pb_module_header\\"] &gt; span'</defaultValue>
+      <description>Step 15: Click on span serviceType (webMobileApiAutomation) - (Dynamic locator variable)</description>
+      <id>775501e9-2178-4831-94b0-12b8198318a4</id>
+      <masked>false</masked>
+      <name>span_serviceType_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"et_pb_with_border\\\\ et_pb_module\\\\ et_pb_blurb\\\\ et_pb_blurb_5\\\\ \\\\ et_pb_text_align_center\\\\ \\\\ et_pb_blurb_position_top\\\\ et_pb_bg_layout_light\\"] [class=\\"et_pb_module_header\\"] &gt; span'</defaultValue>
+      <description>Step 16: Click on span serviceType (webDevelopment) - (Dynamic locator variable)</description>
+      <id>f3cee035-a1ad-459e-b3fa-fa9632f54126</id>
+      <masked>false</masked>
+      <name>span_serviceType_css_value_1</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>83955084-344f-4194-bfa2-469cc1ca23bd</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

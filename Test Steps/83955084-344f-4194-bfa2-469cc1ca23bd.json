@@ -1,0 +1,172 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "94158b25-88dd-4e54-9709-5e4749a5b757",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "4b356743-1a01-469d-aef0-cd9eacdeb434",
+      "name": "Click on div thoughtLeadership",
+      "action_id": "eece7249-2c3c-458a-b436-3c898e1bddaf",
+      "timestamp": 1774317753671,
+      "target_name": "div_thoughtLeadership",
+      "target_test_object_id": "36eb4dfd-e3a8-48df-9d88-7a3ed129060e",
+      "sub_steps": []
+    },
+    {
+      "id": "a5a7956c-7d78-4835-ba89-64163b09fc23",
+      "name": "Click on link caseStudies -> Navigate to page '/case-studies'",
+      "action_id": "599d4220-4e35-4e54-80cd-86dde84b1663",
+      "timestamp": 1774317760555,
+      "target_name": "link_caseStudies",
+      "target_test_object_id": "98125c80-9b27-49e8-a724-abfd38fbd811",
+      "sub_steps": []
+    },
+    {
+      "id": "deee4d82-3514-44b4-bdd0-44a4c121a967",
+      "name": "Click on div caseStudies",
+      "action_id": "df3d276d-852f-4937-bea8-61ed1f5ca68c",
+      "timestamp": 1774317762316,
+      "target_name": "div_caseStudies",
+      "target_test_object_id": "ad3da805-3f0b-41ec-8b11-16d1d905666b",
+      "sub_steps": []
+    },
+    {
+      "id": "8d7f73cc-8352-4c30-93b4-43caa4094b14",
+      "name": "Click on link caseStudy -> Navigate to page '/'",
+      "action_id": "043395d6-c383-446a-901f-26a2d129d941",
+      "timestamp": 1774317764471,
+      "target_name": "link_caseStudy",
+      "target_test_object_id": "2fbb5687-426a-4297-ab5c-eb2779151368",
+      "sub_steps": []
+    },
+    {
+      "id": "e3c2e858-0de6-4585-a177-f49681ab45c4",
+      "name": "Click on link newsletter",
+      "action_id": "7a38d5ab-b26c-4245-b66f-5cc77f107247",
+      "timestamp": 1774317765921,
+      "target_name": "link_newsletter",
+      "target_test_object_id": "8893c1fd-6131-440a-8460-c22890e6c1e2",
+      "sub_steps": []
+    },
+    {
+      "id": "73dc7125-fdb1-4f6b-8958-6ce25d3b51b0",
+      "name": "Click on div homePageIntroduction",
+      "action_id": "a2e25c15-45f2-42f1-8161-5dc5abfd1dfa",
+      "timestamp": 1774317776850,
+      "target_name": "div_homePageIntroduction",
+      "target_test_object_id": "cde2c639-7083-467c-a4a2-5f2714654e96",
+      "sub_steps": []
+    },
+    {
+      "id": "c2ad1216-b587-4458-a383-b27b19327bab",
+      "name": "Click on link caseStudies -> Navigate to page '/case-studies'",
+      "action_id": "7fd0ddfa-cc2f-4bda-8ebd-e2f180ce20b9",
+      "timestamp": 1774317793450,
+      "target_name": "link_caseStudies",
+      "target_test_object_id": "98125c80-9b27-49e8-a724-abfd38fbd811",
+      "sub_steps": []
+    },
+    {
+      "id": "4b047c6f-91e8-4139-b13c-a546b0538b3d",
+      "name": "Click on div caseStudies",
+      "action_id": "b39d85e6-45a4-4357-819d-80aa66f7f94d",
+      "timestamp": 1774317798592,
+      "target_name": "div_caseStudies",
+      "target_test_object_id": "ad3da805-3f0b-41ec-8b11-16d1d905666b",
+      "sub_steps": []
+    },
+    {
+      "id": "7708b96a-db40-4ce4-baf6-faf982ea0c44",
+      "name": "Click on link caseStudy2 -> Navigate to page '/'",
+      "action_id": "7af93a8d-c334-41af-86d0-c111768b4e67",
+      "timestamp": 1774317799691,
+      "target_name": "link_caseStudy2",
+      "target_test_object_id": "8b62a37c-e037-41df-8305-0ba5d70f4c92",
+      "sub_steps": []
+    },
+    {
+      "id": "ffc937f5-e0d0-40f0-9b08-d9f7ccc6d8b5",
+      "name": "Click on link seeFullStory -> Navigate to page '/daily-time-savings'",
+      "action_id": "2c3927fe-7879-47d3-9586-afbe8ced1a96",
+      "timestamp": 1774317806630,
+      "target_name": "link_seeFullStory",
+      "target_test_object_id": "7c0dad5d-e810-415a-9783-95605c83589c",
+      "sub_steps": []
+    },
+    {
+      "id": "b7ab6424-a3cf-45a7-94d9-3eba21b93bd5",
+      "name": "Click on link dailyTimeSavings -> Navigate to page '/consulting'",
+      "action_id": "88db65cd-0a77-438b-9e12-0cf621ffcc39",
+      "timestamp": 1774317809042,
+      "target_name": "link_dailyTimeSavings",
+      "target_test_object_id": "cfbf9358-c0d2-48b3-8a55-c4fb34d3d23f",
+      "sub_steps": []
+    },
+    {
+      "id": "401e548c-eea8-454a-9b50-50fa4a08c81f",
+      "name": "Click on div bestTestAutomationSolutions",
+      "action_id": "f1007529-a60b-47e6-be29-c1d7c8d961c5",
+      "timestamp": 1774317826650,
+      "target_name": "div_bestTestAutomationSolutions",
+      "target_test_object_id": "adad17e1-3347-4b05-86e1-325afe0f90f5",
+      "sub_steps": []
+    },
+    {
+      "id": "182da246-c7a7-46ae-abc7-74fd31569db8",
+      "name": "Click on div consultingContent",
+      "action_id": "7d31ec9b-f480-425b-a69c-990c334ba3de",
+      "timestamp": 1774317828183,
+      "target_name": "div_consultingContent",
+      "target_test_object_id": "8f4c3dd3-08fa-49ec-bbbd-355f5d18d257",
+      "sub_steps": []
+    },
+    {
+      "id": "39a62423-2d62-4129-97d7-dbbf2618b10a",
+      "name": "Click on span serviceType (webMobileApiAutomation)",
+      "action_id": "f2d0bb95-6656-4200-a49a-2628fd5a3d69",
+      "timestamp": 1774317828616,
+      "target_name": "span_serviceType",
+      "target_test_object_id": "b466e117-8cc6-461e-8b27-6d1ca41bfff3",
+      "sub_steps": []
+    },
+    {
+      "id": "6b7b2ca6-8622-4c91-9ca0-08b77c0e9483",
+      "name": "Click on span serviceType (webDevelopment)",
+      "action_id": "75827a83-4f51-4947-9c44-2585584362a0",
+      "timestamp": 1774317829074,
+      "target_name": "span_serviceType",
+      "target_test_object_id": "51516f6b-5226-4792-88d4-4dd3ae70f98b",
+      "sub_steps": []
+    },
+    {
+      "id": "da3d29ae-9e86-4a00-95e1-93fc2cbdcc18",
+      "name": "Click on div bestTestAutomationSolutions",
+      "action_id": "21df141d-3b56-4465-8c52-0a2b946484ba",
+      "timestamp": 1774317840057,
+      "target_name": "div_bestTestAutomationSolutions",
+      "target_test_object_id": "adad17e1-3347-4b05-86e1-325afe0f90f5",
+      "sub_steps": []
+    },
+    {
+      "id": "51ad337e-9f16-464b-8e8e-3b925e12da99",
+      "name": "Click on div bestTestAutomationSolutions -> Navigate to page ''",
+      "action_id": "bbf9ffa9-da98-45c0-ae3e-244c29c789a5",
+      "timestamp": 1774317873130,
+      "target_name": "div_bestTestAutomationSolutions",
+      "target_test_object_id": "adad17e1-3347-4b05-86e1-325afe0f90f5",
+      "sub_steps": []
+    },
+    {
+      "id": "cc248696-a42a-4780-bf09-e110fc6dd9fe",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
