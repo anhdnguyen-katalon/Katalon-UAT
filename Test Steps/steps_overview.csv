@@ -1,4 +1,33 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
+4,Navigate and Verify News Stories on Home Page,"Navigate to the news page, click on a news title, and verify the home page. Then, access a specific traffic story and confirm the home page.","Step 1: Navigate to /thoi-su
+Step 2: Click on header newsTitle
+Step 3: Click on link rescueStory -> Navigate to page '/*'
+Step 4: Navigate to /*
+Step 5: Click on link carTraffic
+Step 6: Take full page screenshot as checkpoint
+",Trivial,NEW
+5,Explore Business and Economy Sections on News Portal,"Navigate through various sections of the news portal, including international and business news. Verify multiple pages and links related to investment and economy.","Step 1: Navigate to /vne-go
+Step 2: Click on link vnExpress -> Navigate to page '/'
+Step 3: Navigate to /
+Step 4: Click on link international -> Navigate to page '/kinh-doanh/quoc-te'
+Step 5: Navigate to /kinh-doanh/quoc-te
+Step 6: Click on header interestRate
+Step 7: Click on link addToCart -> Navigate to page '/*'
+Step 8: Navigate to /*
+Step 9: Click on link business -> Navigate to page '/kinh-doanh'
+Step 10: Navigate to /kinh-doanh
+Step 11: Click on header investmentTitle
+Step 12: Click on link myMoney -> Navigate to page '/kinh-doanh/tien-cua-toi'
+Step 13: Navigate to /kinh-doanh/tien-cua-toi
+Step 14: Click on link goods -> Navigate to page '/kinh-doanh/hang-hoa'
+Step 15: Navigate to /kinh-doanh/hang-hoa
+Step 16: Click on link economyRegion -> Navigate to page '/the-gioi'
+Step 17: Navigate to /the-gioi
+Step 18: Click on link transferInfo -> Navigate to page '/*'
+Step 19: Navigate to /*
+Step 20: Click on p natoStatement -> Navigate to page ''
+Step 21: Take full page screenshot as checkpoint
+",Trivial,NEW
 3,Navigate Through Various Sections and Verify Home Page,"Start at the home page and navigate through different sections like news, business, relaxation, health, and analysis. Ensure that the home page is verified after each navigation.","Step 1: Navigate to /
 Step 2: Click on link thoiSu -> Navigate to page '/thoi-su'
 Step 3: Navigate to /thoi-su
@@ -20,4 +49,4 @@ Step 18: Click on link phanTich -> Navigate to page '/the-gioi/phan-tich'
 Step 19: Navigate to /the-gioi/phan-tich
 Step 20: Click on div analysis -> Navigate to page ''
 Step 21: Take full page screenshot as checkpoint
-",Trivial,NEW
+",Trivial,STABLE

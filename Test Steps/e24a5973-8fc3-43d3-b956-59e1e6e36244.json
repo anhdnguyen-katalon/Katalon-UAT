@@ -1,0 +1,174 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "98da4a2d-e810-4e0f-8814-3fc89db506e1",
+      "name": "Navigate to /vne-go",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "1e44ce91-f270-4505-a680-60ec8ff5b9dc",
+      "name": "Click on link vnExpress -> Navigate to page '/'",
+      "action_id": "2eb0ab63-fe54-48f1-be9a-cde5d863b428",
+      "timestamp": 1774540252055,
+      "target_name": "link_vnExpress",
+      "target_test_object_id": "5507ca46-d27c-48f7-87b4-1b0a2f713631",
+      "sub_steps": []
+    },
+    {
+      "id": "aec6f031-e0a6-4655-97ad-ad0a257670a0",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "46c1931f-8ae4-46a9-af66-e69f0fd2a8ac",
+      "name": "Click on link international -> Navigate to page '/kinh-doanh/quoc-te'",
+      "action_id": "ecd7d12a-e738-4af3-8302-ba122405803e",
+      "timestamp": 1774540255115,
+      "target_name": "link_international",
+      "target_test_object_id": "c871a577-7c5b-4bc3-b412-be54c605b225",
+      "sub_steps": []
+    },
+    {
+      "id": "ca1307f9-6e88-490e-bf02-c22cd56e1824",
+      "name": "Navigate to /kinh-doanh/quoc-te",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "7be333f6-f05b-40be-9214-cfdd05bf8094",
+      "name": "Click on header interestRate",
+      "action_id": "b82562c2-5d56-48a4-8839-74b927a76262",
+      "timestamp": 1774540257809,
+      "target_name": "header_interestRate",
+      "target_test_object_id": "4a2593de-93bd-4f76-9d67-2e990da8aec4",
+      "sub_steps": []
+    },
+    {
+      "id": "b5cabc13-f8a4-44fa-8cd7-41b2037b93f1",
+      "name": "Click on link addToCart -> Navigate to page '/*'",
+      "action_id": "a0b135eb-ed83-4984-a381-58daa494f033",
+      "timestamp": 1774540258593,
+      "target_name": "link_addToCart",
+      "target_test_object_id": "f878f872-0ecd-49da-9105-d547a3b85b2d",
+      "sub_steps": []
+    },
+    {
+      "id": "0dff7d9d-9fcf-4cdc-ad58-f7be816d8360",
+      "name": "Navigate to /*",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "e3e5b5a2-e095-4c75-a320-e6d83f92c944",
+      "name": "Click on link business -> Navigate to page '/kinh-doanh'",
+      "action_id": "4b738cb7-7102-493b-a5bc-378b65fa9a71",
+      "timestamp": 1774540262314,
+      "target_name": "link_business",
+      "target_test_object_id": "6c03348c-bbb7-4a19-b203-3bf23891e3b2",
+      "sub_steps": []
+    },
+    {
+      "id": "c1c65953-d92e-4c5e-b6f0-432f998682c1",
+      "name": "Navigate to /kinh-doanh",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "70da38b5-175f-4486-bfe3-c70becfe33cb",
+      "name": "Click on header investmentTitle",
+      "action_id": "b8312735-4bee-43b4-add0-291236e91ee3",
+      "timestamp": 1774540263559,
+      "target_name": "header_investmentTitle",
+      "target_test_object_id": "fd5a2a25-93ba-431f-990f-ce8f348ba763",
+      "sub_steps": []
+    },
+    {
+      "id": "8df9178e-64ca-48f5-9940-08a43ebc37a5",
+      "name": "Click on link myMoney -> Navigate to page '/kinh-doanh/tien-cua-toi'",
+      "action_id": "6be5634f-824d-470f-913d-f9a9adefd2da",
+      "timestamp": 1774540264175,
+      "target_name": "link_myMoney",
+      "target_test_object_id": "c39dcc49-ce4b-4c80-af5f-6dbc04b38e34",
+      "sub_steps": []
+    },
+    {
+      "id": "7f58abd7-a302-453f-bb44-b8ac68a124d1",
+      "name": "Navigate to /kinh-doanh/tien-cua-toi",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "a750ac82-4af8-4a22-a7fe-592676496c95",
+      "name": "Click on link goods -> Navigate to page '/kinh-doanh/hang-hoa'",
+      "action_id": "9496be1a-9dde-4aa2-b81e-8914833fa599",
+      "timestamp": 1774540267025,
+      "target_name": "link_goods",
+      "target_test_object_id": "aea9e801-7930-4494-add5-2a2cdc1567fa",
+      "sub_steps": []
+    },
+    {
+      "id": "fb48c1ec-8325-4fe1-bd12-216dbde153bd",
+      "name": "Navigate to /kinh-doanh/hang-hoa",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "1641e697-b295-4738-8956-9a0c6a878f97",
+      "name": "Click on link economyRegion -> Navigate to page '/the-gioi'",
+      "action_id": "c7a0e3f4-a5ee-4010-a654-d3a6c548507c",
+      "timestamp": 1774540269982,
+      "target_name": "link_economyRegion",
+      "target_test_object_id": "fe0d460e-b3f4-477d-aa23-bcdabe1792d7",
+      "sub_steps": []
+    },
+    {
+      "id": "08c1cfe6-edd0-4359-95d4-77d6a7a3db4e",
+      "name": "Navigate to /the-gioi",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "02635116-f60c-43a8-a977-85b688ee2157",
+      "name": "Click on link transferInfo -> Navigate to page '/*'",
+      "action_id": "042ac34c-fa0b-4f9e-ab88-0ac59758c691",
+      "timestamp": 1774540282558,
+      "target_name": "link_transferInfo",
+      "target_test_object_id": "30e127b5-c685-481a-b91b-62e9a47dec4c",
+      "sub_steps": []
+    },
+    {
+      "id": "7449bdb6-0bc1-4a12-a95b-5bd013d78550",
+      "name": "Navigate to /*",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "4b039da1-edb8-4f6d-9517-d7f20dbb727e",
+      "name": "Click on p natoStatement -> Navigate to page ''",
+      "action_id": "bb0b0fe5-074e-426d-b8d7-0a11c339016c",
+      "timestamp": 1774540285863,
+      "target_name": "p_natoStatement",
+      "target_test_object_id": "541431df-5e32-4ef8-973e-dc4dfe365d52",
+      "sub_steps": []
+    },
+    {
+      "id": "fb15c4e9-350a-466f-b73a-700d62a7e88e",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
