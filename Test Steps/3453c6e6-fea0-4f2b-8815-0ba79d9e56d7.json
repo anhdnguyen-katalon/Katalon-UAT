@@ -1,0 +1,118 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "a5016fe1-6d42-4149-8cc0-2353495b7bb3",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "94ee6933-3fa7-41f8-ad11-666acb502bd6",
+      "name": "Click on link thoiSu -> Navigate to page '/thoi-su'",
+      "action_id": "133f1eeb-bd95-4fbe-98cd-0b8a7808cf89",
+      "timestamp": 1774340565532,
+      "target_name": "link_thoiSu",
+      "target_test_object_id": "ca649ac4-e925-479c-90c3-a298b1800fd3",
+      "sub_steps": []
+    },
+    {
+      "id": "2abb7b4b-e7fc-483e-947c-6afeb52746d1",
+      "name": "Click on link hanCheXe -> Navigate to page '/*'",
+      "action_id": "e6df327f-3dd1-4943-886f-3a04e7abae69",
+      "timestamp": 1774340567542,
+      "target_name": "link_hanCheXe",
+      "target_test_object_id": "e8e78d79-2d55-4e4f-aca1-7affac2a7921",
+      "sub_steps": []
+    },
+    {
+      "id": "598fbed3-1810-4cb0-9cfa-f7b77e1f876c",
+      "name": "Click on link kinhDoanh -> Navigate to page '/kinh-doanh'",
+      "action_id": "702a01bb-2b94-4593-820f-c1eee0da1c4d",
+      "timestamp": 1774340570574,
+      "target_name": "link_kinhDoanh",
+      "target_test_object_id": "ff29a8ae-52f4-4434-8e11-c80aefe3b378",
+      "sub_steps": []
+    },
+    {
+      "id": "50316f0c-f416-4dcb-8734-0b13054d0d4c",
+      "name": "Click on link khoaHocCongNghe -> Navigate to page '/goc-nhin'",
+      "action_id": "7fc8d03f-8bdd-4a44-afd1-cd344a7b8161",
+      "timestamp": 1774340572758,
+      "target_name": "link_khoaHocCongNghe",
+      "target_test_object_id": "d50e27b2-a5c6-46eb-af4f-ee888b72328a",
+      "sub_steps": []
+    },
+    {
+      "id": "afed994f-3f63-4353-8806-aabf07aaf672",
+      "name": "Click on link spotlight -> Navigate to page '/spotlight'",
+      "action_id": "0c728bd8-68e2-4108-a517-d683338847dc",
+      "timestamp": 1774340575790,
+      "target_name": "link_spotlight",
+      "target_test_object_id": "2d8d1064-d20a-46a3-b44a-0603a564b200",
+      "sub_steps": []
+    },
+    {
+      "id": "bf3d1f4d-9111-4a0b-93cf-8499efbd844b",
+      "name": "Click on link logo -> Navigate to page '/'",
+      "action_id": "cf18ebd5-35dc-431f-9de6-945de074f363",
+      "timestamp": 1774340577540,
+      "target_name": "link_logo",
+      "target_test_object_id": "21f2c076-8749-4ffd-bb6d-ef1c684d2b46",
+      "sub_steps": []
+    },
+    {
+      "id": "6f5cd69a-fb3f-4818-841e-9c893ffc08ae",
+      "name": "Click on link thoiSu -> Navigate to page '/thoi-su'",
+      "action_id": "8b4d1424-6042-47b3-91e5-b824b068e17a",
+      "timestamp": 1774340581473,
+      "target_name": "link_thoiSu",
+      "target_test_object_id": "ca649ac4-e925-479c-90c3-a298b1800fd3",
+      "sub_steps": []
+    },
+    {
+      "id": "0d6c827f-b5d9-4656-ba84-567927444861",
+      "name": "Click on link kinhDoanh -> Navigate to page '/kinh-doanh'",
+      "action_id": "367f2a85-75cc-4fba-98bc-41e4d5757fdf",
+      "timestamp": 1774340583624,
+      "target_name": "link_kinhDoanh",
+      "target_test_object_id": "784173be-b761-4d69-839f-5c34b070c8ca",
+      "sub_steps": []
+    },
+    {
+      "id": "b013b2dc-e95a-4939-81e2-ef5ac832787e",
+      "name": "Click on div boxCategory -> Navigate to page '/the-gioi'",
+      "action_id": "1c3092e8-2425-4d4d-98b0-16f794eb471b",
+      "timestamp": 1774340585800,
+      "target_name": "div_boxCategory",
+      "target_test_object_id": "96c6fe3b-6da1-4d8e-876c-82c36651f1ab",
+      "sub_steps": []
+    },
+    {
+      "id": "a55669dc-aa79-4539-bb65-817047b1c2d3",
+      "name": "Click on link phanTich -> Navigate to page '/the-gioi/phan-tich'",
+      "action_id": "7fa46177-c4d8-466e-b5eb-aeb473587e87",
+      "timestamp": 1774340605661,
+      "target_name": "link_phanTich",
+      "target_test_object_id": "4c91468f-f518-4bf6-9e97-14ba9cb09644",
+      "sub_steps": []
+    },
+    {
+      "id": "6a905aa5-e637-4b80-9d49-2dc3597f228f",
+      "name": "Click on div container -> Navigate to page ''",
+      "action_id": "6d4cb05e-c1cb-4810-acac-e6b2106c1a43",
+      "timestamp": 1774340608879,
+      "target_name": "div_container",
+      "target_test_object_id": "20e3e0d6-dcc7-47a2-b950-49b75dc86f90",
+      "sub_steps": []
+    },
+    {
+      "id": "1f14d537-a9c9-4986-b516-5fce986908cb",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

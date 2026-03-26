@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate through various sections of the news application including Thoi Su, Kinh Doanh, and Spotlight. Verify the home page after visiting different categories.</description>
+   <name>TC2-Navigate and Verify Multiple Sections of News Application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc725ddf-fc2b-4b0c-80b7-9742d8962479</testCaseGuid>
+   <customField>
+      <flow>
+         <id>3453c6e6-fea0-4f2b-8815-0ba79d9e56d7</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>
