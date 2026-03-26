@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Start at the home page and navigate through different sections like news, business, relaxation, health, and analysis. Ensure that the home page is verified after each navigation.</description>
+   <name>TC3-Navigate Through Various Sections and Verify Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac8296bd-6046-44ff-9b2d-53ff63e78fba</testCaseGuid>
+   <variable>
+      <defaultValue>'N\\u1eef'</defaultValue>
+      <description>Step 14: Click on link genderSelection (female) - (Dynamic locator variable)</description>
+      <id>ed475e48-af16-42ef-9fa6-3c3b53bcf5bf</id>
+      <masked>false</masked>
+      <name>link_genderSelection_ATitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nam'</defaultValue>
+      <description>Step 15: Click on link genderSelection (male) - (Dynamic locator variable)</description>
+      <id>13f2dbef-83f7-463d-a686-e039da3113db</id>
+      <masked>false</masked>
+      <name>link_genderSelection_ATitle_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"btn-item\\\\ btn_gender\\"]'</defaultValue>
+      <description>Step 14: Click on link genderSelection (female) - (Dynamic locator variable)</description>
+      <id>d4cce919-d7b2-4983-84b8-6698b0b785e2</id>
+      <masked>false</masked>
+      <name>link_genderSelection_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"btn-item\\\\ btn_gender\\"]'</defaultValue>
+      <description>Step 15: Click on link genderSelection (male) - (Dynamic locator variable)</description>
+      <id>fcf618e3-1f04-4e57-ad86-a2ec196749fd</id>
+      <masked>false</masked>
+      <name>link_genderSelection_css_value_1</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>7d82111f-d682-4e8e-a2df-7a3ec0ee8ada</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

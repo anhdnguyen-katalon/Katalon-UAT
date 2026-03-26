@@ -1,0 +1,174 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "89366534-61bc-4e9b-8d9c-2c3da23ca8f2",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "05e03e1f-e8cd-4e26-b0e5-cb6831566f42",
+      "name": "Click on link thoiSu -> Navigate to page '/thoi-su'",
+      "action_id": "6d91e344-6d59-4524-aa3a-2aa4a5efee48",
+      "timestamp": 1774534319388,
+      "target_name": "link_thoiSu",
+      "target_test_object_id": "ca649ac4-e925-479c-90c3-a298b1800fd3",
+      "sub_steps": []
+    },
+    {
+      "id": "b0a5dd8e-0267-4a89-94d6-efe4d6bf1bdc",
+      "name": "Navigate to /thoi-su",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "eef1c3e8-5802-4409-85b7-f0f19e807468",
+      "name": "Click on link kinhDoanh -> Navigate to page '/kinh-doanh'",
+      "action_id": "6c88fb4e-6a9d-4765-8e93-882cd0c26b00",
+      "timestamp": 1774534321447,
+      "target_name": "link_kinhDoanh",
+      "target_test_object_id": "7714f63f-2cdd-4d4e-ba8b-46e13da86b10",
+      "sub_steps": []
+    },
+    {
+      "id": "7d13a889-748d-4201-8661-8d927523ccce",
+      "name": "Navigate to /kinh-doanh",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "73338e68-a667-4e82-bfe7-3f5da89d4c95",
+      "name": "Click on link novaland -> Navigate to page '/*'",
+      "action_id": "459ed0c6-7945-4b34-a6e9-6a8d0ab97435",
+      "timestamp": 1774534327043,
+      "target_name": "link_novaland",
+      "target_test_object_id": "2626a057-43da-4759-b2c6-67bd7faace92",
+      "sub_steps": []
+    },
+    {
+      "id": "d584853a-f6a4-4f4f-ac00-63cb07803c4a",
+      "name": "Navigate to /*",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "8556c9b2-dcbe-4156-b5bb-e13500fd6a5b",
+      "name": "Click on link relaxation -> Navigate to page '/thu-gian'",
+      "action_id": "13176a56-538c-4a56-82df-500cf5113389",
+      "timestamp": 1774534330456,
+      "target_name": "link_relaxation",
+      "target_test_object_id": "233e4666-d575-43ed-a7d8-8a11542e3b89",
+      "sub_steps": []
+    },
+    {
+      "id": "46798c04-867b-4b6b-ad73-43b4d2d144cb",
+      "name": "Navigate to /thu-gian",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "093110ce-af44-4007-9aac-423351dea674",
+      "name": "Click on link threeZodiac -> Navigate to page '/*'",
+      "action_id": "0e73828d-245e-4939-99ee-8d18c70e59d3",
+      "timestamp": 1774534338893,
+      "target_name": "link_threeZodiac",
+      "target_test_object_id": "9c4ccb9f-bcb4-455a-a190-fea13b07cc35",
+      "sub_steps": []
+    },
+    {
+      "id": "d67878ca-db8c-4b05-9faf-16ddfbb44140",
+      "name": "Navigate to /*",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "1473244b-dc62-4bd8-b842-d3b55e4a85ee",
+      "name": "Click on link health -> Navigate to page '/suc-khoe'",
+      "action_id": "42f61bd4-035f-4ae3-8bcd-771b6412bcbf",
+      "timestamp": 1774534341080,
+      "target_name": "link_health",
+      "target_test_object_id": "a17eac96-9cce-4258-a69c-587f09b2a457",
+      "sub_steps": []
+    },
+    {
+      "id": "84acab28-f92e-412c-9f2f-7b3dc7f93e00",
+      "name": "Navigate to /suc-khoe",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "9f404986-afaf-4857-a814-6f7e0e3211d3",
+      "name": "Click on link genderSelection (female)",
+      "action_id": "50a3b12d-ebf2-4a0a-b192-8b8173ba8590",
+      "timestamp": 1774534344384,
+      "target_name": "link_genderSelection",
+      "target_test_object_id": "4f843607-727d-44c3-b442-b2a1d21b26d1",
+      "sub_steps": []
+    },
+    {
+      "id": "4327ccc0-93b2-4479-8da0-27c0894d6bc0",
+      "name": "Click on link genderSelection (male)",
+      "action_id": "179eaa39-b5e5-4eeb-bb03-be508ed1bc59",
+      "timestamp": 1774534345227,
+      "target_name": "link_genderSelection",
+      "target_test_object_id": "4a889162-7dcc-4363-ae5f-a7646cba8dd1",
+      "sub_steps": []
+    },
+    {
+      "id": "46411fb7-4bc9-4a37-a796-da661866e5f9",
+      "name": "Click on link home -> Navigate to page '/the-gioi'",
+      "action_id": "5cdfd3a2-6f7a-41b7-9e3f-5ae416f07591",
+      "timestamp": 1774534346956,
+      "target_name": "link_home",
+      "target_test_object_id": "f9568d0b-0ac0-4601-a229-06039d89eea8",
+      "sub_steps": []
+    },
+    {
+      "id": "3dda6307-7d36-4df7-ace1-31e4ee34dae6",
+      "name": "Navigate to /the-gioi",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "e68713ca-95cc-401b-be0a-19963925b38a",
+      "name": "Click on link phanTich -> Navigate to page '/the-gioi/phan-tich'",
+      "action_id": "da16265e-dbfb-4b95-ba9c-33adbad1eaf3",
+      "timestamp": 1774534375026,
+      "target_name": "link_phanTich",
+      "target_test_object_id": "4c91468f-f518-4bf6-9e97-14ba9cb09644",
+      "sub_steps": []
+    },
+    {
+      "id": "d5c839ed-1247-4fff-8d59-8f39d996307a",
+      "name": "Navigate to /the-gioi/phan-tich",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "8d9d5bab-5710-4f47-b13e-76ff7d77ea1a",
+      "name": "Click on div analysis -> Navigate to page ''",
+      "action_id": "4b4d843f-2c7d-4a79-a016-ffe51778c7fb",
+      "timestamp": 1774534378738,
+      "target_name": "div_analysis",
+      "target_test_object_id": "a7a1a163-7e0b-41b2-aafb-19e19192a852",
+      "sub_steps": []
+    },
+    {
+      "id": "76d98ba6-0ebf-4f2f-ac67-1d0e4c09b3c7",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

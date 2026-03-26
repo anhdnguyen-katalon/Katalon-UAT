@@ -1,15 +1,23 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-2,Navigate and Verify Multiple Sections of News Application,"Navigate through various sections of the news application including Thoi Su, Kinh Doanh, and Spotlight. Verify the home page after visiting different categories.","Step 1: Navigate to /
+3,Navigate Through Various Sections and Verify Home Page,"Start at the home page and navigate through different sections like news, business, relaxation, health, and analysis. Ensure that the home page is verified after each navigation.","Step 1: Navigate to /
 Step 2: Click on link thoiSu -> Navigate to page '/thoi-su'
-Step 3: Click on link hanCheXe -> Navigate to page '/*'
+Step 3: Navigate to /thoi-su
 Step 4: Click on link kinhDoanh -> Navigate to page '/kinh-doanh'
-Step 5: Click on link khoaHocCongNghe -> Navigate to page '/goc-nhin'
-Step 6: Click on link spotlight -> Navigate to page '/spotlight'
-Step 7: Click on link logo -> Navigate to page '/'
-Step 8: Click on link thoiSu -> Navigate to page '/thoi-su'
-Step 9: Click on link kinhDoanh -> Navigate to page '/kinh-doanh'
-Step 10: Click on div boxCategory -> Navigate to page '/the-gioi'
-Step 11: Click on link phanTich -> Navigate to page '/the-gioi/phan-tich'
-Step 12: Click on div container -> Navigate to page ''
-Step 13: Take full page screenshot as checkpoint
+Step 5: Navigate to /kinh-doanh
+Step 6: Click on link novaland -> Navigate to page '/*'
+Step 7: Navigate to /*
+Step 8: Click on link relaxation -> Navigate to page '/thu-gian'
+Step 9: Navigate to /thu-gian
+Step 10: Click on link threeZodiac -> Navigate to page '/*'
+Step 11: Navigate to /*
+Step 12: Click on link health -> Navigate to page '/suc-khoe'
+Step 13: Navigate to /suc-khoe
+Step 14: Click on link genderSelection (female)
+Step 15: Click on link genderSelection (male)
+Step 16: Click on link home -> Navigate to page '/the-gioi'
+Step 17: Navigate to /the-gioi
+Step 18: Click on link phanTich -> Navigate to page '/the-gioi/phan-tich'
+Step 19: Navigate to /the-gioi/phan-tich
+Step 20: Click on div analysis -> Navigate to page ''
+Step 21: Take full page screenshot as checkpoint
 ",Trivial,NEW
