@@ -1,25 +1,34 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-1,Explore Home Page and Navigate to Consulting Services,"Navigate through the home page, explore various sections including outcomes, projects, case studies, and consulting services. Verify the home page at the end.","Step 1: Navigate to /
-Step 2: Click on div realWorldOutcomes
-Step 3: Click on div homePageIntroduction
-Step 4: Click on link projects
-Step 5: Click on link home
-Step 6: Click on link caseStudies -> Navigate to page '/case-studies'
-Step 7: Click on link caseStudy -> Navigate to page '/'
-Step 8: Click on link aboutPage -> Navigate to page '/about'
-Step 9: Click on div logoWrap
-Step 10: Click on link about -> Navigate to page '/'
-Step 11: Click on div homePageIntroduction
-Step 12: Click on div homePageIntroduction
-Step 13: Click on header pushHigherQualitySoftware
-Step 14: Click on div testStrategyConsultation
-Step 15: Click on image testing -> Navigate to page '/consulting'
-Step 16: Click on div automatedTesting
-Step 17: Click on div consultingResults
-Step 18: Click on div consultingHighlights (clientFeedback)
-Step 19: Click on div npsScore
-Step 20: Click on div consultingHighlights (pushHigherQualitySoftware)
-Step 21: Click on div consultingResults
-Step 22: Click on div professionalServices -> Navigate to page ''
-Step 23: Take full page screenshot as checkpoint
+2,Explore Services and Verify Home Page Navigation,Navigate through various service promotions and sections on the home page. Verify that the home page loads correctly after multiple interactions.,"Step 1: Navigate to /
+Step 2: Click on div pushHigherQualitySoftware
+Step 3: Click on div newGoldStandardQa
+Step 4: Click on span servicePromotion (getCustomQuote)
+Step 5: Click on div scheduleFreeDiscoverySession
+Step 6: Click on span servicePromotion (getHigherQualitySoftware)
+Step 7: Click on div homeSection
+Step 8: Click on header pushHigherQualitySoftware
+Step 9: Click on link seeFullStory -> Navigate to page '/daily-time-savings'
+Step 10: Click on link dailyTimeSavings -> Navigate to page '/consulting'
+Step 11: Click on div consultingRow -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",Trivial,NEW
+3,Access Case Studies and Verify Home Page Navigation,Navigate to case studies and thought leadership sections. Interact with various links and verify that the home page loads correctly after multiple interactions.,"Step 1: Navigate to /
+Step 2: Click on div thoughtLeadership
+Step 3: Click on link caseStudies -> Navigate to page '/case-studies'
+Step 4: Click on div caseStudies
+Step 5: Click on link caseStudy -> Navigate to page '/'
+Step 6: Click on link newsletter
+Step 7: Click on div homePageIntroduction
+Step 8: Click on link caseStudies -> Navigate to page '/case-studies'
+Step 9: Click on div caseStudies
+Step 10: Click on link caseStudy2 -> Navigate to page '/'
+Step 11: Click on link seeFullStory -> Navigate to page '/daily-time-savings'
+Step 12: Click on link dailyTimeSavings -> Navigate to page '/consulting'
+Step 13: Click on div bestTestAutomationSolutions
+Step 14: Click on div consultingContent
+Step 15: Click on span serviceType (webMobileApiAutomation)
+Step 16: Click on span serviceType (webDevelopment)
+Step 17: Click on div bestTestAutomationSolutions
+Step 18: Click on div bestTestAutomationSolutions -> Navigate to page ''
+Step 19: Take full page screenshot as checkpoint
 ",Trivial,NEW

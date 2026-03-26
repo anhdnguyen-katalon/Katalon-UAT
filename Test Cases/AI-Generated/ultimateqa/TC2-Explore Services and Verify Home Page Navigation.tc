@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate through various service promotions and sections on the home page. Verify that the home page loads correctly after multiple interactions.</description>
+   <name>TC2-Explore Services and Verify Home Page Navigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0824b49d-501d-4201-a42c-9839435e1a59</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 4: Click on span servicePromotion (getCustomQuote) - (Dynamic locator variable)</description>
+      <id>ad9cf22a-96aa-4f3a-aa2a-486885c614b1</id>
+      <masked>false</masked>
+      <name>span_servicePromotion_Key</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 6: Click on span servicePromotion (getHigherQualitySoftware) - (Dynamic locator variable)</description>
+      <id>e20c00ef-c6f6-447d-92ec-b123e54716de</id>
+      <masked>false</masked>
+      <name>span_servicePromotion_Key_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"et_pb_with_border\\\\ et_pb_module\\\\ et_pb_blurb\\\\ et_pb_blurb_7\\\\ \\\\ et_pb_text_align_center\\\\ \\\\ et_pb_blurb_position_top\\\\ et_pb_bg_layout_light\\"] [class=\\"et_pb_module_header\\"] &gt; span'</defaultValue>
+      <description>Step 4: Click on span servicePromotion (getCustomQuote) - (Dynamic locator variable)</description>
+      <id>20a99e74-4fb5-43aa-b1a9-74df0f9766d4</id>
+      <masked>false</masked>
+      <name>span_servicePromotion_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"et_pb_with_border\\\\ et_pb_module\\\\ et_pb_blurb\\\\ et_pb_blurb_8\\\\ \\\\ et_pb_text_align_center\\\\ \\\\ et_pb_blurb_position_top\\\\ et_pb_bg_layout_light\\"] [class=\\"et_pb_module_header\\"] &gt; span'</defaultValue>
+      <description>Step 6: Click on span servicePromotion (getHigherQualitySoftware) - (Dynamic locator variable)</description>
+      <id>9471e051-e706-4ecd-bd8c-84b1d6073597</id>
+      <masked>false</masked>
+      <name>span_servicePromotion_css_value_1</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>74bba4d1-8fd0-4d8d-8d1e-4f512eae1c54</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

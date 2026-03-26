@@ -1,0 +1,109 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "e074a75e-dd6c-4a5e-a361-69008ede6ac7",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "7064932f-9761-40f6-9f4d-36e8bd799930",
+      "name": "Click on div pushHigherQualitySoftware",
+      "action_id": "a5612eee-2c94-4fdf-a88e-1f2f3118262b",
+      "timestamp": 1774317017274,
+      "target_name": "div_pushHigherQualitySoftware",
+      "target_test_object_id": "a13a0335-1064-48e3-94a5-134c8cdc5e51",
+      "sub_steps": []
+    },
+    {
+      "id": "1bcc2928-e1b6-42fa-b608-3cef6dc1bb94",
+      "name": "Click on div newGoldStandardQa",
+      "action_id": "a4627193-9949-4098-991e-31007044d826",
+      "timestamp": 1774317022715,
+      "target_name": "div_newGoldStandardQa",
+      "target_test_object_id": "8c9214e6-50e1-4451-95aa-f21b3d992c91",
+      "sub_steps": []
+    },
+    {
+      "id": "06d0b67e-10ea-4f5f-ac31-1e8a18f34c2c",
+      "name": "Click on span servicePromotion (getCustomQuote)",
+      "action_id": "ac52ac6b-19e7-4799-9861-83479cd90e95",
+      "timestamp": 1774317023822,
+      "target_name": "span_servicePromotion",
+      "target_test_object_id": "c0af107c-d456-43c8-a7fb-2c3d76402273",
+      "sub_steps": []
+    },
+    {
+      "id": "8946d2de-d8e3-4bc2-b2cd-690cc384454c",
+      "name": "Click on div scheduleFreeDiscoverySession",
+      "action_id": "02609f66-a871-4b15-94d8-51bd658c58eb",
+      "timestamp": 1774317024536,
+      "target_name": "div_scheduleFreeDiscoverySession",
+      "target_test_object_id": "a7533d5e-3410-41ec-9c43-5f18e7a7e358",
+      "sub_steps": []
+    },
+    {
+      "id": "535f2039-31a2-48e6-bb1c-7282d6539576",
+      "name": "Click on span servicePromotion (getHigherQualitySoftware)",
+      "action_id": "e6baa729-1236-42b3-859d-029d713d09b1",
+      "timestamp": 1774317025118,
+      "target_name": "span_servicePromotion",
+      "target_test_object_id": "e99c0113-f827-4976-8135-20e7ea55149e",
+      "sub_steps": []
+    },
+    {
+      "id": "3176c5d7-33d1-4209-b983-1335cd886008",
+      "name": "Click on div homeSection",
+      "action_id": "51d937de-10d3-4977-a3d1-7aeaaea359f6",
+      "timestamp": 1774317030273,
+      "target_name": "div_homeSection",
+      "target_test_object_id": "17f9e73e-993f-4f67-8892-1a04997bf74e",
+      "sub_steps": []
+    },
+    {
+      "id": "ca24e06e-302c-4317-aaaf-476b55924014",
+      "name": "Click on header pushHigherQualitySoftware",
+      "action_id": "42b13ec8-be65-4608-ad7d-50b311a8c3fb",
+      "timestamp": 1774317034211,
+      "target_name": "header_pushHigherQualitySoftware",
+      "target_test_object_id": "e5cd783d-4720-42a5-bf35-926409e611c8",
+      "sub_steps": []
+    },
+    {
+      "id": "d97fab4a-dd70-4f95-bf07-4c9066d58545",
+      "name": "Click on link seeFullStory -> Navigate to page '/daily-time-savings'",
+      "action_id": "69761bf5-42dc-40df-9ae4-f21135226cb0",
+      "timestamp": 1774317042139,
+      "target_name": "link_seeFullStory",
+      "target_test_object_id": "7c0dad5d-e810-415a-9783-95605c83589c",
+      "sub_steps": []
+    },
+    {
+      "id": "08d0a0ad-21fa-4119-9791-8b483fe9dc4f",
+      "name": "Click on link dailyTimeSavings -> Navigate to page '/consulting'",
+      "action_id": "6776d66f-e792-4ace-96e9-1b4fc5ff38b1",
+      "timestamp": 1774317048056,
+      "target_name": "link_dailyTimeSavings",
+      "target_test_object_id": "cfbf9358-c0d2-48b3-8a55-c4fb34d3d23f",
+      "sub_steps": []
+    },
+    {
+      "id": "3217c6b7-77fc-42a6-94c3-6b4b6a1f799b",
+      "name": "Click on div consultingRow -> Navigate to page ''",
+      "action_id": "3f9a0e2a-53d8-4091-80a8-489368c1dc37",
+      "timestamp": 1774317060927,
+      "target_name": "div_consultingRow",
+      "target_test_object_id": "bc1657c1-7b76-43cb-9ed2-20b1bce26e8a",
+      "sub_steps": []
+    },
+    {
+      "id": "00b1acb5-7bee-4ccc-bad7-f1f24a01ce87",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
