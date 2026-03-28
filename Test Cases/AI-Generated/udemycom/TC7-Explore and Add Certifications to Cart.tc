@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate through various AWS and CompTIA certification topics. Add all selected certifications to the cart and verify the cart contents.</description>
+   <name>TC7-Explore and Add Certifications to Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>395e9751-9180-4d5a-82a0-d1490c2fb275</testCaseGuid>
+   <customField>
+      <flow>
+         <id>96e2e1b1-18b0-41b5-b19a-b8d0c0f0e9e5</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

@@ -61,6 +61,12 @@ public class TrueTestScripts {
     }
     
     private static void do_navigate(String path, String queryParameters) {
+        String url = buildTargetUrl(path, queryParameters)
+        WebUI.navigateToUrl(url);
+        WebUI.delay(DELAY_TIME);
+    }
+    
+    private static String buildTargetUrl(String path, String queryParameters) {
         String applicationDomain = GlobalVariable.application_domain;
         if (path == null) {
             path = "";
@@ -79,8 +85,7 @@ public class TrueTestScripts {
             String separator = url.contains("?") ? "&" : "?";
             url = "$url$separator$queryParameters$fragment";
         }
-        WebUI.navigateToUrl(url);
-        WebUI.delay(DELAY_TIME);
+        return url;
     }
     
     public static void navigate(String path, Map<String, String> searchParams) {
@@ -90,6 +95,14 @@ public class TrueTestScripts {
     
     public static void navigate(String path) {
         this.do_navigate(path, "");
+    }
+    
+    public static void navigateIfNeeded(String urlPath) {
+        String targetUrl = buildTargetUrl(urlPath, "")
+        String currentUrl = WebUI.getUrl().split('[?#]')[0]
+        if (!currentUrl.equals(targetUrl)) {
+            navigate(urlPath)
+        }
     }
     
     public static void selectOption(TestObject to, String rawValue, String selectionMode, boolean shouldFireEvent = false) {

@@ -1,15 +1,22 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-5,Explore Topics Related to Prompt Engineering and Generative AI,"Navigate to the home page and explore various topics including Prompt Engineering, Large Language Models, and Generative AI. Verify the mobile page for Generative AI.","Step 1: Navigate to / with params (funnel, gad campaignid, gad source, gbraid, gclid, portfolio, test, utm audience, utm campaign, utm content, utm medium, utm source, utm tactic, utm term)
-Step 2: Click on link promptEngineering -> Navigate to page '/topic/prompt-engineering'
-Step 3: Click on link largeLanguageModels -> Navigate to page '/topic/large-language-models'
-Step 4: Click on main largeLanguageModels
-Step 5: Click on main largeLanguageModels2
-Step 6: Click on main largeLanguageModels3
-Step 7: Click on label ratings
-Step 8: Click on link generativeAi -> Navigate to page '/topic/generative-ai'
-Step 9: Click on main generativeAi
-Step 10: Click on main generativeAi
-Step 11: Click on header generativeAi
-Step 12: Click on main generativeAi -> Navigate to page '/mobile'
-Step 13: Take full page screenshot as checkpoint
+7,Explore and Add Certifications to Cart,Navigate through various AWS and CompTIA certification topics. Add all selected certifications to the cart and verify the cart contents.,"Step 1: Navigate to /
+Step 2: Navigate to /
+Step 3: Click on button explore
+Step 4: Click on link browseAwsarchitectAssociate -> Navigate to page '/topic/aws-certified-solutions-architect-associate'
+Step 5: Navigate to /topic/aws-certified-solutions-architect-associate
+Step 6: Click on link browseAwscertifications
+Step 7: Click on link browseAwscloudPractitioner -> Navigate to page '/topic/aws-certified-cloud-practitioner'
+Step 8: Navigate to /topic/aws-certified-cloud-practitioner
+Step 9: Click on link browseAwsarchitectProfessional -> Navigate to page '/topic/aws-certified-solutions-architect-professional'
+Step 10: Navigate to /topic/aws-certified-solutions-architect-professional
+Step 11: Click on link browseCompTiaPenTest -> Navigate to page '/topic/comptia-pentest'
+Step 12: Navigate to /topic/comptia-pentest
+Step 13: Click on link browseMicrosoftDp203 -> Navigate to page '/topic/microsoft-dp-203'
+Step 14: Navigate to /topic/microsoft-dp-203
+Step 15: Click on main content
+Step 16: Click on button addAllToCart -> Navigate to page '/cart'
+Step 17: Navigate to /cart
+Step 18: Click on main object
+Step 19: Click on button goToCart -> Navigate to page '/cart'
+Step 20: Take full page screenshot as checkpoint
 ",Trivial,NEW

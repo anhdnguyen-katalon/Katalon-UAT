@@ -1,0 +1,169 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "8432e4b4-00a8-46e2-bbd7-2b1df8ec05c9",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "e3d2bf42-4256-4345-8593-7f4957717ed3",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "956217dc-de73-46ff-aa91-60af2f78ca2d",
+      "name": "Click on button explore",
+      "action_id": "c77f39ee-b8b1-46b0-9892-fffe7883d795",
+      "timestamp": 1774684553048,
+      "target_name": "button_explore",
+      "target_test_object_id": "628dc955-c117-46b0-b744-14e58f2e693d",
+      "sub_steps": []
+    },
+    {
+      "id": "6993b27e-205f-44d3-ae6d-4fe1958f8457",
+      "name": "Click on link browseAwsarchitectAssociate -> Navigate to page '/topic/aws-certified-solutions-architect-associate'",
+      "action_id": "ddeef026-0a53-4584-bc6a-c58d664259df",
+      "timestamp": 1774684555539,
+      "target_name": "link_browseAwsarchitectAssociate",
+      "target_test_object_id": "9103aebf-8b5a-4505-b25c-90263073cc29",
+      "sub_steps": []
+    },
+    {
+      "id": "285685d6-f2bd-44fe-84a6-74bba4c8dae9",
+      "name": "Navigate to /topic/aws-certified-solutions-architect-associate",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "32c833c7-0a5f-43f7-8cc3-a3fe7b2e6d68",
+      "name": "Click on link browseAwscertifications",
+      "action_id": "a6295daa-7fb8-4d0e-a2ac-893bc6d17663",
+      "timestamp": 1774684559397,
+      "target_name": "link_browseAwscertifications",
+      "target_test_object_id": "610a97ad-c1f3-44a3-b7c3-7ff0df86e1f7",
+      "sub_steps": []
+    },
+    {
+      "id": "6a9e0b9a-1696-4db9-923f-7d34b306001b",
+      "name": "Click on link browseAwscloudPractitioner -> Navigate to page '/topic/aws-certified-cloud-practitioner'",
+      "action_id": "e5b9a913-bb3f-4be2-ab47-f165b2de37a5",
+      "timestamp": 1774684560970,
+      "target_name": "link_browseAwscloudPractitioner",
+      "target_test_object_id": "e608e560-5a82-4fc4-a63e-251c52cb9d6a",
+      "sub_steps": []
+    },
+    {
+      "id": "6a4044a8-c364-42df-a70c-4b2797b54a5a",
+      "name": "Navigate to /topic/aws-certified-cloud-practitioner",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "30e0a950-a134-492e-b429-1cfba0556cfd",
+      "name": "Click on link browseAwsarchitectProfessional -> Navigate to page '/topic/aws-certified-solutions-architect-professional'",
+      "action_id": "9a32858d-d1c5-48ba-8022-5ca94c590ac3",
+      "timestamp": 1774684566110,
+      "target_name": "link_browseAwsarchitectProfessional",
+      "target_test_object_id": "454d35e0-a285-44ca-992a-64acecef8f64",
+      "sub_steps": []
+    },
+    {
+      "id": "0ad59b3e-03d8-416f-aba8-9e1db439bbb1",
+      "name": "Navigate to /topic/aws-certified-solutions-architect-professional",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "5b162fbe-0459-487b-8f90-3cf3fc4e0b28",
+      "name": "Click on link browseCompTiaPenTest -> Navigate to page '/topic/comptia-pentest'",
+      "action_id": "d185e4ca-3d4d-4901-a7f8-5b77546e4e89",
+      "timestamp": 1774684578256,
+      "target_name": "link_browseCompTiaPenTest",
+      "target_test_object_id": "bcdafeef-140f-4be2-97f8-d05d29aec1ea",
+      "sub_steps": []
+    },
+    {
+      "id": "740d93d6-aa72-4f47-a8d5-a68836a4d14f",
+      "name": "Navigate to /topic/comptia-pentest",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "6f5d0aa8-4f0c-4c3d-a6e0-217f3ecff56a",
+      "name": "Click on link browseMicrosoftDp203 -> Navigate to page '/topic/microsoft-dp-203'",
+      "action_id": "05773f64-ee76-4ca3-9a96-81e64024cd13",
+      "timestamp": 1774684585135,
+      "target_name": "link_browseMicrosoftDp203",
+      "target_test_object_id": "8d5218df-853a-4878-9ebe-7c85e2da181f",
+      "sub_steps": []
+    },
+    {
+      "id": "d8f2d329-6b6b-4a08-96ba-6d6c12ef1243",
+      "name": "Navigate to /topic/microsoft-dp-203",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "425886d9-c622-4ab2-9af1-65cab1a96bec",
+      "name": "Click on main content",
+      "action_id": "8c5f35f6-be6d-43ea-93a9-9584d1489574",
+      "timestamp": 1774684588943,
+      "target_name": "main_content",
+      "target_test_object_id": "78e3c413-4da1-4fbe-a58c-b0afc86d5f97",
+      "sub_steps": []
+    },
+    {
+      "id": "3ae3fe7b-bef5-4d53-9464-a480e2ace711",
+      "name": "Click on button addAllToCart -> Navigate to page '/cart'",
+      "action_id": "3fa86537-30df-4e65-b3c5-43a4d3ed8054",
+      "timestamp": 1774684589792,
+      "target_name": "button_addAllToCart",
+      "target_test_object_id": "9458dfaf-223b-4f1a-b412-dbfef06480fc",
+      "sub_steps": []
+    },
+    {
+      "id": "a6e0bf93-5c9a-47fa-a1a3-8c873681bb00",
+      "name": "Navigate to /cart",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "b1d33db1-4e7c-4e0c-bea0-9970786531f1",
+      "name": "Click on main object",
+      "action_id": "e1e417bc-e393-4918-85aa-d1589d9cc660",
+      "timestamp": 1774684598293,
+      "target_name": "main_object",
+      "target_test_object_id": "bf40f59e-591d-437b-9503-0c8935421f04",
+      "sub_steps": []
+    },
+    {
+      "id": "c7d20d4d-b891-47bb-a6da-d8257794788d",
+      "name": "Click on button goToCart -> Navigate to page '/cart'",
+      "action_id": "21ba2524-e3a8-4f4c-b2b2-fb85ecb5642d",
+      "timestamp": 1774684601068,
+      "target_name": "button_goToCart",
+      "target_test_object_id": "b87d8aa8-704a-426c-b22f-0e5b067d8a7f",
+      "sub_steps": []
+    },
+    {
+      "id": "79ae2753-b164-4e78-b707-90dafc50bd79",
+      "name": "Take full page screenshot as checkpoint",
+      "action_id": "d638112a-cd50-492c-82b0-e52252347009",
+      "timestamp": 1774684601348,
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
