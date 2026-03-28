@@ -1,0 +1,118 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "6b999ee7-2479-4a02-84ec-3afebe4c9517",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "9daf291f-cf67-4fc2-9777-6c22c7537784",
+      "name": "Click on html home",
+      "action_id": "1f93fdad-1071-46bb-8cd5-e9effe2f336f",
+      "timestamp": 1774712554733,
+      "target_name": "html_home",
+      "target_test_object_id": "59c3922e-bd03-41b2-92ff-72e4f5c43574",
+      "sub_steps": []
+    },
+    {
+      "id": "2ea57bd0-529a-40a6-baac-f0ae6d32752d",
+      "name": "Click on footer home",
+      "action_id": "30194df0-319a-4a0d-a191-e4ef08e416e6",
+      "timestamp": 1774712556160,
+      "target_name": "footer_home",
+      "target_test_object_id": "a64f232c-a459-4aa0-a21d-ac1fccc5e4be",
+      "sub_steps": []
+    },
+    {
+      "id": "32361025-441a-4652-ac01-2fd5378d301a",
+      "name": "Click on html home",
+      "action_id": "6a9779fb-7dd6-4e8c-b3ea-3bf303d675a1",
+      "timestamp": 1774712558232,
+      "target_name": "html_home",
+      "target_test_object_id": "59c3922e-bd03-41b2-92ff-72e4f5c43574",
+      "sub_steps": []
+    },
+    {
+      "id": "3656bb6e-1340-4405-be98-9ce21f5c59b9",
+      "name": "Click on div homeDescription",
+      "action_id": "119a9392-ee77-4631-934a-ed9372a6e73e",
+      "timestamp": 1774712560178,
+      "target_name": "div_homeDescription",
+      "target_test_object_id": "11db6bd5-0da3-497f-a9cf-70fc807f629f",
+      "sub_steps": []
+    },
+    {
+      "id": "63f65598-fe6b-4d83-baec-cf8964a2a7a4",
+      "name": "Click on html home",
+      "action_id": "86e83f44-683d-47cc-908b-a3bc914219b0",
+      "timestamp": 1774712565208,
+      "target_name": "html_home",
+      "target_test_object_id": "59c3922e-bd03-41b2-92ff-72e4f5c43574",
+      "sub_steps": []
+    },
+    {
+      "id": "c28c0aa7-02cb-44cd-ae5b-b3db62d13969",
+      "name": "Click on html home",
+      "action_id": "a5437d07-5134-48d8-9629-ff66a5d98f32",
+      "timestamp": 1774712572525,
+      "target_name": "html_home",
+      "target_test_object_id": "59c3922e-bd03-41b2-92ff-72e4f5c43574",
+      "sub_steps": []
+    },
+    {
+      "id": "06613e70-44f1-439f-acc4-c0f9187c57c5",
+      "name": "Click on link katalonStudio -> Navigate to page '/katalon-studio'",
+      "action_id": "f66de0f6-09b8-47e6-942c-c9a0fbd97a01",
+      "timestamp": 1774712575356,
+      "target_name": "link_katalonStudio",
+      "target_test_object_id": "adfe7e93-4194-4c5e-974c-1e11aeda65fb",
+      "sub_steps": []
+    },
+    {
+      "id": "85930940-4972-4ff4-b404-bae8a0cfd3be",
+      "name": "Click on link manualTesting -> Navigate to page '/testops'",
+      "action_id": "1c615cf5-3291-497a-90f9-ac169ea1cb13",
+      "timestamp": 1774712578123,
+      "target_name": "link_manualTesting",
+      "target_test_object_id": "b33546af-ea38-4305-80db-f2c92c5ef3fa",
+      "sub_steps": []
+    },
+    {
+      "id": "dad46a71-c187-47c7-8c56-a5d5b1754f31",
+      "name": "Click on link testManagement -> Navigate to page '/resources-center/blog'",
+      "action_id": "27886a59-52ea-4e4d-8938-6b35ff432e3f",
+      "timestamp": 1774712580974,
+      "target_name": "link_testManagement",
+      "target_test_object_id": "a14ec746-c03b-42cf-9b5c-3d18bbe1ff3e",
+      "sub_steps": []
+    },
+    {
+      "id": "225ddaf7-9507-4442-9226-da89810312f6",
+      "name": "Click on div blogHeader",
+      "action_id": "4fe96168-b6cb-4081-8328-58f6f87d16b0",
+      "timestamp": 1774712588967,
+      "target_name": "div_blogHeader",
+      "target_test_object_id": "a60381df-dd9c-4f7c-9840-53c214f94707",
+      "sub_steps": []
+    },
+    {
+      "id": "134b1b00-6ef3-49f0-b4dd-34b5c4197c01",
+      "name": "Click on main blogContent -> Navigate to page ''",
+      "action_id": "4fe28174-0b47-4e8f-b2b9-f1008cb74f80",
+      "timestamp": 1774712592239,
+      "target_name": "main_blogContent",
+      "target_test_object_id": "7ee8c07a-9531-440d-81b7-4fad909daef4",
+      "sub_steps": []
+    },
+    {
+      "id": "0fc86b9d-fdce-414b-8dc2-60d2b2b9f55f",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

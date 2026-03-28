@@ -1,22 +1,15 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-7,Explore and Add Certifications to Cart,Navigate through various AWS and CompTIA certification topics. Add all selected certifications to the cart and verify the cart contents.,"Step 1: Navigate to /
-Step 2: Navigate to /
-Step 3: Click on button explore
-Step 4: Click on link browseAwsarchitectAssociate -> Navigate to page '/topic/aws-certified-solutions-architect-associate'
-Step 5: Navigate to /topic/aws-certified-solutions-architect-associate
-Step 6: Click on link browseAwscertifications
-Step 7: Click on link browseAwscloudPractitioner -> Navigate to page '/topic/aws-certified-cloud-practitioner'
-Step 8: Navigate to /topic/aws-certified-cloud-practitioner
-Step 9: Click on link browseAwsarchitectProfessional -> Navigate to page '/topic/aws-certified-solutions-architect-professional'
-Step 10: Navigate to /topic/aws-certified-solutions-architect-professional
-Step 11: Click on link browseCompTiaPenTest -> Navigate to page '/topic/comptia-pentest'
-Step 12: Navigate to /topic/comptia-pentest
-Step 13: Click on link browseMicrosoftDp203 -> Navigate to page '/topic/microsoft-dp-203'
-Step 14: Navigate to /topic/microsoft-dp-203
-Step 15: Click on main content
-Step 16: Click on button addAllToCart -> Navigate to page '/cart'
-Step 17: Navigate to /cart
-Step 18: Click on main object
-Step 19: Click on button goToCart -> Navigate to page '/cart'
-Step 20: Take full page screenshot as checkpoint
+26,Navigate and Verify Home Page and Related Links,Start at the home page and navigate through various sections and links. Verify the home page and ensure all links lead to the correct destinations.,"Step 1: Navigate to /
+Step 2: Click on html home
+Step 3: Click on footer home
+Step 4: Click on html home
+Step 5: Click on div homeDescription
+Step 6: Click on html home
+Step 7: Click on html home
+Step 8: Click on link katalonStudio -> Navigate to page '/katalon-studio'
+Step 9: Click on link manualTesting -> Navigate to page '/testops'
+Step 10: Click on link testManagement -> Navigate to page '/resources-center/blog'
+Step 11: Click on div blogHeader
+Step 12: Click on main blogContent -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
 ",Trivial,NEW

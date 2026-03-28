@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Navigate through quick links and categories. Explore product details, promotions, and various categories, ensuring to return to the home page throughout the process.</description>
-   <name>TC25-Browse Categories and Promotions on Home Page</name>
+   <description>Start at the home page and navigate through various sections and links. Verify the home page and ensure all links lead to the correct destinations.</description>
+   <name>TC26-Navigate and Verify Home Page and Related Links</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>96d80398-20e4-4210-a653-164fa0d20b0c</testCaseGuid>
+   <testCaseGuid>59d92811-3a26-4bd9-9671-16d062eae045</testCaseGuid>
    <customField>
       <flow>
-         <id>6814ebfa-459f-4481-a24d-c6e6a9c431a8</id>
+         <id>e7efbcc3-35e3-4cad-96cc-01b61b5e73a3</id>
       </flow>
    </customField>
    <integratedEntity>
