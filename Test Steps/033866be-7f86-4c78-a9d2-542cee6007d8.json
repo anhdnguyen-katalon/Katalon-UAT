@@ -1,0 +1,120 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "59cf14a7-13f9-447c-aa05-19360c9d44de",
+      "name": "Navigate to / with params (funnel, gad campaignid, gad source, gbraid, gclid, portfolio, test, utm audience, utm campaign, utm content, utm medium, utm source, utm tactic, utm term)",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "07ffbbbc-5090-4fe7-9910-aefa784e08bc",
+      "name": "Click on link promptEngineering -> Navigate to page '/topic/prompt-engineering'",
+      "action_id": "c3c0679c-c0e2-4c36-9e13-c005b4df245b",
+      "timestamp": 1774657275375,
+      "target_name": "link_promptEngineering",
+      "target_test_object_id": "ba44c54d-0a32-444c-bc3b-a81e83a6cf03",
+      "sub_steps": []
+    },
+    {
+      "id": "64ceb94a-98c1-4493-8f97-8adc6eeeeeed",
+      "name": "Click on link largeLanguageModels -> Navigate to page '/topic/large-language-models'",
+      "action_id": "09a2b505-cabb-4506-97ef-1b2d6254dfb9",
+      "timestamp": 1774657292289,
+      "target_name": "link_largeLanguageModels",
+      "target_test_object_id": "9a75e547-cce2-45c8-9fa0-74fcaecaae98",
+      "sub_steps": []
+    },
+    {
+      "id": "2a3a3335-118f-4f31-88a9-ec783bd66683",
+      "name": "Click on main largeLanguageModels",
+      "action_id": "7763c3d2-b231-4e95-b5a6-f2be60bae2ec",
+      "timestamp": 1774657294781,
+      "target_name": "main_largeLanguageModels",
+      "target_test_object_id": "b6b03a6f-133c-4229-b47c-af9bbeea360a",
+      "sub_steps": []
+    },
+    {
+      "id": "f6590512-cffb-4e94-9d6e-0b9fbc33d5c8",
+      "name": "Click on main largeLanguageModels2",
+      "action_id": "6deb4728-189c-4e89-9e8d-ae67a0477c9c",
+      "timestamp": 1774657295935,
+      "target_name": "main_largeLanguageModels2",
+      "target_test_object_id": "f9be1147-0574-4e39-a3b0-a416cb018f1c",
+      "sub_steps": []
+    },
+    {
+      "id": "324f87d5-6dd5-4218-b361-4ed22f41b702",
+      "name": "Click on main largeLanguageModels3",
+      "action_id": "d83d0464-259f-4741-a079-a458ddacabae",
+      "timestamp": 1774657296839,
+      "target_name": "main_largeLanguageModels3",
+      "target_test_object_id": "4b5a95d5-4257-4d82-89c6-2d72aeabd32a",
+      "sub_steps": []
+    },
+    {
+      "id": "b72f4054-2ad1-415d-a5d4-2b26e84047ae",
+      "name": "Click on label ratings",
+      "action_id": "8ef3ad03-619e-479c-8930-a7cf4021e2fb",
+      "timestamp": 1774657300155,
+      "target_name": "label_ratings",
+      "target_test_object_id": "a76ea909-e2ca-4842-8ffe-3642e55075e2",
+      "sub_steps": []
+    },
+    {
+      "id": "5d7308ad-70fa-42d5-ae2e-6463a2527d52",
+      "name": "Click on link generativeAi -> Navigate to page '/topic/generative-ai'",
+      "action_id": "1f87cf70-5230-4eee-aae0-786ccb0640f0",
+      "timestamp": 1774657305897,
+      "target_name": "link_generativeAi",
+      "target_test_object_id": "13627e94-fa64-4dd2-8b38-55aded9522e7",
+      "sub_steps": []
+    },
+    {
+      "id": "0343ccac-2da1-44f6-8fac-23828904b0f7",
+      "name": "Click on main generativeAi",
+      "action_id": "fb54c565-b196-4ecf-a050-18ff6a9c677a",
+      "timestamp": 1774657315626,
+      "target_name": "main_generativeAi",
+      "target_test_object_id": "459358bd-a9ba-4d4b-96dc-089fcd5e9ca1",
+      "sub_steps": []
+    },
+    {
+      "id": "49cb5ab7-da3a-4ac1-b2d6-0fe0e2bf8510",
+      "name": "Click on main generativeAi",
+      "action_id": "f4e486a1-443b-46fa-87cf-8469457a05f2",
+      "timestamp": 1774657316872,
+      "target_name": "main_generativeAi",
+      "target_test_object_id": "459358bd-a9ba-4d4b-96dc-089fcd5e9ca1",
+      "sub_steps": []
+    },
+    {
+      "id": "5902f8db-5b9f-4c0d-a309-cfdff1b80e95",
+      "name": "Click on header generativeAi",
+      "action_id": "da574fdd-dc58-44fc-aded-7f23d42a222c",
+      "timestamp": 1774657333645,
+      "target_name": "header_generativeAi",
+      "target_test_object_id": "75a53ed7-61f5-4765-8fe3-45d967c749dd",
+      "sub_steps": []
+    },
+    {
+      "id": "d7403463-86b3-4535-aff3-ae19a735be50",
+      "name": "Click on main generativeAi -> Navigate to page '/mobile'",
+      "action_id": "78289aa2-acdd-4939-b510-51a1dcb742c2",
+      "timestamp": 1774657338087,
+      "target_name": "main_generativeAi",
+      "target_test_object_id": "459358bd-a9ba-4d4b-96dc-089fcd5e9ca1",
+      "sub_steps": []
+    },
+    {
+      "id": "776ceb6a-a341-4243-9c45-9df40bf3fde3",
+      "name": "Take full page screenshot as checkpoint",
+      "action_id": "7acc7659-7d90-4d12-bcc7-a7dd293b4aeb",
+      "timestamp": 1774657363765,
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
