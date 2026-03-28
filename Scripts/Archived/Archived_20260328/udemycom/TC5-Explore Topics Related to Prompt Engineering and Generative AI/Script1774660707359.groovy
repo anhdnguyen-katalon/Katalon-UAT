@@ -19,47 +19,47 @@ TrueTestScripts.navigate("/", ["funnel": var_funnel, "gad_campaignid": var_gad_c
 
 "Step 2: Click on link promptEngineering -> Navigate to page '/topic/prompt-engineering'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_home/link_promptEngineering'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_home/link_promptEngineering'))
 
 "Step 3: Click on link largeLanguageModels -> Navigate to page '/topic/large-language-models'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_prompt_engineering/link_largeLanguageModels'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_prompt_engineering/link_largeLanguageModels'))
 
 "Step 4: Click on main largeLanguageModels"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_large_language_models/main_largeLanguageModels'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_large_language_models/main_largeLanguageModels'))
 
 "Step 5: Click on main largeLanguageModels2"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_large_language_models/main_largeLanguageModels2'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_large_language_models/main_largeLanguageModels2'))
 
 "Step 6: Click on main largeLanguageModels3"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_large_language_models/main_largeLanguageModels3'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_large_language_models/main_largeLanguageModels3'))
 
 "Step 7: Click on label ratings"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_large_language_models/label_ratings'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_large_language_models/label_ratings'))
 
 "Step 8: Click on link generativeAi -> Navigate to page '/topic/generative-ai'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_large_language_models/link_generativeAi'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_large_language_models/link_generativeAi'))
 
 "Step 9: Click on main generativeAi"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_generative_ai/main_generativeAi'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_generative_ai/main_generativeAi'))
 
 "Step 10: Click on main generativeAi"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_generative_ai/main_generativeAi'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_generative_ai/main_generativeAi'))
 
 "Step 11: Click on header generativeAi"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_generative_ai/header_generativeAi'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_generative_ai/header_generativeAi'))
 
 "Step 12: Click on main generativeAi -> Navigate to page '/mobile'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/udemycom/Page_topic_generative_ai/main_generativeAi'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260328/udemycom/Page_topic_generative_ai/main_generativeAi'))
 
 "Step 13: Take full page screenshot as checkpoint"
 
