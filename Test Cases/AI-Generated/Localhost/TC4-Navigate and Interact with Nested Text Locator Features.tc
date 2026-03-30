@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access the Nested Text Locator page and explore various sections. Interact with multiple links and elements, including double-click actions, to verify navigation and functionality.</description>
+   <name>TC4-Navigate and Interact with Nested Text Locator Features</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba5cdb11-bb96-4256-8203-bbe615dff9f1</testCaseGuid>
+   <customField>
+      <flow>
+         <id>5d27dfb4-8108-465a-b3d4-58205f3f9394</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>

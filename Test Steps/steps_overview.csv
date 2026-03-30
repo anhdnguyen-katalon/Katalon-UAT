@@ -1,4 +1,42 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
+4,Navigate and Interact with Nested Text Locator Features,"Access the Nested Text Locator page and explore various sections. Interact with multiple links and elements, including double-click actions, to verify navigation and functionality.","Step 1: Navigate to /nested-text-locator-poc
+Step 2: Click on section howToUse
+Step 3: Click on link object -> Navigate to page '/iframes'
+Step 4: Click on link iframes
+Step 5: Click on link object -> Navigate to page '/scenario-toggle'
+Step 6: Click on link dynamicIdLocator -> Navigate to page '/dynamic-id-locator'
+Step 7: Click on link nestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'
+Step 8: Click on main nestedTextLocatorPoc
+Step 9: Click on link relationshipManagement
+Step 10: Click on link relationshipManagement
+Step 11: Click on link relationshipManagement
+Step 12: Click on header nestedSubtitle
+Step 13: Click on link relationshipManagement
+Step 14: Click on div nestedSubtitlePlusTitle
+Step 15: Click on div nestedTextOnly
+Step 16: Click on item childSpanOnly
+Step 17: Double-click on item childSpanOnly
+Step 18: Double-click on item directTextOption
+Step 19: Double-click on item childSpanOnly
+Step 20: Click on div targetTitleDescendant
+Step 21: Click on code nestedTitleSubtitleOption
+Step 22: Click on div nestedTextOnly2
+Step 23: Click on div object
+Step 24: Click on div object -> Navigate to page '/*'
+Step 25: Click on item directTextOption
+Step 26: Click on item childSpanOnlyNestedTextOption
+Step 27: Click on link relationshipManagement
+Step 28: Click on item directTextOption
+Step 29: Click on item childSpanOnlyNestedTextOption
+Step 30: Click on link relationshipManagement
+Step 31: Click on item directTextOption
+Step 32: Click on item childSpanOnlyNestedTextOption
+Step 33: Click on link relationshipManagement
+Step 34: Click on item directTextOption
+Step 35: Click on item childSpanOnlyNestedTextOption
+Step 36: Click on link relationshipManagement -> Navigate to page ''
+Step 37: Take full page screenshot as checkpoint
+",Trivial,NEW
 2,Navigate and Interact with Nested Text Elements,Navigate to the nested text locator page and perform multiple interactions with various nested text elements. Verify the final page.,"Step 1: Navigate to /nested-text-locator-poc with params (clientCode, env)
 Step 2: Click on div directTextOnParent3
 Step 3: Click on div directTextOnParent
@@ -83,7 +121,7 @@ Step 81: Click on item nestedTitleOption
 Step 82: Click on item nestedTitleOption
 Step 83: Click on link relationshipManagement -> Navigate to page ''
 Step 84: Take full page screenshot as checkpoint
-",Trivial,NEW
+",Trivial,STABLE
 3,Compare Nested Text Elements and Verify Navigation,"Navigate to the nested text locator page, compare nested text elements, and verify navigation to the home page after interactions.","Step 1: Navigate to /nested-text-locator-poc with params (clientCode, env)
 Step 2: Click on item compareXpath
 Step 3: Click on item directTextOption
@@ -92,4 +130,4 @@ Step 5: Click on code directTextOptionXpath
 Step 6: Click on item directTextOption
 Step 7: Click on item nestedTitleOption -> Navigate to page ''
 Step 8: Take full page screenshot as checkpoint
-",Trivial,NEW
+",Trivial,STABLE
