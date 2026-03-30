@@ -1,0 +1,757 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "e9328a83-3631-4ae1-a934-3c1f920e36d1",
+      "name": "Navigate to /nested-text-locator-poc with params (clientCode, env)",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "a9dc1497-124a-4498-9f3f-f9c9a9fe5e1e",
+      "name": "Click on div directTextOnParent3",
+      "action_id": "4be861c6-bfaa-4da8-9987-408a55c4abdc",
+      "timestamp": 1774851919882,
+      "target_name": "div_directTextOnParent3",
+      "target_test_object_id": "d13f4f40-261c-46cd-aa89-adfea24abc1d",
+      "sub_steps": []
+    },
+    {
+      "id": "a9250578-00f3-4cd7-9b8a-7c262bece83e",
+      "name": "Click on div directTextOnParent",
+      "action_id": "2277ff2e-6a2d-49f1-b536-60d4f8052f62",
+      "timestamp": 1774851920144,
+      "target_name": "div_directTextOnParent",
+      "target_test_object_id": "daf9398b-2aed-4734-ac85-b0f39ce6625c",
+      "sub_steps": []
+    },
+    {
+      "id": "2549f933-7260-46cc-a72b-a1ef8eecdb51",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "c3d2c1f9-ff4c-4c9f-bb7d-e6ac55734d87",
+      "timestamp": 1774851930340,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "9e968405-a249-4911-858b-2dfe8fc6a161",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "db0124f8-58e6-4ca1-90b3-089c13af5dd0",
+      "timestamp": 1774851930626,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "1e2e9ede-be1e-44fa-b69a-d3ce2d5bf3db",
+      "name": "Click on item directTextOption",
+      "action_id": "41b97357-2ea1-4af8-a15e-221a684c54a4",
+      "timestamp": 1774851932303,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "a6f99c3c-6a50-4521-a7ed-f6a1e83f731d",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "26bfb28a-1db4-4295-b63a-01ede8614d86",
+      "timestamp": 1774851932563,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "3b5514a8-5f92-4ec2-aced-f9b2e5b19a9f",
+      "name": "Click on link relationshipManagement",
+      "action_id": "ba396e43-cbb5-43f7-b367-ec616e4f0121",
+      "timestamp": 1774851933627,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "d757a968-ab6b-47ba-b414-94b94fe9a359",
+      "name": "Click on div directTextOnParent2",
+      "action_id": "9c962d07-fc05-4f1e-b72d-923362bee732",
+      "timestamp": 1774851934594,
+      "target_name": "div_directTextOnParent2",
+      "target_test_object_id": "e79a692b-38bd-4784-a35c-665c2170d02e",
+      "sub_steps": []
+    },
+    {
+      "id": "f1a8a518-69c6-4ab8-a96f-066145c33d53",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "16bdb301-eebb-464d-b94f-2f149c7e7667",
+      "timestamp": 1774851935562,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "44bda122-904b-4190-bb37-6a1d17eeb217",
+      "name": "Click on p lastClickedScenario",
+      "action_id": "ef14ee5a-4968-41fd-9442-d4bd5044169e",
+      "timestamp": 1774851936533,
+      "target_name": "p_lastClickedScenario",
+      "target_test_object_id": "78eb4a39-317c-4c6c-8e2b-fa18e5dd353b",
+      "sub_steps": []
+    },
+    {
+      "id": "fbb6d215-bc80-4d0c-a2e5-2b9fd95aea2b",
+      "name": "Click on span normalizedDescendantTextPredicate",
+      "action_id": "7345a46c-f6a9-4a0c-b7f6-dfadc9ecdd87",
+      "timestamp": 1774851936782,
+      "target_name": "span_normalizedDescendantTextPredicate",
+      "target_test_object_id": "7078370c-f181-4032-94a1-4c9b2bb26558",
+      "sub_steps": []
+    },
+    {
+      "id": "39789af7-d688-44c0-97a2-3e9086a2063a",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "4b4c7ed7-f49b-401d-b40a-0a3af5c40c00",
+      "timestamp": 1774851937884,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "d4a2db5a-7711-439d-acff-3fd4536c2992",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "8f637461-18f7-4446-9a09-d5a03be9d5c8",
+      "timestamp": 1774851938138,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "4c9cd8d9-1583-41d9-9302-85f0eec3ede1",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "3a207b78-bf13-466d-8db4-707cee0fd260",
+      "timestamp": 1774851939205,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "de15856f-02f8-4535-9cd0-e6e74186e4d0",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "aef65266-e9e9-4ef8-8686-2aa17195824b",
+      "timestamp": 1774851939462,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "ae0bcca7-bf37-46cf-9f1b-5122ba89debe",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "0f81fd12-6080-42bf-9e8f-5583ace79f2c",
+      "timestamp": 1774851939710,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "b5e95cf2-918b-4f3c-ab9c-86af54cce781",
+      "name": "Click on div nestedTextOnly",
+      "action_id": "aba84547-e1ca-4317-aeaa-3fed3ea37864",
+      "timestamp": 1774851940672,
+      "target_name": "div_nestedTextOnly",
+      "target_test_object_id": "fafc4fb6-4e1d-416a-84d4-6385bf06b40f",
+      "sub_steps": []
+    },
+    {
+      "id": "52606957-8ff5-441c-bce6-a29d8746f568",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "9ef3fe40-0cd9-44b7-bafd-9951cdf470c0",
+      "timestamp": 1774851941124,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "868f70b4-0611-4ea4-aa2f-4c8d627dd3bd",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "770a6644-b585-457d-8239-1c185db5a032",
+      "timestamp": 1774851942080,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "237d5723-f048-44fd-b09f-fcab73ca1e13",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "cd52487c-0fc1-42f1-a146-293489df4ece",
+      "timestamp": 1774851943140,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "557ff828-8d31-47cf-9354-8575207340be",
+      "name": "Click on p nestedTitleSubtitleOption",
+      "action_id": "9d7300df-b8be-45ba-af5a-3cce6696a7f6",
+      "timestamp": 1774851944713,
+      "target_name": "p_nestedTitleSubtitleOption",
+      "target_test_object_id": "4375ae09-4e4b-4914-88bd-00a0206693fc",
+      "sub_steps": []
+    },
+    {
+      "id": "c9f4f048-56cb-4b90-a630-7403eb7c1663",
+      "name": "Click on span roleOption",
+      "action_id": "5e1642c8-804d-461d-8366-3cbdd391c0f9",
+      "timestamp": 1774851947200,
+      "target_name": "span_roleOption",
+      "target_test_object_id": "407983d3-8bad-4c1b-8831-51aa2a06f5fa",
+      "sub_steps": []
+    },
+    {
+      "id": "7b6467db-d145-44de-a297-bcd13da23f16",
+      "name": "Click on item directTextOption",
+      "action_id": "491431a2-e29b-40df-89ea-bb388418af18",
+      "timestamp": 1774851947466,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "723278a0-e5fa-4d26-be7d-320f474c6310",
+      "name": "Click on p controlCaseText",
+      "action_id": "dc192849-10a1-4981-92f0-1c48328a86a4",
+      "timestamp": 1774851947722,
+      "target_name": "p_controlCaseText",
+      "target_test_object_id": "15c4df32-81c8-42ff-a794-b2b852f92f49",
+      "sub_steps": []
+    },
+    {
+      "id": "9acb6aa6-23f6-4ceb-a7a2-9b136e8612c4",
+      "name": "Click on item directTextOption",
+      "action_id": "478092d6-87dc-4484-b0c8-f120a79b1925",
+      "timestamp": 1774851948676,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "b241a5eb-0ba1-4aaa-a617-14a8d6f57707",
+      "name": "Double-click on p primaryRepro",
+      "action_id": "a91d7a7d-0c25-483a-9cde-2d94aadc8fa2",
+      "timestamp": 1774851949354,
+      "target_name": "p_primaryRepro",
+      "target_test_object_id": "601ecc06-f122-44a6-bb46-779d734b3d99",
+      "sub_steps": []
+    },
+    {
+      "id": "115120e1-26a8-418f-b16b-53f47f318151",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "f1ccac35-e903-447c-9334-ecd469cb6f72",
+      "timestamp": 1774851951627,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "3576e67f-36f8-4cff-a139-1076387e75eb",
+      "name": "Click on link relationshipManagement",
+      "action_id": "8ef568f9-85c5-44eb-a138-899ed5bc2dbe",
+      "timestamp": 1774851952692,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "bfd483b2-7511-4cec-8096-3db61db8d182",
+      "name": "Click on link relationshipManagement",
+      "action_id": "563c2ed1-9422-4b83-ab0c-ddf9359d141f",
+      "timestamp": 1774851952948,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "133a37ee-2867-405a-b8f2-9d94d37439c5",
+      "name": "Click on link relationshipManagement",
+      "action_id": "d12cb8a2-e8b5-4d5a-81ad-8d04c53bedc3",
+      "timestamp": 1774851953184,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "5bc060ad-e074-4316-b79b-abb96b045e60",
+      "name": "Click on div nestedTextOnly",
+      "action_id": "1fca076e-057d-43ad-8afe-65592005f604",
+      "timestamp": 1774851954145,
+      "target_name": "div_nestedTextOnly",
+      "target_test_object_id": "fafc4fb6-4e1d-416a-84d4-6385bf06b40f",
+      "sub_steps": []
+    },
+    {
+      "id": "5d045f27-7ea5-4a91-a5f7-14204b6d25ac",
+      "name": "Click on item openPageInstruction",
+      "action_id": "3568b049-680d-4b4c-bda7-64ee673d9e8b",
+      "timestamp": 1774851957344,
+      "target_name": "item_openPageInstruction",
+      "target_test_object_id": "87a323ed-8b74-4a7a-b0b9-2023ba94c9e3",
+      "sub_steps": []
+    },
+    {
+      "id": "660c7c5c-8529-429b-b818-d33f9247eecc",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "5f5c7d0a-8a2c-4ffe-86d6-b7ee2b923ea6",
+      "timestamp": 1774851957610,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "a72f3035-3025-4ea9-af7d-face5a74b1ed",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "ba8f29f4-e8f9-4c7f-81d2-c7967ee50571",
+      "timestamp": 1774851959281,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "4cd8156b-d5af-4c78-894f-5194e2af808e",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "dd519bb0-b0a7-450d-979d-0f839070d7b0",
+      "timestamp": 1774851959539,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "3ef7a83d-1353-4b42-b302-152b6679158e",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "d439e103-bb10-455c-b7d7-a5b20a77730a",
+      "timestamp": 1774851959781,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "e33b9a17-3fac-47c4-a838-841cf92580db",
+      "name": "Click on header capturedObjects",
+      "action_id": "02c77601-2371-450e-9c65-b86c231e8ae6",
+      "timestamp": 1774851960643,
+      "target_name": "header_capturedObjects",
+      "target_test_object_id": "e7875dfd-eed1-46e2-be8f-73b40dc49ab3",
+      "sub_steps": []
+    },
+    {
+      "id": "e13da964-49f9-43a3-80f6-10659f5a6d80",
+      "name": "Click on header howToUseThisPage",
+      "action_id": "d8cb2e23-9da2-45f2-af26-fcd3efa8ecb3",
+      "timestamp": 1774851961597,
+      "target_name": "header_howToUseThisPage",
+      "target_test_object_id": "05ea2009-d3a4-4772-b319-de325b8c300d",
+      "sub_steps": []
+    },
+    {
+      "id": "b4168231-02af-4182-a9f7-20f59bd2b83f",
+      "name": "Click on header howToUseThisPage",
+      "action_id": "531f0021-bf0f-4bde-b03b-93c8d8504c86",
+      "timestamp": 1774851962547,
+      "target_name": "header_howToUseThisPage",
+      "target_test_object_id": "05ea2009-d3a4-4772-b319-de325b8c300d",
+      "sub_steps": []
+    },
+    {
+      "id": "592340dd-4ea2-40f8-a87b-83336329d36d",
+      "name": "Click on list openPageInstructions",
+      "action_id": "7410f26c-e59d-475e-a1e1-efbbd28066ed",
+      "timestamp": 1774851963607,
+      "target_name": "list_openPageInstructions",
+      "target_test_object_id": "a2b31243-21de-4b90-a7ba-337ba7e085fb",
+      "sub_steps": []
+    },
+    {
+      "id": "009bd381-8b4a-4f0b-bdd8-afab06a95d8c",
+      "name": "Click on div nestedTextOnly2",
+      "action_id": "2199afd7-d998-4096-a418-6ba60f452ece",
+      "timestamp": 1774851965267,
+      "target_name": "div_nestedTextOnly2",
+      "target_test_object_id": "f06e6c33-e426-4cb6-912b-756d3d0ecc6e",
+      "sub_steps": []
+    },
+    {
+      "id": "0d0add05-21a0-4efb-953e-001d83ce33cc",
+      "name": "Click on div nestedTextOnly2",
+      "action_id": "e306360a-1383-4d16-8c2c-f05c6b2ebe96",
+      "timestamp": 1774851965519,
+      "target_name": "div_nestedTextOnly2",
+      "target_test_object_id": "f06e6c33-e426-4cb6-912b-756d3d0ecc6e",
+      "sub_steps": []
+    },
+    {
+      "id": "49eef15c-f13f-48b5-857a-ea98d401bf20",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "048d6cf2-020b-489f-885c-64b598526163",
+      "timestamp": 1774851965759,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "f0c3aa43-ffd2-41f3-b31d-5c4b4aee0c56",
+      "name": "Click on link relationshipManagement",
+      "action_id": "a34d6b13-146f-4b52-baa9-8975402af290",
+      "timestamp": 1774851966606,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "13fee2c2-d4a8-44ef-9bbe-57a237afef28",
+      "name": "Click on link relationshipManagement",
+      "action_id": "f84be150-8d47-4601-bee5-72677ca44004",
+      "timestamp": 1774851967561,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "9348ce74-7004-4d23-8d09-6e7228103faf",
+      "name": "Click on span roleOption",
+      "action_id": "dba40d97-5446-4435-8a65-2a50070720f6",
+      "timestamp": 1774851968616,
+      "target_name": "span_roleOption",
+      "target_test_object_id": "407983d3-8bad-4c1b-8831-51aa2a06f5fa",
+      "sub_steps": []
+    },
+    {
+      "id": "d8fd919c-b717-4370-a52f-389037bd877f",
+      "name": "Click on span roleOption",
+      "action_id": "e8e5c810-ed4c-467d-9571-220cde68e604",
+      "timestamp": 1774851969175,
+      "target_name": "span_roleOption",
+      "target_test_object_id": "407983d3-8bad-4c1b-8831-51aa2a06f5fa",
+      "sub_steps": []
+    },
+    {
+      "id": "380822af-75f0-40eb-a8de-a5b3988480ed",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "038a19a5-cfe6-434c-966f-b43f553d013e",
+      "timestamp": 1774851969431,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "326ca115-fd97-440a-8c23-36bcb967146e",
+      "name": "Click on div brokenParentTextPredicate",
+      "action_id": "1c870e6a-c0c9-40c7-a4dd-7f4a3cc70ba0",
+      "timestamp": 1774851969694,
+      "target_name": "div_brokenParentTextPredicate",
+      "target_test_object_id": "1e41509d-df11-44db-8409-86a4e7edee0e",
+      "sub_steps": []
+    },
+    {
+      "id": "b485e90b-e2e5-497d-bd23-b0cd14f3d407",
+      "name": "Click on code nestedTitleOptionXpath",
+      "action_id": "cb87b91d-1714-4ba6-9f25-9d06bc711dc4",
+      "timestamp": 1774851971254,
+      "target_name": "code_nestedTitleOptionXpath",
+      "target_test_object_id": "64ec9e54-0c25-421e-ae7b-09d5c10d6026",
+      "sub_steps": []
+    },
+    {
+      "id": "3cbf0771-4c8e-4d53-aa6a-7d640526df77",
+      "name": "Click on span containsFullDescendantText",
+      "action_id": "6b7feb7f-2393-4581-97d7-723f8fa998c0",
+      "timestamp": 1774851972203,
+      "target_name": "span_containsFullDescendantText",
+      "target_test_object_id": "aa89fabc-7578-4cc3-ada1-845cd27e1e18",
+      "sub_steps": []
+    },
+    {
+      "id": "6afeea08-2489-4bd9-8eb2-432eb31af7f2",
+      "name": "Click on code directTextOptionXpath2",
+      "action_id": "3497c8db-7478-4d33-a48b-84791c08ad60",
+      "timestamp": 1774851973070,
+      "target_name": "code_directTextOptionXpath2",
+      "target_test_object_id": "bf9a47d9-9bb6-452e-bec6-76b6460e9fbf",
+      "sub_steps": []
+    },
+    {
+      "id": "85011860-593c-41f0-a485-0749bfbabe13",
+      "name": "Click on item openPageInstruction",
+      "action_id": "0dcd615b-84b4-4acd-82f8-078ded67dc6e",
+      "timestamp": 1774851976245,
+      "target_name": "item_openPageInstruction",
+      "target_test_object_id": "87a323ed-8b74-4a7a-b0b9-2023ba94c9e3",
+      "sub_steps": []
+    },
+    {
+      "id": "e1b62aa6-e042-4f99-aad2-5c9a3c3473cd",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "4f2788d0-5ae2-4402-b8bc-9a569effd658",
+      "timestamp": 1774851976508,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "03507f43-27a1-4b91-9e2d-4615321ece8c",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "ce7f8e37-6376-4637-8b7e-720b12d0d494",
+      "timestamp": 1774851976747,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "281364d3-1ebd-43fa-b4d7-dfae81237593",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "ea77792b-c475-4439-b152-bf2d043af3ca",
+      "timestamp": 1774851979106,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "b0d11b0b-5534-4f9e-8d67-01ad3d10ec85",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "9003374f-6c2f-4c85-b453-bce37e7dd76e",
+      "timestamp": 1774851980061,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "44a14149-b112-4e95-9b78-f10f35eb2f38",
+      "name": "Click on link relationshipManagement",
+      "action_id": "99b186a6-8b6d-4882-bc29-a948933d3e82",
+      "timestamp": 1774851981111,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "c4731a9b-b3a3-4506-872f-2141939f0439",
+      "name": "Click on p controlCaseText2",
+      "action_id": "40b1f9b4-d394-4ede-994b-f72de7782698",
+      "timestamp": 1774851982180,
+      "target_name": "p_controlCaseText2",
+      "target_test_object_id": "1f286d5c-99bf-4e46-8b6c-a88fd5ee6008",
+      "sub_steps": []
+    },
+    {
+      "id": "34dfe698-84a5-49d8-a382-da9e0d80a1e2",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "2b28bfff-49e0-4b7c-ba4c-e266c441143c",
+      "timestamp": 1774851982439,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "d4b1e293-819d-4211-9148-783d7006c176",
+      "name": "Click on item directTextOption",
+      "action_id": "307ce53a-64e0-40a7-b1aa-2855b847154d",
+      "timestamp": 1774851982752,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "47ab3ba4-d8d1-4bdf-87ae-93fa1abc1437",
+      "name": "Click on code directTextOptionXpath",
+      "action_id": "967a88ae-fd7e-45ee-ba7d-b672df09dffe",
+      "timestamp": 1774851985027,
+      "target_name": "code_directTextOptionXpath",
+      "target_test_object_id": "98d207b4-7e7e-495e-bf37-eea3fa1945a8",
+      "sub_steps": []
+    },
+    {
+      "id": "6402c3e7-bf13-45e4-b6ba-ccbb6a7ac270",
+      "name": "Click on link relationshipManagement",
+      "action_id": "b41901b9-ffa7-42d7-bc4f-9d804d42d609",
+      "timestamp": 1774851985271,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "30d9f4d4-c88a-4029-af84-272f255148eb",
+      "name": "Click on p primaryRepro",
+      "action_id": "2a9cbca9-a28e-41ec-bb24-8ab26070f1fe",
+      "timestamp": 1774851985620,
+      "target_name": "p_primaryRepro",
+      "target_test_object_id": "601ecc06-f122-44a6-bb46-779d734b3d99",
+      "sub_steps": []
+    },
+    {
+      "id": "116a27ef-b0cd-4a66-bbe6-f9946635c722",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "8374d239-63fe-4d94-b650-80ac2753457b",
+      "timestamp": 1774851986673,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "2ef45790-fd7f-46fa-a29d-df0bb1c4557c",
+      "name": "Click on item directTextOption",
+      "action_id": "7b1ac726-59ca-402f-9e06-de682980320f",
+      "timestamp": 1774851986926,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "c102b7a3-4d0e-415a-9248-53b9da112dbb",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "13497e59-3ea1-4a46-8f0f-9e3db3a705a9",
+      "timestamp": 1774851987182,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "077f445c-7e62-42bb-ba3b-eb5cac2ae87b",
+      "name": "Click on item directTextOption",
+      "action_id": "f138292f-60b1-4656-9995-d3179c5727a1",
+      "timestamp": 1774851988134,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "1bf365fc-92e3-4f89-86dc-1bbf126e5ee3",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "e18a20cf-0998-44f7-9e8f-c4871cabe68b",
+      "timestamp": 1774851989082,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "1e3e52c4-f36f-4ae8-baa1-2a9f4ff94f3a",
+      "name": "Click on link relationshipManagement",
+      "action_id": "d4985386-ffcf-4a1e-993a-26f27d2662ec",
+      "timestamp": 1774851990559,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "712b97bd-7aab-4a68-935a-15d4ca2a22f6",
+      "name": "Click on item directTextOption",
+      "action_id": "e3c9b007-987a-4a88-a2c7-20d954ae5e94",
+      "timestamp": 1774851991618,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "643c442d-83e8-4919-81d6-36d1daa7e9ee",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "cee2130d-88f7-4cc8-a4db-7e93117aee9d",
+      "timestamp": 1774851992573,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "8e923968-a7c4-47d5-94ec-72e67e7d02f8",
+      "name": "Click on link relationshipManagement",
+      "action_id": "7b39a3b5-c0e3-4707-848d-bdd7d15f4065",
+      "timestamp": 1774851993631,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "6537bf2c-1f3d-4fe4-8c61-bbe199571d75",
+      "name": "Click on p controlCaseText2",
+      "action_id": "867943f3-6ac7-46ee-8926-c5bc19a7dd06",
+      "timestamp": 1774851994689,
+      "target_name": "p_controlCaseText2",
+      "target_test_object_id": "1f286d5c-99bf-4e46-8b6c-a88fd5ee6008",
+      "sub_steps": []
+    },
+    {
+      "id": "529ee260-1604-4769-87f5-257eb0648d68",
+      "name": "Click on item directTextOption",
+      "action_id": "f984d742-3dae-4c6f-ad30-5ac63cb768ef",
+      "timestamp": 1774851994969,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "5f2589bb-acf6-4863-935e-6cda77906bf8",
+      "name": "Click on p primaryRepro",
+      "action_id": "66c04c93-a071-4ce6-9947-5cd614c1c365",
+      "timestamp": 1774851995213,
+      "target_name": "p_primaryRepro",
+      "target_test_object_id": "601ecc06-f122-44a6-bb46-779d734b3d99",
+      "sub_steps": []
+    },
+    {
+      "id": "18bbeec2-1d51-42c9-b6cf-1838af74084c",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "d7be0126-006f-4fd6-b89d-218a1d96fa94",
+      "timestamp": 1774851996770,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "b552dec3-3180-45c8-970d-228f537da720",
+      "name": "Click on link relationshipManagement",
+      "action_id": "2b492d6e-2ea7-494d-95bf-e2cfea4ae7fc",
+      "timestamp": 1774851997620,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "79079bc6-e30b-4392-bae8-c0072988fc3b",
+      "name": "Click on item directTextOption",
+      "action_id": "96ede854-6a03-41d9-9852-6b3d79693e03",
+      "timestamp": 1774851998571,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "938d8427-fa87-4840-ae7d-d7849a6af2f2",
+      "sub_steps": []
+    },
+    {
+      "id": "9e7e9d62-5915-459f-a6cb-44a29c8c9c28",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "8c148c6d-e6b2-4185-8114-66ad5d63983e",
+      "timestamp": 1774851999626,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "c72246f9-b18f-482a-b6f2-6844792dba76",
+      "name": "Click on item nestedTitleOption",
+      "action_id": "75bb9fb3-8415-4bc4-a66a-5ac268da12c0",
+      "timestamp": 1774852000580,
+      "target_name": "item_nestedTitleOption",
+      "target_test_object_id": "37a5ea83-552c-4f04-86b3-ed9c3a545f48",
+      "sub_steps": []
+    },
+    {
+      "id": "81e2cffe-e7b6-4829-8f04-66ba1ab74f9b",
+      "name": "Click on link relationshipManagement -> Navigate to page ''",
+      "action_id": "b7f90c42-11f9-441e-b09e-081eab4037da",
+      "timestamp": 1774852001625,
+      "target_name": "link_relationshipManagement",
+      "target_test_object_id": "af6404cc-6ccf-48cb-aa04-f20deb0ffdf4",
+      "sub_steps": []
+    },
+    {
+      "id": "779ebfa9-dc1d-468a-97a4-855f1d386888",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
