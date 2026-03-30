@@ -1,133 +1,51 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-4,Navigate and Interact with Nested Text Locator Features,"Access the Nested Text Locator page and explore various sections. Interact with multiple links and elements, including double-click actions, to verify navigation and functionality.","Step 1: Navigate to /nested-text-locator-poc
-Step 2: Click on section howToUse
-Step 3: Click on link object -> Navigate to page '/iframes'
-Step 4: Click on link iframes
-Step 5: Click on link object -> Navigate to page '/scenario-toggle'
-Step 6: Click on link dynamicIdLocator -> Navigate to page '/dynamic-id-locator'
-Step 7: Click on link nestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'
-Step 8: Click on main nestedTextLocatorPoc
-Step 9: Click on link relationshipManagement
-Step 10: Click on link relationshipManagement
-Step 11: Click on link relationshipManagement
-Step 12: Click on header nestedSubtitle
-Step 13: Click on link relationshipManagement
-Step 14: Click on div nestedSubtitlePlusTitle
-Step 15: Click on div nestedTextOnly
-Step 16: Click on item childSpanOnly
-Step 17: Double-click on item childSpanOnly
-Step 18: Double-click on item directTextOption
-Step 19: Double-click on item childSpanOnly
-Step 20: Click on div targetTitleDescendant
-Step 21: Click on code nestedTitleSubtitleOption
-Step 22: Click on div nestedTextOnly2
-Step 23: Click on div object
-Step 24: Click on div object -> Navigate to page '/*'
-Step 25: Click on item directTextOption
-Step 26: Click on item childSpanOnlyNestedTextOption
-Step 27: Click on link relationshipManagement
-Step 28: Click on item directTextOption
-Step 29: Click on item childSpanOnlyNestedTextOption
-Step 30: Click on link relationshipManagement
-Step 31: Click on item directTextOption
-Step 32: Click on item childSpanOnlyNestedTextOption
-Step 33: Click on link relationshipManagement
-Step 34: Click on item directTextOption
-Step 35: Click on item childSpanOnlyNestedTextOption
-Step 36: Click on link relationshipManagement -> Navigate to page ''
-Step 37: Take full page screenshot as checkpoint
-",Trivial,NEW
-2,Navigate and Interact with Nested Text Elements,Navigate to the nested text locator page and perform multiple interactions with various nested text elements. Verify the final page.,"Step 1: Navigate to /nested-text-locator-poc with params (clientCode, env)
-Step 2: Click on div directTextOnParent3
-Step 3: Click on div directTextOnParent
-Step 4: Click on code directTextOptionXpath
-Step 5: Click on code directTextOptionXpath
-Step 6: Click on item directTextOption
-Step 7: Click on item nestedTitleOption
+5,Navigate and Verify Account Management and Relationship Management Links,"Navigate through the application, repeatedly accessing account and relationship management links. Verify the functionality of the links and ensure the page loads correctly.","Step 1: Navigate to /ifs-page-source-repro with params (clientCode, env)
+Step 2: Click on link accountManagement
+Step 3: Click on link relationshipManagement
+Step 4: Click on main pageSourceRepro
+Step 5: Click on link accountManagement
+Step 6: Click on link relationshipManagement
+Step 7: Click on link accountManagement
 Step 8: Click on link relationshipManagement
-Step 9: Click on div directTextOnParent2
-Step 10: Click on code directTextOptionXpath
-Step 11: Click on p lastClickedScenario
-Step 12: Click on span normalizedDescendantTextPredicate
-Step 13: Click on code directTextOptionXpath
-Step 14: Click on code directTextOptionXpath
-Step 15: Click on code directTextOptionXpath
-Step 16: Click on code directTextOptionXpath
-Step 17: Click on code directTextOptionXpath
-Step 18: Click on div nestedTextOnly
-Step 19: Click on code directTextOptionXpath
-Step 20: Click on code directTextOptionXpath
-Step 21: Click on code directTextOptionXpath
-Step 22: Click on p nestedTitleSubtitleOption
-Step 23: Click on span roleOption
-Step 24: Click on item directTextOption
-Step 25: Click on p controlCaseText
-Step 26: Click on item directTextOption
-Step 27: Double-click on p primaryRepro
-Step 28: Click on item nestedTitleOption
-Step 29: Click on link relationshipManagement
+Step 9: Click on link accountManagement
+Step 10: Click on link relationshipManagement
+Step 11: Click on link accountManagement
+Step 12: Click on link relationshipManagement
+Step 13: Click on link accountManagement
+Step 14: Click on link relationshipManagement
+Step 15: Click on link accountManagement
+Step 16: Click on link relationshipManagement
+Step 17: Click on link accountManagement
+Step 18: Click on link relationshipManagement
+Step 19: Click on link accountManagement
+Step 20: Click on aside navigatorMenu
+Step 21: Click on link accountManagement
+Step 22: Click on aside navigatorMenu
+Step 23: Click on link accountManagement
+Step 24: Click on link relationshipManagement
+Step 25: Click on link accountManagement
+Step 26: Click on aside navigatorMenu
+Step 27: Click on link accountManagement
+Step 28: Click on link relationshipManagement
+Step 29: Click on link accountManagement
 Step 30: Click on link relationshipManagement
-Step 31: Click on link relationshipManagement
-Step 32: Click on div nestedTextOnly
-Step 33: Click on item openPageInstruction
-Step 34: Click on item nestedTitleOption
-Step 35: Click on code directTextOptionXpath
-Step 36: Click on code directTextOptionXpath
-Step 37: Click on item nestedTitleOption
-Step 38: Click on header capturedObjects
-Step 39: Click on header howToUseThisPage
-Step 40: Click on header howToUseThisPage
-Step 41: Click on list openPageInstructions
-Step 42: Click on div nestedTextOnly2
-Step 43: Click on div nestedTextOnly2
-Step 44: Click on item nestedTitleOption
-Step 45: Click on link relationshipManagement
-Step 46: Click on link relationshipManagement
-Step 47: Click on span roleOption
-Step 48: Click on span roleOption
-Step 49: Click on code directTextOptionXpath
-Step 50: Click on div brokenParentTextPredicate
-Step 51: Click on code nestedTitleOptionXpath
-Step 52: Click on span containsFullDescendantText
-Step 53: Click on code directTextOptionXpath2
-Step 54: Click on item openPageInstruction
-Step 55: Click on item nestedTitleOption
-Step 56: Click on item nestedTitleOption
-Step 57: Click on item nestedTitleOption
-Step 58: Click on item nestedTitleOption
-Step 59: Click on link relationshipManagement
-Step 60: Click on p controlCaseText2
-Step 61: Click on item nestedTitleOption
-Step 62: Click on item directTextOption
-Step 63: Click on code directTextOptionXpath
-Step 64: Click on link relationshipManagement
-Step 65: Click on p primaryRepro
-Step 66: Click on item nestedTitleOption
-Step 67: Click on item directTextOption
-Step 68: Click on item nestedTitleOption
-Step 69: Click on item directTextOption
-Step 70: Click on item nestedTitleOption
-Step 71: Click on link relationshipManagement
-Step 72: Click on item directTextOption
-Step 73: Click on item nestedTitleOption
-Step 74: Click on link relationshipManagement
-Step 75: Click on p controlCaseText2
-Step 76: Click on item directTextOption
-Step 77: Click on p primaryRepro
-Step 78: Click on item nestedTitleOption
-Step 79: Click on link relationshipManagement
-Step 80: Click on item directTextOption
-Step 81: Click on item nestedTitleOption
-Step 82: Click on item nestedTitleOption
-Step 83: Click on link relationshipManagement -> Navigate to page ''
-Step 84: Take full page screenshot as checkpoint
-",Trivial,STABLE
-3,Compare Nested Text Elements and Verify Navigation,"Navigate to the nested text locator page, compare nested text elements, and verify navigation to the home page after interactions.","Step 1: Navigate to /nested-text-locator-poc with params (clientCode, env)
-Step 2: Click on item compareXpath
-Step 3: Click on item directTextOption
-Step 4: Click on code directTextOptionXpath
-Step 5: Click on code directTextOptionXpath
-Step 6: Click on item directTextOption
-Step 7: Click on item nestedTitleOption -> Navigate to page ''
-Step 8: Take full page screenshot as checkpoint
-",Trivial,STABLE
+Step 31: Click on link accountManagement
+Step 32: Click on link relationshipManagement
+Step 33: Click on link accountManagement
+Step 34: Click on link relationshipManagement
+Step 35: Click on link accountManagement
+Step 36: Click on link relationshipManagement
+Step 37: Click on link accountManagement
+Step 38: Click on link relationshipManagement
+Step 39: Click on main pageSourceRepro
+Step 40: Click on div eventLog
+Step 41: Click on main pageSourceRepro
+Step 42: Click on link accountManagement
+Step 43: Click on input search
+Step 44: Click on input search
+Step 45: Click on link accountManagement
+Step 46: Click on aside navigatorMenu
+Step 47: Click on link accountManagement
+Step 48: Click on link relationshipManagement -> Navigate to page ''
+Step 49: Take full page screenshot as checkpoint
+",Trivial,NEW
