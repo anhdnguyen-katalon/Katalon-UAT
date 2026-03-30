@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cursor-pointer rounded-xl border border-gray-300 bg-white px-4 py-3 text-sm font-medium text-gray-900 outline-none hover:border-blue-400 hover:bg-blue-50 focus:border-blue-500 focus:ring-2 focus:ring-blue-200 dark:border-gray-600 dark:bg-gray-800 dark:text-white dark:hover:bg-gray-800</value>
-      <webElementGuid>fe795cb9-2adf-441a-8218-7ee55fee8508</webElementGuid>
+      <webElementGuid>7ae7c4c9-b348-41ff-8662-fba5bc469bdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>direct-text-option</value>
-      <webElementGuid>fe795cb9-2adf-441a-8218-7ee55fee8508</webElementGuid>
+      <webElementGuid>7ae7c4c9-b348-41ff-8662-fba5bc469bdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>fe795cb9-2adf-441a-8218-7ee55fee8508</webElementGuid>
+      <webElementGuid>7ae7c4c9-b348-41ff-8662-fba5bc469bdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,6 +62,6 @@
       <name>text</name>
       <type>Main</type>
       <value>Direct Text Option</value>
-      <webElementGuid>fe795cb9-2adf-441a-8218-7ee55fee8508</webElementGuid>
+      <webElementGuid>7ae7c4c9-b348-41ff-8662-fba5bc469bdf</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

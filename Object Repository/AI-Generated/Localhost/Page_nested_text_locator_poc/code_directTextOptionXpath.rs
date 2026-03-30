@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block overflow-x-auto whitespace-pre-wrap break-all rounded bg-gray-100 p-2 text-xs text-gray-800 dark:bg-gray-800 dark:text-gray-200</value>
-      <webElementGuid>fe795cb9-2adf-441a-8218-7ee55fee8508</webElementGuid>
+      <webElementGuid>7ae7c4c9-b348-41ff-8662-fba5bc469bdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>text</name>
       <type>Main</type>
       <value>//*[@data-poc='direct-text-option' and @role='option' and text()='Direct Text Option']</value>
-      <webElementGuid>fe795cb9-2adf-441a-8218-7ee55fee8508</webElementGuid>
+      <webElementGuid>7ae7c4c9-b348-41ff-8662-fba5bc469bdf</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
