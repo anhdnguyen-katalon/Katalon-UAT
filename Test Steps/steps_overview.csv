@@ -1,15 +1,89 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-26,Navigate and Verify Home Page and Related Links,Start at the home page and navigate through various sections and links. Verify the home page and ensure all links lead to the correct destinations.,"Step 1: Navigate to /
-Step 2: Click on html home
-Step 3: Click on footer home
-Step 4: Click on html home
-Step 5: Click on div homeDescription
-Step 6: Click on html home
-Step 7: Click on html home
-Step 8: Click on link katalonStudio -> Navigate to page '/katalon-studio'
-Step 9: Click on link manualTesting -> Navigate to page '/testops'
-Step 10: Click on link testManagement -> Navigate to page '/resources-center/blog'
-Step 11: Click on div blogHeader
-Step 12: Click on main blogContent -> Navigate to page ''
-Step 13: Take full page screenshot as checkpoint
+1,Navigate and Interact with Nested Text Locator Elements,Navigate to the nested text locator page and perform various interactions with nested elements. Verify the functionality of links and options throughout the page.,"Step 1: Navigate to /nested-text-locator-poc with params (clientCode, env)
+Step 2: Click on div nestedTextLocatorPoc
+Step 3: Click on div directTextOnParent
+Step 4: Click on code directTextOptionXpath
+Step 5: Click on code nestedTextOptions (nestedTitleSubtitleOption)
+Step 6: Click on item directTextOption
+Step 7: Click on item nestedTitleOption
+Step 8: Click on link relationshipManagement
+Step 9: Click on main nestedTextLocatorPoc
+Step 10: Click on aside selectedTargetInstruction
+Step 11: Click on p mimicRecorderCapture
+Step 12: Click on span normalizedDescendantTextPredicate
+Step 13: Click on code directTextOptionXpath
+Step 14: Click on code nestedTextOptions (nestedTextOption)
+Step 15: Click on code nestedTextOptions (nestedTextOption2)
+Step 16: Click on code nestedTextOptions (nestedTextOption2)
+Step 17: Click on code nestedTextOptions (nestedTitleSubtitleOption)
+Step 18: Click on div directTextOnParent
+Step 19: Click on code nestedTextOptions (nestedTitleSubtitleOptionContains)
+Step 20: Click on code nestedTextOptions (nestedTitleSubtitleOption)
+Step 21: Click on code nestedTextOptions (nestedTitleSubtitleOption2)
+Step 22: Click on p nestedTitleSubtitleOption
+Step 23: Click on span roleOption
+Step 24: Click on item directTextOption
+Step 25: Click on p controlCaseText
+Step 26: Click on item directTextOption
+Step 27: Double-click on item nestedTitleOption
+Step 28: Click on item nestedTitleOption
+Step 29: Click on link relationshipManagement
+Step 30: Click on link relationshipManagement
+Step 31: Click on link relationshipManagement
+Step 32: Click on div directTextOnParent2
+Step 33: Click on item openPageInstruction
+Step 34: Click on div directTextOnParent2
+Step 35: Click on code nestedTextOptions (nestedTitleSubtitleOption)
+Step 36: Click on code nestedTextOptions (nestedTitleSubtitleOption)
+Step 37: Click on div directTextOnParent2
+Step 38: Click on header nestedTextLocatorPoc
+Step 39: Click on header howToUseThisPage
+Step 40: Click on header howToUseThisPage
+Step 41: Click on list openPageInstructions
+Step 42: Click on div directTextOnParent2
+Step 43: Click on div directTextOnParent2
+Step 44: Click on item nestedTitleOption
+Step 45: Click on link relationshipManagement
+Step 46: Click on link relationshipManagement
+Step 47: Click on span roleOptions (roleOption2)
+Step 48: Click on span roleOptions (roleOption3)
+Step 49: Click on code directTextOptionXpath
+Step 50: Click on div brokenParentTextPredicate
+Step 51: Click on div targetChildSpanText
+Step 52: Click on div containsFullDescendantText
+Step 53: Click on div normalizedDescendantTextPredicate
+Step 54: Click on item openPageInstruction
+Step 55: Click on div directTextOnParent2
+Step 56: Click on div directTextOnParent2
+Step 57: Click on div directTextOnParent2
+Step 58: Click on item nestedTitleOption
+Step 59: Click on link relationshipManagement
+Step 60: Click on div directTextOnParent3
+Step 61: Click on div directTextOnParent2
+Step 62: Click on item directTextOption
+Step 63: Click on div directTextPredicate
+Step 64: Click on link relationshipManagement
+Step 65: Click on div nestedTextOnly
+Step 66: Click on item nestedTitleOption
+Step 67: Click on item directTextOption
+Step 68: Click on div directTextOnParent2
+Step 69: Click on item directTextOption
+Step 70: Click on item nestedTitleOption
+Step 71: Click on link relationshipManagement
+Step 72: Click on item directTextOption
+Step 73: Click on item nestedTitleOption
+Step 74: Click on link relationshipManagement
+Step 75: Click on p controlCaseText2
+Step 76: Click on item directTextOption
+Step 77: Click on div nestedTextOnly
+Step 78: Click on item nestedTitleOption
+Step 79: Click on link relationshipManagement
+Step 80: Click on item directTextOption
+Step 81: Click on item nestedTitleOption
+Step 82: Click on item nestedTitleOption
+Step 83: Click on link relationshipManagement
+Step 84: Click on link relationshipManagement
+Step 85: Click on link relationshipManagement
+Step 86: Click on link relationshipManagement -> Navigate to page ''
+Step 87: Take full page screenshot as checkpoint
 ",Trivial,NEW

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the nested text locator page and perform various interactions with nested elements. Verify the functionality of links and options throughout the page.</description>
+   <name>TC1-Navigate and Interact with Nested Text Locator Elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ff85fd0-894c-42be-a54e-443350f5b77d</testCaseGuid>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 5: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>9e8bb40e-ea00-49fa-acdd-78e484262a97</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 15: Click on code nestedTextOptions (nestedTextOption2) - (Dynamic locator variable)</description>
+      <id>27588f95-3cd6-49a2-a7c1-d37444a71ed9</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 16: Click on code nestedTextOptions (nestedTextOption2) - (Dynamic locator variable)</description>
+      <id>5744c5ab-b4d4-4dcd-8e8d-fd5f77150ad4</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 17: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>99ecb1c3-842a-42a2-b987-930b11c5922b</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 19: Click on code nestedTextOptions (nestedTitleSubtitleOptionContains) - (Dynamic locator variable)</description>
+      <id>0096ad68-3e22-433a-811a-2fb061c5991f</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_4</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 20: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>277f1235-28e5-488b-bbd0-a97add325151</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_5</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 35: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>81006d49-4eb9-4b1c-b6d1-5ee6a92d2cc5</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_6</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 36: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>40b3e1bb-694e-4e82-ac6f-c8854ef981d6</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_7</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 14: Click on code nestedTextOptions (nestedTextOption) - (Dynamic locator variable)</description>
+      <id>7c83b2a0-bab3-4dc3-a3cb-0eab858c80b3</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_8</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 21: Click on code nestedTextOptions (nestedTitleSubtitleOption2) - (Dynamic locator variable)</description>
+      <id>b38b02f0-a4f4-47fe-9abe-4bae09d84973</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_DivNthChild_9</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 5: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>419cbe0b-118e-4cb3-8104-da20309ce46b</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_Key</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 15: Click on code nestedTextOptions (nestedTextOption2) - (Dynamic locator variable)</description>
+      <id>822caecc-4caa-4a7b-a976-c1393a238668</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_Key_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 16: Click on code nestedTextOptions (nestedTextOption2) - (Dynamic locator variable)</description>
+      <id>7754b678-a6bb-4512-be12-89c031befaef</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_Key_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 17: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>7ee6d418-3c36-4d2b-b5bb-42d4575c8a53</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_Key_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 19: Click on code nestedTextOptions (nestedTitleSubtitleOptionContains) - (Dynamic locator variable)</description>
+      <id>b289b8ae-eb11-4d5f-9e65-5c6a247a6ad1</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_Key_4</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 20: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>27e14081-2b80-4270-9fb9-936f866dd892</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_Key_5</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 35: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>e97d5738-49ff-444b-ab64-08ba9471c47e</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_Key_6</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 36: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>5ba5cb1e-3021-4637-98e5-3ab1502a6305</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_Key_7</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(3) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(2) &gt; .block'</defaultValue>
+      <description>Step 5: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>14ebdade-201b-4973-861c-2a179d576592</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(2) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(2) &gt; .block'</defaultValue>
+      <description>Step 15: Click on code nestedTextOptions (nestedTextOption2) - (Dynamic locator variable)</description>
+      <id>93154bfd-b218-4a11-aa03-265296c94259</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(2) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(2) &gt; .block'</defaultValue>
+      <description>Step 16: Click on code nestedTextOptions (nestedTextOption2) - (Dynamic locator variable)</description>
+      <id>828089c5-832e-4c10-b589-78659cb2cb82</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(3) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(2) &gt; .block'</defaultValue>
+      <description>Step 17: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>60fe3d35-04d6-4a38-a2ff-54ce219c7103</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(3) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(3) &gt; .block'</defaultValue>
+      <description>Step 19: Click on code nestedTextOptions (nestedTitleSubtitleOptionContains) - (Dynamic locator variable)</description>
+      <id>daeea9bf-bebe-4ce1-aa80-3fc2ccf26270</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_4</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(3) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(2) &gt; .block'</defaultValue>
+      <description>Step 20: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>d2ff1001-91cd-4ae8-ba01-974aeeb0bfaa</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_5</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(3) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(2) &gt; .block'</defaultValue>
+      <description>Step 35: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>e5fe8378-85e8-43c3-aa21-bc93cf5cb092</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_6</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(3) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(2) &gt; .block'</defaultValue>
+      <description>Step 36: Click on code nestedTextOptions (nestedTitleSubtitleOption) - (Dynamic locator variable)</description>
+      <id>99dce253-931c-41fb-85c5-dd142530ed21</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_7</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(2) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(1) &gt; .block'</defaultValue>
+      <description>Step 14: Click on code nestedTextOptions (nestedTextOption) - (Dynamic locator variable)</description>
+      <id>2ab5cb1e-d58b-44c6-9b39-f7bb21d7f838</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_8</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(3) &gt; [class=\\"space-y-3\\"] &gt; div:nth-of-type(1) &gt; .block'</defaultValue>
+      <description>Step 21: Click on code nestedTextOptions (nestedTitleSubtitleOption2) - (Dynamic locator variable)</description>
+      <id>f2d6ba32-05b1-4cc9-a089-1b9e55ffe7bc</id>
+      <masked>false</masked>
+      <name>code_nestedTextOptions_css_value_9</name>
+   </variable>
+   <variable>
+      <defaultValue>'KA-65405-01'</defaultValue>
+      <description>Step 1: Navigate to /nested-text-locator-poc with params (clientCode, env) - (Dynamic URL variable)</description>
+      <id>a2f77bb4-8bbc-4444-8877-fec8eae42f69</id>
+      <masked>false</masked>
+      <name>nested_text_locator_poc_clientCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'qa'</defaultValue>
+      <description>Step 1: Navigate to /nested-text-locator-poc with params (clientCode, env) - (Dynamic URL variable)</description>
+      <id>5af777b1-3f7e-49ff-bb7d-92d585af2842</id>
+      <masked>false</masked>
+      <name>nested_text_locator_poc_env</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>Step 47: Click on span roleOptions (roleOption2) - (Dynamic locator variable)</description>
+      <id>2ae1c8f0-b44e-4041-ba15-438c58974173</id>
+      <masked>false</masked>
+      <name>span_roleOptions_DivNthChild</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 48: Click on span roleOptions (roleOption3) - (Dynamic locator variable)</description>
+      <id>b05777a3-e348-442f-b67f-8419f16305c3</id>
+      <masked>false</masked>
+      <name>span_roleOptions_DivNthChild_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'[class=\\"rounded-2xl\\\\ border\\\\ p-5\\\\ shadow-sm\\\\ transition\\\\ border-blue-500\\\\ bg-blue-50\\\\/60\\\\ dark\\\\:border-blue-400\\\\ dark\\\\:bg-blue-950\\\\/30\\"] .rounded-full'</defaultValue>
+      <description>Step 47: Click on span roleOptions (roleOption2) - (Dynamic locator variable)</description>
+      <id>06e78e2c-42a4-46c8-9f01-4a1447432831</id>
+      <masked>false</masked>
+      <name>span_roleOptions_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'div:nth-of-type(2) &gt; .items-start &gt; .rounded-full'</defaultValue>
+      <description>Step 48: Click on span roleOptions (roleOption3) - (Dynamic locator variable)</description>
+      <id>23eb84d0-c6d4-448a-90ff-5c2cc847c2ab</id>
+      <masked>false</masked>
+      <name>span_roleOptions_css_value_1</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>02b75ba6-b909-4842-a356-cf026600d9e8</id>
+      </flow>
+   </customField>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"status": "DRAFT", "source": "User Session"}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+</TestCaseEntity>
