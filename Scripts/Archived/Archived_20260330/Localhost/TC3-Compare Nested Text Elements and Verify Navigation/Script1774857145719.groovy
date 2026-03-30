@@ -19,27 +19,27 @@ TrueTestScripts.navigate("/nested-text-locator-poc", ["clientCode": nested_text_
 
 "Step 2: Click on item compareXpath"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_compareXpath'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260330/Localhost/Page_nested_text_locator_poc/item_compareXpath'))
 
 "Step 3: Click on item directTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_directTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260330/Localhost/Page_nested_text_locator_poc/item_directTextOption'))
 
 "Step 4: Click on code directTextOptionXpath"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/code_directTextOptionXpath'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260330/Localhost/Page_nested_text_locator_poc/code_directTextOptionXpath'))
 
 "Step 5: Click on code directTextOptionXpath"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/code_directTextOptionXpath'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260330/Localhost/Page_nested_text_locator_poc/code_directTextOptionXpath'))
 
 "Step 6: Click on item directTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_directTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260330/Localhost/Page_nested_text_locator_poc/item_directTextOption'))
 
 "Step 7: Click on item nestedTitleOption -> Navigate to page ''"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_nestedTitleOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260330/Localhost/Page_nested_text_locator_poc/item_nestedTitleOption'))
 
 "Step 8: Take full page screenshot as checkpoint"
 
