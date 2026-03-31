@@ -1,4 +1,4 @@
-package truetest.vnexpress.custom
+package truetest.clario_canvas_qa.custom
 
 import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.testobject.TestObject

@@ -252,6 +252,20 @@ public class TrueTestScripts {
         WebUI.delay(3)
     }
     
+    public static void pressControlAndDoubleClick(TestObject to) {
+        String osName = System.getProperty("os.name", "").toLowerCase()
+        Keys keyToSend = osName.contains("mac") ? Keys.COMMAND : Keys.CONTROL
+        WebUI.waitForElementClickable(to, 20)
+        WebElement element = WebUI.findWebElement(to)
+        Actions actions = new Actions(DriverFactory.getWebDriver())
+        actions.keyDown(keyToSend)
+        .doubleClick(element)
+        .keyUp(keyToSend)
+        .build()
+        .perform()
+        WebUI.delay(3)
+    }
+    
     public static switchToNextWindow() {
         def driver = DriverFactory.getWebDriver()
         def currentHandle = driver.getWindowHandle()
