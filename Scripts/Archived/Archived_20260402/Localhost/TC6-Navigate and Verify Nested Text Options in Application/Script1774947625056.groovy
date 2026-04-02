@@ -19,31 +19,31 @@ TrueTestScripts.navigate("/nested-text-locator-poc", ["clientCode": nested_text_
 
 "Step 2: Click on item directTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_directTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260402/Localhost/Page_nested_text_locator_poc/item_directTextOption'))
 
 "Step 3: Click on header howToUseThisPage"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/header_howToUseThisPage'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260402/Localhost/Page_nested_text_locator_poc/header_howToUseThisPage'))
 
 "Step 4: Click on div nestedTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/div_nestedTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260402/Localhost/Page_nested_text_locator_poc/div_nestedTextOption'))
 
 "Step 5: Click on item relationshipManagementOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_relationshipManagementOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260402/Localhost/Page_nested_text_locator_poc/item_relationshipManagementOption'))
 
 "Step 6: Click on item relationshipManagementOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_relationshipManagementOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260402/Localhost/Page_nested_text_locator_poc/item_relationshipManagementOption'))
 
 "Step 7: Click on item relationshipManagementOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_relationshipManagementOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260402/Localhost/Page_nested_text_locator_poc/item_relationshipManagementOption'))
 
 "Step 8: Click on item relationshipManagementOption -> Navigate to page ''"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Localhost/Page_nested_text_locator_poc/item_relationshipManagementOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260402/Localhost/Page_nested_text_locator_poc/item_relationshipManagementOption'))
 
 "Step 9: Take full page screenshot as checkpoint"
 
