@@ -1,0 +1,64 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "87a75377-2c25-42b2-98f2-74d9c2c7a7cc",
+      "name": "Navigate to /nested-text-locator-poc",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "1359dc6b-5d47-421d-9d77-af780880306f",
+      "name": "Click on item accountsCrm",
+      "action_id": "76751ce5-bf99-4068-bca3-943bacea7de5",
+      "timestamp": 1775122365767,
+      "target_name": "item_accountsCrm",
+      "target_test_object_id": "529eea5b-510b-484b-a8dc-0d1602acfbcb",
+      "sub_steps": []
+    },
+    {
+      "id": "12287abf-f4e6-4138-ade6-612920841ef9",
+      "name": "Click on div nestedTextOption",
+      "action_id": "0e416252-92fa-495c-950b-ad56e5386441",
+      "timestamp": 1775122664390,
+      "target_name": "div_nestedTextOption",
+      "target_test_object_id": "280f9720-acba-47be-bd12-f5bfcdefded3",
+      "sub_steps": []
+    },
+    {
+      "id": "a7631df4-48a5-4711-b21d-11eded590844",
+      "name": "Click on div nestedTextOption",
+      "action_id": "512fdd36-9554-4a42-bb01-bb663ab44f17",
+      "timestamp": 1775122664936,
+      "target_name": "div_nestedTextOption",
+      "target_test_object_id": "280f9720-acba-47be-bd12-f5bfcdefded3",
+      "sub_steps": []
+    },
+    {
+      "id": "2bd5cd54-49de-47bf-91ea-0bcc4f14a31a",
+      "name": "Click on item directTextOption",
+      "action_id": "1bef4d39-ec60-4260-8166-656d2b36a8e6",
+      "timestamp": 1775122666752,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "b36722d7-0348-4a80-bfe5-38f00e9b0277",
+      "sub_steps": []
+    },
+    {
+      "id": "d408cfe3-e6dc-4873-afdf-ce0df14ac3f7",
+      "name": "Click on item directTextOption -> Navigate to page ''",
+      "action_id": "ebacb635-6b11-476e-808d-9f2f9da21e21",
+      "timestamp": 1775122667052,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "b36722d7-0348-4a80-bfe5-38f00e9b0277",
+      "sub_steps": []
+    },
+    {
+      "id": "e09a4278-f00e-4972-a321-1f372e6f054a",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

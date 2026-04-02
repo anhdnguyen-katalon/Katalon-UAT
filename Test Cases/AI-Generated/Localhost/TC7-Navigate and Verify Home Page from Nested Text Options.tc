@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access the nested text locator page, select CRM accounts, and navigate through nested options to reach the home page. Verify successful navigation to the home page.</description>
+   <name>TC7-Navigate and Verify Home Page from Nested Text Options</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90f11373-4a77-4bb5-8afa-45d9d1e3706f</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <customField>
+      <flow>
+         <id>caf5b436-e432-4b97-bec0-2c9fd9d30801</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
