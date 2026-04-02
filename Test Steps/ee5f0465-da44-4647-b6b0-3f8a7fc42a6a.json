@@ -1,0 +1,127 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "b3e30f5a-5329-4ea3-b3b7-6c3c9128d51e",
+      "name": "Navigate to /nested-text-locator-poc",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "99b6c8d4-db28-4784-98b6-b2c625e78c85",
+      "name": "Click on link dynamicIdlocator -> Navigate to page '/dynamic-id-locator'",
+      "action_id": "a2854f97-59fd-4fe4-8d92-342d2eb591f3",
+      "timestamp": 1775125400905,
+      "target_name": "link_dynamicIdlocator",
+      "target_test_object_id": "f56e1720-1757-400c-8d95-6f09a795faf2",
+      "sub_steps": []
+    },
+    {
+      "id": "52a0ce8b-766c-4ab2-bfdc-5545e4df628c",
+      "name": "Click on link nestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'",
+      "action_id": "0b7efb88-7564-4c51-b5e7-a2e481fdee6f",
+      "timestamp": 1775125404789,
+      "target_name": "link_nestedTextLocatorPoc",
+      "target_test_object_id": "7208a2ef-bad3-4ebd-887e-a3d5db8be4bb",
+      "sub_steps": []
+    },
+    {
+      "id": "9b94623c-66b5-4970-ae7d-6b3df3622ce1",
+      "name": "Click on item directTextOption",
+      "action_id": "698334ad-5257-41d9-9dcb-e98b33f6fc70",
+      "timestamp": 1775125407839,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "b36722d7-0348-4a80-bfe5-38f00e9b0277",
+      "sub_steps": []
+    },
+    {
+      "id": "23b997cf-a5cc-49ae-8bc6-243cee8e829a",
+      "name": "Click on div nestedTextOption",
+      "action_id": "cca108ea-91fb-448a-9613-87e4eb078071",
+      "timestamp": 1775125409555,
+      "target_name": "div_nestedTextOption",
+      "target_test_object_id": "dde0ac5a-9557-45c2-9f6a-740eac83aa3d",
+      "sub_steps": []
+    },
+    {
+      "id": "8be7dc1c-6c4c-4607-8c32-10f9af8564fd",
+      "name": "Click on item accountsCrm",
+      "action_id": "8ea3cb31-79e7-4528-b002-9dc342e1db38",
+      "timestamp": 1775125411588,
+      "target_name": "item_accountsCrm",
+      "target_test_object_id": "90a4fe49-22b4-4905-8166-a92a62fc1b32",
+      "sub_steps": []
+    },
+    {
+      "id": "b7a114e4-4506-4303-a4da-3b54de31ffa4",
+      "name": "Click on item directTextOption",
+      "action_id": "ec523fd0-fa94-486c-ab74-c6d880cf38df",
+      "timestamp": 1775125430677,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "b36722d7-0348-4a80-bfe5-38f00e9b0277",
+      "sub_steps": []
+    },
+    {
+      "id": "80b28f40-1ff3-4cd3-ad4e-3d730d5cfab2",
+      "name": "Click on div nestedTextOption",
+      "action_id": "8d575960-1793-4219-9dff-2ed498d7275a",
+      "timestamp": 1775125431471,
+      "target_name": "div_nestedTextOption",
+      "target_test_object_id": "dde0ac5a-9557-45c2-9f6a-740eac83aa3d",
+      "sub_steps": []
+    },
+    {
+      "id": "3bf68ba2-45bb-42e0-966c-dd5043418152",
+      "name": "Click on item accountsCrm",
+      "action_id": "f72915a5-d4d7-47fb-83a0-9a5680511d52",
+      "timestamp": 1775125432572,
+      "target_name": "item_accountsCrm",
+      "target_test_object_id": "90a4fe49-22b4-4905-8166-a92a62fc1b32",
+      "sub_steps": []
+    },
+    {
+      "id": "eb3e117a-6d7c-497d-a86a-f7ea5d3bb4f0",
+      "name": "Click on item directTextOption",
+      "action_id": "55dbdf76-47ed-4a74-af0a-728cf061750f",
+      "timestamp": 1775125433863,
+      "target_name": "item_directTextOption",
+      "target_test_object_id": "b36722d7-0348-4a80-bfe5-38f00e9b0277",
+      "sub_steps": []
+    },
+    {
+      "id": "64296543-f649-420c-b22c-16ffde3339af",
+      "name": "Click on div nestedTextOption",
+      "action_id": "75d62825-911a-4c98-b46d-fae299d17e36",
+      "timestamp": 1775125434405,
+      "target_name": "div_nestedTextOption",
+      "target_test_object_id": "dde0ac5a-9557-45c2-9f6a-740eac83aa3d",
+      "sub_steps": []
+    },
+    {
+      "id": "26162884-69f4-4557-86da-137e950548d2",
+      "name": "Click on item accountsCrm",
+      "action_id": "ef7fa533-06db-456d-b6be-d8cceca9beca",
+      "timestamp": 1775125435460,
+      "target_name": "item_accountsCrm",
+      "target_test_object_id": "90a4fe49-22b4-4905-8166-a92a62fc1b32",
+      "sub_steps": []
+    },
+    {
+      "id": "190bc0d6-d3eb-48a3-8698-c07d11951b40",
+      "name": "Click on header selectedTarget -> Navigate to page ''",
+      "action_id": "cd68e67e-0382-4b2b-9f07-3e5e1cfdc7ef",
+      "timestamp": 1775125437138,
+      "target_name": "header_selectedTarget",
+      "target_test_object_id": "5310abea-2a93-42e1-aa7e-db7529cd375d",
+      "sub_steps": []
+    },
+    {
+      "id": "247920b5-9c7b-410f-bdae-daead2e9a326",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

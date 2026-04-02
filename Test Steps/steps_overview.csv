@@ -6,4 +6,19 @@ Step 4: Click on div nestedTextOption
 Step 5: Click on item directTextOption
 Step 6: Click on item directTextOption -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
-",High,NEW
+",High,STABLE
+8,Navigate and Verify Nested Text Locator Functionality,"Access the nested text locator page, interact with various options, and verify navigation to the home page after multiple selections.","Step 1: Navigate to /nested-text-locator-poc
+Step 2: Click on link dynamicIdlocator -> Navigate to page '/dynamic-id-locator'
+Step 3: Click on link nestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'
+Step 4: Click on item directTextOption
+Step 5: Click on div nestedTextOption
+Step 6: Click on item accountsCrm
+Step 7: Click on item directTextOption
+Step 8: Click on div nestedTextOption
+Step 9: Click on item accountsCrm
+Step 10: Click on item directTextOption
+Step 11: Click on div nestedTextOption
+Step 12: Click on item accountsCrm
+Step 13: Click on header selectedTarget -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",Trivial,NEW
