@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Start at the home page and navigate through various links and elements using different locator strategies. Verify the return to the home page after interactions.</description>
+   <name>TC3-Navigate and Verify Multiple Locator Types on Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca1ecf97-2c64-461a-b02a-a982c3d85d63</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <customField>
+      <flow>
+         <id>a71ac98b-0282-4c83-93e1-34035f0a9f01</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
