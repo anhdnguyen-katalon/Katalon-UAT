@@ -1,0 +1,100 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "fd4b9600-4d2d-40c7-9d32-6e4e437d8d53",
+      "name": "Navigate to / with params (clientCode, env)",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "0e5c9bdc-f4f9-42af-b78e-c4582f992359",
+      "name": "Click on link navigateNestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'",
+      "action_id": "66221994-af00-4744-8517-ad8a727dc052",
+      "timestamp": 1775294845591,
+      "target_name": "link_navigateNestedTextLocatorPoc",
+      "target_test_object_id": "f2d86e90-817f-423e-ba53-30084d7f7f4d",
+      "sub_steps": []
+    },
+    {
+      "id": "60a0457a-ef87-456a-a34f-965e6d8c00d6",
+      "name": "Click on item selectDirectTextOption",
+      "action_id": "88e6de4c-40ce-4665-b5f1-cbed023efbcc",
+      "timestamp": 1775294847622,
+      "target_name": "item_selectDirectTextOption",
+      "target_test_object_id": "5e73d92d-5305-427b-b585-4272fdee9858",
+      "sub_steps": []
+    },
+    {
+      "id": "ed454e21-68cb-4576-916e-02a82c41ee33",
+      "name": "Click on div selectNestedTextOption",
+      "action_id": "2ba6397b-c28d-490e-a8ce-c726b7a27331",
+      "timestamp": 1775294864231,
+      "target_name": "div_selectNestedTextOption",
+      "target_test_object_id": "31493822-2849-4896-9b09-afc3adbcf061",
+      "sub_steps": []
+    },
+    {
+      "id": "b34de2b7-7d74-40c0-8f6f-62e19502c3cc",
+      "name": "Click on item selectRelationshipManagement",
+      "action_id": "b87f2cda-f9ee-4617-9f46-d3053a9f908b",
+      "timestamp": 1775294875920,
+      "target_name": "item_selectRelationshipManagement",
+      "target_test_object_id": "90a4fe49-22b4-4905-8166-a92a62fc1b32",
+      "sub_steps": []
+    },
+    {
+      "id": "6fcb1d4f-5019-4094-90cc-b6c34b2761a8",
+      "name": "Click on div object",
+      "action_id": "1ac45135-18da-40fa-bb69-39c0219730d1",
+      "timestamp": 1775294890185,
+      "target_name": "div_object",
+      "target_test_object_id": "aec99311-547a-4579-9b7b-85bf4ed7f135",
+      "sub_steps": []
+    },
+    {
+      "id": "93a5cb1f-4a80-453d-93b3-3d4b6f28a92e",
+      "name": "Click on div selectNestedTextOption",
+      "action_id": "7a6ec4fa-785b-48c5-a155-5413306c0287",
+      "timestamp": 1775294896784,
+      "target_name": "div_selectNestedTextOption",
+      "target_test_object_id": "31493822-2849-4896-9b09-afc3adbcf061",
+      "sub_steps": []
+    },
+    {
+      "id": "0ece5581-5468-4ddd-a423-a1b63a6e2374",
+      "name": "Click on item selectDirectTextOption",
+      "action_id": "4863bff1-803f-4db3-982b-28c679b00393",
+      "timestamp": 1775294898201,
+      "target_name": "item_selectDirectTextOption",
+      "target_test_object_id": "5e73d92d-5305-427b-b585-4272fdee9858",
+      "sub_steps": []
+    },
+    {
+      "id": "62642c9e-405b-41d4-9153-c78910d0ef72",
+      "name": "Click on div selectNestedTextOption",
+      "action_id": "df4e8b8d-93c9-452e-b1ab-ee04c5dc6ca1",
+      "timestamp": 1775294898743,
+      "target_name": "div_selectNestedTextOption",
+      "target_test_object_id": "31493822-2849-4896-9b09-afc3adbcf061",
+      "sub_steps": []
+    },
+    {
+      "id": "f7163e59-0548-4ec2-8da8-b9522369b889",
+      "name": "Click on item selectRelationshipManagement -> Navigate to page ''",
+      "action_id": "35f8f864-1d27-405d-8c31-8e9233d6d76a",
+      "timestamp": 1775294899668,
+      "target_name": "item_selectRelationshipManagement",
+      "target_test_object_id": "90a4fe49-22b4-4905-8166-a92a62fc1b32",
+      "sub_steps": []
+    },
+    {
+      "id": "7c1002c9-e79c-4726-8f4e-f637c6953890",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

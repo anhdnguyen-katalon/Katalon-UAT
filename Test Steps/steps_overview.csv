@@ -1,16 +1,13 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-9,Navigate and Verify Nested Text Locator Functionality,Start at the home page and navigate through nested text options. Select various items and verify the return to the home page.,"Step 1: Navigate to / with params (clientCode, env)
+2,Navigate and Verify Nested Text Locator Functionality,Start at the home page and navigate through nested text options. Select various items and verify that the home page is displayed correctly after selections.,"Step 1: Navigate to / with params (clientCode, env)
 Step 2: Click on link navigateNestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'
 Step 3: Click on item selectDirectTextOption
 Step 4: Click on div selectNestedTextOption
-Step 5: Click on item accountsCrm
-Step 6: Click on item accountsCrm
+Step 5: Click on item selectRelationshipManagement
+Step 6: Click on div object
 Step 7: Click on div selectNestedTextOption
 Step 8: Click on item selectDirectTextOption
-Step 9: Click on link dynamicIdlocator -> Navigate to page '/dynamic-id-locator'
-Step 10: Click on link nestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'
-Step 11: Click on item selectDirectTextOption
-Step 12: Click on div selectNestedTextOption
-Step 13: Click on item accountsCrm -> Navigate to page ''
-Step 14: Take full page screenshot as checkpoint
-",Medium,NEW
+Step 9: Click on div selectNestedTextOption
+Step 10: Click on item selectRelationshipManagement -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",Trivial,NEW
