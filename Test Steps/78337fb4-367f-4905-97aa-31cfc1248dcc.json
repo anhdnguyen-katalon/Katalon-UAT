@@ -1,0 +1,127 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "f1f3ff01-4396-4536-94dc-4769810beb1b",
+      "name": "Navigate to / with params (clientCode, env)",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "ea0b7324-64da-43ff-a433-1a9dcff74ccb",
+      "name": "Click on link navigateNestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'",
+      "action_id": "ae1e6020-9998-4212-b39c-5719da53b519",
+      "timestamp": 1775291593335,
+      "target_name": "link_navigateNestedTextLocatorPoc",
+      "target_test_object_id": "f2d86e90-817f-423e-ba53-30084d7f7f4d",
+      "sub_steps": []
+    },
+    {
+      "id": "b6fc861e-b149-4e4f-b367-57b07199b981",
+      "name": "Click on item selectDirectTextOption",
+      "action_id": "3f4fd2be-2b8e-43cf-84a3-f064a629a87d",
+      "timestamp": 1775291596341,
+      "target_name": "item_selectDirectTextOption",
+      "target_test_object_id": "e84ded1e-798c-40ef-8898-84e0295612bd",
+      "sub_steps": []
+    },
+    {
+      "id": "5dc6bdfc-5222-489d-93ee-8e368033f41d",
+      "name": "Click on div selectNestedTextOption",
+      "action_id": "a8886132-c0d8-441b-b632-748a0e3e44dc",
+      "timestamp": 1775291598842,
+      "target_name": "div_selectNestedTextOption",
+      "target_test_object_id": "31493822-2849-4896-9b09-afc3adbcf061",
+      "sub_steps": []
+    },
+    {
+      "id": "cd264cda-3677-45f7-aa00-33f2c0fe4fbf",
+      "name": "Click on item accountsCrm",
+      "action_id": "989f3483-3ba4-4bb9-87a4-37c2fd5d377b",
+      "timestamp": 1775291616472,
+      "target_name": "item_accountsCrm",
+      "target_test_object_id": "90a4fe49-22b4-4905-8166-a92a62fc1b32",
+      "sub_steps": []
+    },
+    {
+      "id": "464444a4-a5e0-4c1b-ae8c-9d8b42881b8d",
+      "name": "Click on item accountsCrm",
+      "action_id": "49693e7c-e448-4833-a760-0201d96e3f02",
+      "timestamp": 1775291638835,
+      "target_name": "item_accountsCrm",
+      "target_test_object_id": "90a4fe49-22b4-4905-8166-a92a62fc1b32",
+      "sub_steps": []
+    },
+    {
+      "id": "df81373f-320f-49c8-b3d7-988cd45d53c7",
+      "name": "Click on div selectNestedTextOption",
+      "action_id": "6ed364ef-7e85-44a8-99ce-4334182e9eb8",
+      "timestamp": 1775291639441,
+      "target_name": "div_selectNestedTextOption",
+      "target_test_object_id": "31493822-2849-4896-9b09-afc3adbcf061",
+      "sub_steps": []
+    },
+    {
+      "id": "ef0c36d6-611e-44f5-babb-196a1d923829",
+      "name": "Click on item selectDirectTextOption",
+      "action_id": "5b939e51-961b-4515-a723-885693d5465b",
+      "timestamp": 1775291640534,
+      "target_name": "item_selectDirectTextOption",
+      "target_test_object_id": "e84ded1e-798c-40ef-8898-84e0295612bd",
+      "sub_steps": []
+    },
+    {
+      "id": "73423b53-b6b2-4253-901a-69ee7d65adea",
+      "name": "Click on link dynamicIdlocator -> Navigate to page '/dynamic-id-locator'",
+      "action_id": "afb46888-c706-4137-8e25-d2fb846f3f1a",
+      "timestamp": 1775291642562,
+      "target_name": "link_dynamicIdlocator",
+      "target_test_object_id": "f56e1720-1757-400c-8d95-6f09a795faf2",
+      "sub_steps": []
+    },
+    {
+      "id": "33e194ea-7b2d-4d7d-b687-9eec41408b0f",
+      "name": "Click on link nestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'",
+      "action_id": "714e918d-3b2b-4375-90e9-83d67e6e55c0",
+      "timestamp": 1775291643420,
+      "target_name": "link_nestedTextLocatorPoc",
+      "target_test_object_id": "7208a2ef-bad3-4ebd-887e-a3d5db8be4bb",
+      "sub_steps": []
+    },
+    {
+      "id": "f387dede-9ab6-40c4-ab7b-5ccfa416a4db",
+      "name": "Click on item selectDirectTextOption",
+      "action_id": "ecd861d7-3cbb-4fa2-b187-7f761fbb011e",
+      "timestamp": 1775291644237,
+      "target_name": "item_selectDirectTextOption",
+      "target_test_object_id": "e84ded1e-798c-40ef-8898-84e0295612bd",
+      "sub_steps": []
+    },
+    {
+      "id": "9d3fe45a-18e9-4d75-8ae9-f0e7be98cf4c",
+      "name": "Click on div selectNestedTextOption",
+      "action_id": "dc841e2e-bba5-4782-ad2a-345923e6b034",
+      "timestamp": 1775291645237,
+      "target_name": "div_selectNestedTextOption",
+      "target_test_object_id": "31493822-2849-4896-9b09-afc3adbcf061",
+      "sub_steps": []
+    },
+    {
+      "id": "6d52aa4d-6ee3-42a8-ba8d-218ad0d3edc3",
+      "name": "Click on item accountsCrm -> Navigate to page ''",
+      "action_id": "11130579-3b3b-4b18-a0f0-5d0b7576cabb",
+      "timestamp": 1775291646328,
+      "target_name": "item_accountsCrm",
+      "target_test_object_id": "90a4fe49-22b4-4905-8166-a92a62fc1b32",
+      "sub_steps": []
+    },
+    {
+      "id": "cf9efa43-2669-40ba-bf37-645d83cb9347",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Start at the home page and navigate through nested text options. Select various items and verify the return to the home page.</description>
+   <name>TC9-Navigate and Verify Nested Text Locator Functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c3ba731-d1bd-4c02-8de9-c45495199ab6</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>'KA-65405-01'</defaultValue>
+      <description>Step 1: Navigate to / with params (clientCode, env) - (Dynamic URL variable)</description>
+      <id>c84135b8-eed6-4aba-a5a3-58c1755e944a</id>
+      <masked>false</masked>
+      <name>var_clientCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'qa'</defaultValue>
+      <description>Step 1: Navigate to / with params (clientCode, env) - (Dynamic URL variable)</description>
+      <id>dd0e298a-de0d-4d80-aee7-5cea8f4f9342</id>
+      <masked>false</masked>
+      <name>var_env</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>78337fb4-367f-4905-97aa-31cfc1248dcc</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
