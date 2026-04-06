@@ -19,39 +19,39 @@ TrueTestScripts.navigate("/", ["clientCode": var_clientCode, "env": var_env])
 
 "Step 2: Click on link navigateNestedTextLocatorPoc -> Navigate to page '/nested-text-locator-poc'"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_home/link_navigateNestedTextLocatorPoc'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_home/link_navigateNestedTextLocatorPoc'))
 
 "Step 3: Click on item selectDirectTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_nested_text_locator_poc/item_selectDirectTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_nested_text_locator_poc/item_selectDirectTextOption'))
 
 "Step 4: Click on div selectNestedTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_nested_text_locator_poc/div_selectNestedTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_nested_text_locator_poc/div_selectNestedTextOption'))
 
 "Step 5: Click on item selectRelationshipManagement"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_nested_text_locator_poc/item_selectRelationshipManagement'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_nested_text_locator_poc/item_selectRelationshipManagement'))
 
 "Step 6: Click on div object"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_nested_text_locator_poc/div_object'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_nested_text_locator_poc/div_object'))
 
 "Step 7: Click on div selectNestedTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_nested_text_locator_poc/div_selectNestedTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_nested_text_locator_poc/div_selectNestedTextOption'))
 
 "Step 8: Click on item selectDirectTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_nested_text_locator_poc/item_selectDirectTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_nested_text_locator_poc/item_selectDirectTextOption'))
 
 "Step 9: Click on div selectNestedTextOption"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_nested_text_locator_poc/div_selectNestedTextOption'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_nested_text_locator_poc/div_selectNestedTextOption'))
 
 "Step 10: Click on item selectRelationshipManagement -> Navigate to page ''"
 
-WebUI.enhancedClick(findTestObject('AI-Generated/base-component.aut.katalon.com/Page_nested_text_locator_poc/item_selectRelationshipManagement'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20260406/base-component.aut.katalon.com/Page_nested_text_locator_poc/item_selectRelationshipManagement'))
 
 "Step 11: Take full page screenshot as checkpoint"
 
