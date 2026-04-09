@@ -1,0 +1,57 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "c3c8c7b0-31dc-40ec-88ff-9e4c5c612c3f",
+      "name": "Navigate to /",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "cb6a1fe2-6aec-4121-8913-10b5bf3ff9cf",
+      "name": "Click on section topstory",
+      "action_id": "d95b11d2-4951-4c1a-ad4f-aa14c002e3a0",
+      "timestamp": 1775706933127,
+      "target_name": "section_topstory",
+      "target_test_object_id": "368bb890-50e3-4ae0-ab00-e6d40f5065be",
+      "sub_steps": []
+    },
+    {
+      "id": "fa441aa0-210a-4f89-8931-57abf3d46713",
+      "name": "Click on link baiToanChonDoiTen -> Navigate to page '/*'",
+      "action_id": "7ffe7b08-17bc-4117-b850-38f521df8ae0",
+      "timestamp": 1775706936222,
+      "target_name": "link_baiToanChonDoiTen",
+      "target_test_object_id": "d3a0d8ff-a478-4522-a62b-9e867e337a55",
+      "sub_steps": []
+    },
+    {
+      "id": "f313486b-1b97-4210-8bc1-c4dc17ad1d19",
+      "name": "Click on p newsDate",
+      "action_id": "877c16de-0eff-4265-a0c5-b57315053428",
+      "timestamp": 1775706937271,
+      "target_name": "p_newsDate",
+      "target_test_object_id": "70f6c1c7-047a-4fce-9a73-c272ba28678d",
+      "sub_steps": []
+    },
+    {
+      "id": "6ca6eb01-1119-460d-a5db-facf55c8cbd1",
+      "name": "Click on link trangChu -> Navigate to page '/'",
+      "action_id": "9e6aa4a1-4cb7-45cb-89a9-ec37474674cf",
+      "timestamp": 1775706940164,
+      "target_name": "link_trangChu",
+      "target_test_object_id": "8a902c4a-2369-4cbf-8b82-c61e547cc213",
+      "sub_steps": []
+    },
+    {
+      "id": "a3367aad-45f0-4e02-9e86-68424345dabf",
+      "name": "Take full page screenshot as checkpoint",
+      "action_id": "8f573654-ba79-4fd3-8f98-4b1bf901886f",
+      "timestamp": 1775706940732,
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Abc xyz</description>
+   <name>AnhDNguyen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3f1ab8c-1203-4453-bfbc-bc40a5dd40f0</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;Manual Session&quot;, &quot;assignee&quot;: &quot;anh.dnguyen@katalon.com&quot;, &quot;linkedTestCaseIds&quot;: [545943]}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>TRUETEST</productName>
+      <properties>
+         <entry>
+            <key>flowId</key>
+            <value>58896caf-2b8e-4044-87e4-74caceced4f4</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <customField>
+      <flow>
+         <id>58896caf-2b8e-4044-87e4-74caceced4f4</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
