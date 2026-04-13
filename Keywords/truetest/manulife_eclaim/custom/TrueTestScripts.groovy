@@ -1,4 +1,4 @@
-package truetest.vnexpress.custom
+package truetest.manulife_eclaim.custom
 
 import com.kms.katalon.core.configuration.RunConfiguration
 import com.kms.katalon.core.model.FailureHandling

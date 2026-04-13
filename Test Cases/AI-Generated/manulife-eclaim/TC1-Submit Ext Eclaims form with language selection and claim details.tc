@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the Ext Eclaims submission page, select English, confirm dialogs, enter phone and date of birth, choose claim options, pick calendar date, and continue to the home page.</description>
+   <name>TC1-Submit Ext Eclaims form with language selection and claim details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7297d456-03a4-4602-8fa7-b64fe175609e</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 11: Enter input value in input dateOfBirth - (Input data variable)</description>
+      <id>8a0fc103-590e-4af6-9607-a4e3b8b4da21</id>
+      <masked>false</masked>
+      <name>input_dateOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 8: Enter input value in input phoneNumber - (Input data variable)</description>
+      <id>a6419a8d-4acc-43cf-8030-253f2fbbbfdc</id>
+      <masked>false</masked>
+      <name>input_phoneNumber</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>55236ed3-db21-4c71-ae3f-78a7ee845ca2</id>
+      </flow>
+   </customField>
+</TestCaseEntity>

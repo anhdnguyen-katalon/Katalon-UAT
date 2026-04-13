@@ -1,0 +1,217 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "c0e9eb3e-78b8-4115-b52d-bb4118b49884",
+      "name": "Navigate to /welcome",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "7090b457-95c9-4542-a331-a0107d3fd55c",
+      "name": "Click on matSelect language",
+      "action_id": "e8637096-8acc-440b-9872-0262ad0b4f24",
+      "timestamp": 1776072411278,
+      "target_name": "matSelect_language",
+      "target_test_object_id": "fbce9078-6d2f-40ed-8101-78c72c11e5f8",
+      "sub_steps": []
+    },
+    {
+      "id": "1dadbec9-bb23-4f77-9c96-73ae1d8873fb",
+      "name": "Click on matOption english",
+      "action_id": "a16fe75e-20d3-4e93-8568-8b2224d854f6",
+      "timestamp": 1776072412844,
+      "target_name": "matOption_english",
+      "target_test_object_id": "5d8aa840-e578-48a7-9549-d55c56cdf0a0",
+      "sub_steps": []
+    },
+    {
+      "id": "ab84fca9-f208-4b24-a546-0acf7231399e",
+      "name": "Click on matIcon object",
+      "action_id": "687ff812-7368-4cde-9eb1-1e0da4a6746c",
+      "timestamp": 1776072415599,
+      "target_name": "matIcon_object",
+      "target_test_object_id": "1a95ab74-ce13-4c12-8eb5-69fdce379948",
+      "sub_steps": []
+    },
+    {
+      "id": "6d8344c2-f8f7-4c2b-92c2-60cc60aca9c5",
+      "name": "Click on button ok",
+      "action_id": "d3daab5e-3d1d-438f-9644-2f24c2e44de2",
+      "timestamp": 1776072418610,
+      "target_name": "button_ok",
+      "target_test_object_id": "af2f2727-9b3d-4a2a-a45a-bedf4515bcb4",
+      "sub_steps": []
+    },
+    {
+      "id": "1141cad2-6e45-4e6d-8c62-b864b0f54a4f",
+      "name": "Click on button continue -> Navigate to page '/ext/eclaims-submission-ui/id/#/customer-info'",
+      "action_id": "1d271a1f-5f03-484d-9ec5-43e017ebad1e",
+      "timestamp": 1776072419877,
+      "target_name": "button_continue",
+      "target_test_object_id": "5eb12d8e-a498-466c-9bdd-1071e8ca5868",
+      "sub_steps": []
+    },
+    {
+      "id": "e6c2199b-06ba-414a-bf78-a06f803016be",
+      "name": "Click on input phoneNumber",
+      "action_id": "1c8298bf-4d13-434a-af27-b9c93b5fb8da",
+      "timestamp": 1776072424636,
+      "target_name": "input_phoneNumber",
+      "target_test_object_id": "0b30ef03-b40c-4cb0-95fb-55228a3c3e85",
+      "sub_steps": []
+    },
+    {
+      "id": "c42ce36e-9954-49d9-b87b-5322ff07ba40",
+      "name": "Enter input value in input phoneNumber",
+      "action_id": "1e0f1286-c39b-4d11-8370-0d8db98b54b5",
+      "timestamp": 1776072425087,
+      "target_name": "input_phoneNumber",
+      "target_test_object_id": "0b30ef03-b40c-4cb0-95fb-55228a3c3e85",
+      "sub_steps": []
+    },
+    {
+      "id": "c430cbb7-6ac6-4ac9-9505-468f12a8d7e8",
+      "name": "Click on div customerContactCenter",
+      "action_id": "9e999df8-351b-4a5b-af4e-00d6bb4fd050",
+      "timestamp": 1776072425516,
+      "target_name": "div_customerContactCenter",
+      "target_test_object_id": "1fd54dcd-3be3-47b9-9b78-72c611233dc6",
+      "sub_steps": []
+    },
+    {
+      "id": "8c482d92-4f53-494e-8758-ebb4e0f2e08e",
+      "name": "Click on input dateOfBirth",
+      "action_id": "8953edef-eb0e-425b-92bf-437bbf699298",
+      "timestamp": 1776072426970,
+      "target_name": "input_dateOfBirth",
+      "target_test_object_id": "32080ec0-b3ae-4b4b-9479-bca5dfeb72a4",
+      "sub_steps": []
+    },
+    {
+      "id": "c6914e11-e01f-4db3-bced-586a95c2b013",
+      "name": "Enter input value in input dateOfBirth",
+      "action_id": "ffd3a5ff-1d43-4147-be39-79cfcdc16e92",
+      "timestamp": 1776072428506,
+      "target_name": "input_dateOfBirth",
+      "target_test_object_id": "32080ec0-b3ae-4b4b-9479-bca5dfeb72a4",
+      "sub_steps": []
+    },
+    {
+      "id": "d5549599-ed1e-4442-8fd8-067962dbf4d7",
+      "name": "Click on div policyHolderDobText",
+      "action_id": "9cb491f4-8809-4eac-a79d-9e64dd0a7f76",
+      "timestamp": 1776072433580,
+      "target_name": "div_policyHolderDobText",
+      "target_test_object_id": "68cb64b2-7bed-4946-b9a0-1a2275a8e403",
+      "sub_steps": []
+    },
+    {
+      "id": "49db6a11-5b90-44db-b9ee-2fbbebc1a6c0",
+      "name": "Click on div policyHolderDobField",
+      "action_id": "c5be86ba-d1ef-4cb7-bf50-6c765d0750f2",
+      "timestamp": 1776072434419,
+      "target_name": "div_policyHolderDobField",
+      "target_test_object_id": "a7787689-66d2-41c1-aceb-072b6c995c2a",
+      "sub_steps": []
+    },
+    {
+      "id": "7badbbe2-aed4-43eb-b63e-44f1420d9f25",
+      "name": "Click on button continue2 -> Navigate to page '/ext/eclaims-submission-ui/id/#/claim-info'",
+      "action_id": "e148d38e-f650-447f-bc97-a96fb06c3f38",
+      "timestamp": 1776072435929,
+      "target_name": "button_continue2",
+      "target_test_object_id": "4370f8bf-2d2f-47d0-baa6-75228470509e",
+      "sub_steps": []
+    },
+    {
+      "id": "5763674a-3b4e-4827-a6fd-71590918fce7",
+      "name": "Click on input outpatientRadio",
+      "action_id": "88d7d756-a012-4f78-9fa0-5d613e5ec1df",
+      "timestamp": 1776072441012,
+      "target_name": "input_outpatientRadio",
+      "target_test_object_id": "c5e238d4-6592-4573-9fbf-0ae63d2d0a56",
+      "sub_steps": []
+    },
+    {
+      "id": "1abd4b60-0503-49fa-862e-e99f982e4192",
+      "name": "Click on input accidentRadio",
+      "action_id": "356ba3a0-85e8-4c90-b123-7ba58bf1e0d5",
+      "timestamp": 1776072442062,
+      "target_name": "input_accidentRadio",
+      "target_test_object_id": "7c802087-6256-441f-a888-0997f5e035ef",
+      "sub_steps": []
+    },
+    {
+      "id": "cc85a9f1-794d-4403-a8ad-2ebbb7950be5",
+      "name": "Click on input yesRadio",
+      "action_id": "a6bcaf24-47de-436e-80c9-70611c30e6a3",
+      "timestamp": 1776072444771,
+      "target_name": "input_yesRadio",
+      "target_test_object_id": "c062454f-a8a9-4ec8-ad59-1292a46dae3f",
+      "sub_steps": []
+    },
+    {
+      "id": "81053170-db03-415b-8e70-1d21824636f8",
+      "name": "Click on matIcon object2",
+      "action_id": "9b3962fb-d066-47fc-9db3-27d749205609",
+      "timestamp": 1776072446687,
+      "target_name": "matIcon_object2",
+      "target_test_object_id": "e17338a0-2f0f-4987-b9c8-5d8e0b1012ea",
+      "sub_steps": []
+    },
+    {
+      "id": "aacb77be-9dcd-449f-bd72-8eda72d038c0",
+      "name": "Click on matIcon object3",
+      "action_id": "c580a2bb-87ef-45e2-8113-c1c57de018d8",
+      "timestamp": 1776072451961,
+      "target_name": "matIcon_object3",
+      "target_test_object_id": "3dcb6420-53f8-4ea9-98e9-78c4aedc6baf",
+      "sub_steps": []
+    },
+    {
+      "id": "9600a4dd-1329-4038-8d9e-6b8e563b44d5",
+      "name": "Click on span calendarItemDay",
+      "action_id": "509d73d7-290b-4d66-b28e-22bfe269f1b8",
+      "timestamp": 1776072454569,
+      "target_name": "span_calendarItemDay",
+      "target_test_object_id": "2d10cb50-0e52-496e-85bb-9df1ffaddf93",
+      "sub_steps": []
+    },
+    {
+      "id": "4b6ab091-263d-4779-8872-95377cb9f1b6",
+      "name": "Click on span calendarDay",
+      "action_id": "9ad1bed9-fa67-45d6-904b-dc594d581026",
+      "timestamp": 1776072456444,
+      "target_name": "span_calendarDay",
+      "target_test_object_id": "cc2aecd6-5d4c-4553-a262-f6cd31ed64c4",
+      "sub_steps": []
+    },
+    {
+      "id": "3c0cadc5-105e-46cf-98ce-c4d1285e3584",
+      "name": "Click on div claimEventSection",
+      "action_id": "96f90633-8eb9-4c95-acf5-f70bf2109d25",
+      "timestamp": 1776072457136,
+      "target_name": "div_claimEventSection",
+      "target_test_object_id": "cc603719-e0e3-49e6-9b72-9ee9b6718710",
+      "sub_steps": []
+    },
+    {
+      "id": "633e5e70-213a-4381-846e-ba3a443cee63",
+      "name": "Click on matRadioGroup claimCauseRadioGroup -> Navigate to page ''",
+      "action_id": "2eaca1cc-a816-4628-bde9-da8156fc3168",
+      "timestamp": 1776072464686,
+      "target_name": "matRadioGroup_claimCauseRadioGroup",
+      "target_test_object_id": "f42ef625-7d6c-44db-84ea-eb49cd86937f",
+      "sub_steps": []
+    },
+    {
+      "id": "952dffc8-bf06-483d-b409-810e941b4b8f",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

@@ -1,8 +1,26 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-1,AnhDNguyen,Abc xyz,"Step 1: Navigate to /
-Step 2: Click on section topstory
-Step 3: Click on link baiToanChonDoiTen -> Navigate to page '/*'
-Step 4: Click on p newsDate
-Step 5: Click on link trangChu -> Navigate to page '/'
-Step 6: Take full page screenshot as checkpoint
-",Trivial,NEW
+1,Submit Ext Eclaims form with language selection and claim details,"Open the Ext Eclaims submission page, select English, confirm dialogs, enter phone and date of birth, choose claim options, pick calendar date, and continue to the home page.","Step 1: Navigate to /welcome
+Step 2: Click on matSelect language
+Step 3: Click on matOption english
+Step 4: Click on matIcon object
+Step 5: Click on button ok
+Step 6: Click on button continue -> Navigate to page '/ext/eclaims-submission-ui/id/#/customer-info'
+Step 7: Click on input phoneNumber
+Step 8: Enter input value in input phoneNumber
+Step 9: Click on div customerContactCenter
+Step 10: Click on input dateOfBirth
+Step 11: Enter input value in input dateOfBirth
+Step 12: Click on div policyHolderDobText
+Step 13: Click on div policyHolderDobField
+Step 14: Click on button continue2 -> Navigate to page '/ext/eclaims-submission-ui/id/#/claim-info'
+Step 15: Click on input outpatientRadio
+Step 16: Click on input accidentRadio
+Step 17: Click on input yesRadio
+Step 18: Click on matIcon object2
+Step 19: Click on matIcon object3
+Step 20: Click on span calendarItemDay
+Step 21: Click on span calendarDay
+Step 22: Click on div claimEventSection
+Step 23: Click on matRadioGroup claimCauseRadioGroup -> Navigate to page ''
+Step 24: Take full page screenshot as checkpoint
+",High,NEW
