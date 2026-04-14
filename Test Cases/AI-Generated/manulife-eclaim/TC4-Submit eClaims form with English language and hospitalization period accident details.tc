@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the eClaims submission UI, select English, enter phone and hospitalization dates, choose outpatient and accident, set yes and no options, select date ranges and time, then verify home page.</description>
+   <name>TC4-Submit eClaims form with English language and hospitalization period accident details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ce759ba-57dd-4c5a-bcef-40bb10169488</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>TRUETEST</productName>
+      <properties>
+         <entry>
+            <key>flowId</key>
+            <value>cc062e10-b6ea-4dde-a56c-d6370347b2af</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 12: Enter input value in input dateInput - (Input data variable)</description>
+      <id>451b2034-6fa3-4f02-a176-b380ef0b09ce</id>
+      <masked>false</masked>
+      <name>input_dateInput</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 9: Enter input value in input phoneNumber - (Input data variable)</description>
+      <id>20b14882-8302-425a-aced-9aadc3cfec8a</id>
+      <masked>false</masked>
+      <name>input_phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'esub-daterange-calendar-container first-calendar'</defaultValue>
+      <description>Step 28: Click on matIcon calendarYearView (calendarYearViewIcon) - (Dynamic locator variable)</description>
+      <id>70077635-1f36-4464-a861-a8639cacd5cd</id>
+      <masked>false</masked>
+      <name>matIcon_calendarYearView_InternalTestidClass</name>
+   </variable>
+   <variable>
+      <defaultValue>'esub-daterange-calendar-container second-calendar'</defaultValue>
+      <description>Step 30: Click on matIcon calendarYearView (calendarYearViewIcon2) - (Dynamic locator variable)</description>
+      <id>390c38c2-6ed7-4a1d-b22d-be7043e4dce6</id>
+      <masked>false</masked>
+      <name>matIcon_calendarYearView_InternalTestidClass_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'body:nth-of-type(1) > app-root:nth-of-type(1) > div:nth-of-type(1) > app-claim-information:nth-of-type(1) > app-submission-wizard:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > app-hospitalization-benetifs:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > esub-daterange-picker:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > cds-calendar:nth-of-type(1) > cds-calendar-header:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > span:nth-of-type(1) > cds-icon:nth-of-type(1) > mat-icon:nth-of-type(1) > svg:nth-of-type(1)'</defaultValue>
+      <description>Step 28: Click on matIcon calendarYearView (calendarYearViewIcon) - (Dynamic locator variable)</description>
+      <id>4cf7d7da-30c6-46f3-895c-d6e460ec40b2</id>
+      <masked>false</masked>
+      <name>matIcon_calendarYearView_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'body:nth-of-type(1) > app-root:nth-of-type(1) > div:nth-of-type(1) > app-claim-information:nth-of-type(1) > app-submission-wizard:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > app-hospitalization-benetifs:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > esub-daterange-picker:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > cds-calendar:nth-of-type(1) > cds-calendar-header:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(2) > span:nth-of-type(1) > cds-icon:nth-of-type(1) > mat-icon:nth-of-type(1) > svg:nth-of-type(1)'</defaultValue>
+      <description>Step 30: Click on matIcon calendarYearView (calendarYearViewIcon2) - (Dynamic locator variable)</description>
+      <id>a90df57c-832b-4a2e-b1c7-7b449fc794a8</id>
+      <masked>false</masked>
+      <name>matIcon_calendarYearView_css_value_1</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>cc062e10-b6ea-4dde-a56c-d6370347b2af</id>
+      </flow>
+   </customField>
+</TestCaseEntity>

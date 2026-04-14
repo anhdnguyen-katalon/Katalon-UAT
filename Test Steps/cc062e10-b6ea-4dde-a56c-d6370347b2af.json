@@ -1,0 +1,397 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "e5f46b85-7c7d-4dad-80af-69515d037df2",
+      "name": "Navigate to /welcome",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "99d1789e-eaed-4c1f-a994-c784a0372c76",
+      "name": "Click on matSelect language",
+      "action_id": "3ae9df12-2805-4531-9480-714522f0da23",
+      "timestamp": 1776139596150,
+      "target_name": "matSelect_language",
+      "target_test_object_id": "ad2e53ce-64f0-4aa9-bd9f-f8e037289439",
+      "sub_steps": []
+    },
+    {
+      "id": "b8d49cda-7505-4ab8-80fd-2a4fe61d890d",
+      "name": "Click on matOption languageEnglish",
+      "action_id": "48827b9f-714c-4388-b2c8-335995547fe3",
+      "timestamp": 1776139597118,
+      "target_name": "matOption_languageEnglish",
+      "target_test_object_id": "11072b15-1334-4e1c-88a4-47d38c5b7512",
+      "sub_steps": []
+    },
+    {
+      "id": "fc58e6a4-75aa-4e6a-8450-9394a7262c4d",
+      "name": "Click on matIcon object",
+      "action_id": "20c66f78-c20f-4b67-8472-cd7da641aea1",
+      "timestamp": 1776139598841,
+      "target_name": "matIcon_object",
+      "target_test_object_id": "261e6100-e5c8-40a8-a291-ece7521c6bbf",
+      "sub_steps": []
+    },
+    {
+      "id": "e438be0e-f9cc-44a5-a714-fd355a343a51",
+      "name": "Click on button ok",
+      "action_id": "55b6b06d-ceeb-4fce-b542-2a3c99015163",
+      "timestamp": 1776139602024,
+      "target_name": "button_ok",
+      "target_test_object_id": "31c927b7-6d49-4050-b9e3-de990408ae88",
+      "sub_steps": []
+    },
+    {
+      "id": "c9afa26a-60ce-47a8-866b-2c01d7d82f8b",
+      "name": "Click on button continue3 -> Navigate to page '/ext/eclaims-submission-ui/id/#/customer-info'",
+      "action_id": "3fa0ad38-412d-44d7-812a-1c5cde5c5e40",
+      "timestamp": 1776139616119,
+      "target_name": "button_continue3",
+      "target_test_object_id": "5e151f2f-d800-4d40-b4ce-ef6999fc361f",
+      "sub_steps": []
+    },
+    {
+      "id": "d50aa3c3-cd1d-41c4-888c-5f96ee186d1d",
+      "name": "Click on input phoneNumber",
+      "action_id": "dfca2a76-4e85-4730-90d1-d8c96e194b3a",
+      "timestamp": 1776139620557,
+      "target_name": "input_phoneNumber",
+      "target_test_object_id": "a4947fad-2e3f-4d2c-8f68-ebc02b6937e0",
+      "sub_steps": []
+    },
+    {
+      "id": "cafca2a4-4b7e-4e20-89a0-4b16bc354011",
+      "name": "Press key Enter on input periodOfHospitalizationDateInput",
+      "action_id": "90a9ffbc-c6e8-4e91-a5a4-aa9334ce51f2",
+      "timestamp": 1776139621087,
+      "target_name": "input_periodOfHospitalizationDateInput",
+      "target_test_object_id": "82890af8-29dd-4aff-95a0-83d491a61530",
+      "sub_steps": []
+    },
+    {
+      "id": "03007475-0c08-40a5-9e9c-50385131164f",
+      "name": "Enter input value in input phoneNumber",
+      "action_id": "14f0d985-810b-4aa2-8ddf-89babc14ccbf",
+      "timestamp": 1776139621088,
+      "target_name": "input_phoneNumber",
+      "target_test_object_id": "a4947fad-2e3f-4d2c-8f68-ebc02b6937e0",
+      "sub_steps": []
+    },
+    {
+      "id": "d3c61ef4-b01e-448f-a0af-4f7b9c82d672",
+      "name": "Click on input dateInput",
+      "action_id": "77c29378-1908-46ae-9e71-d737a65c9566",
+      "timestamp": 1776139624486,
+      "target_name": "input_dateInput",
+      "target_test_object_id": "8411e81f-6f22-46ba-b395-9ad279b08448",
+      "sub_steps": []
+    },
+    {
+      "id": "315797a4-3739-451f-9322-36fb6789c9ec",
+      "name": "Press key Enter on input dateInputSecondary",
+      "action_id": "2c1c5270-dbb4-43cd-a565-eeb320cd3e49",
+      "timestamp": 1776139625009,
+      "target_name": "input_dateInputSecondary",
+      "target_test_object_id": "8b7b8c0b-ee68-45db-b228-34b9ede358eb",
+      "sub_steps": []
+    },
+    {
+      "id": "d420e88f-354f-4efd-b084-2e0ba2647431",
+      "name": "Enter input value in input dateInput",
+      "action_id": "dfbdaac2-5e26-4827-9b09-20bd84624b54",
+      "timestamp": 1776139625010,
+      "target_name": "input_dateInput",
+      "target_test_object_id": "8411e81f-6f22-46ba-b395-9ad279b08448",
+      "sub_steps": []
+    },
+    {
+      "id": "bfde33b7-0fd6-4cb8-80b4-67bb8743e9b9",
+      "name": "Click on button continue4 -> Navigate to page '/ext/eclaims-submission-ui/id/#/claim-info'",
+      "action_id": "703170eb-ff14-4d1a-bee8-3c113e1ebcb4",
+      "timestamp": 1776139625766,
+      "target_name": "button_continue4",
+      "target_test_object_id": "42923eba-8aab-4c87-bd86-b49c80746139",
+      "sub_steps": []
+    },
+    {
+      "id": "ce25d115-ba3f-42d3-982a-c88dca9920fd",
+      "name": "Click on input radioOutpatient",
+      "action_id": "d8823821-5e4d-458e-8c69-1ecbfbc1e88d",
+      "timestamp": 1776139629708,
+      "target_name": "input_radioOutpatient",
+      "target_test_object_id": "4a747dd4-f96e-4239-ab7a-ebdba3b7f6e3",
+      "sub_steps": []
+    },
+    {
+      "id": "a6deb429-b9db-4684-88fc-45f247c1d4c1",
+      "name": "Click on input radioAccident",
+      "action_id": "f81a475f-7d8b-4afb-9c35-2a527fd32495",
+      "timestamp": 1776139631054,
+      "target_name": "input_radioAccident",
+      "target_test_object_id": "30d711a7-da76-4928-82f2-342464a6e4a9",
+      "sub_steps": []
+    },
+    {
+      "id": "6da496ae-5029-4b8e-8921-31deaaa34661",
+      "name": "Click on input selectYesRadio",
+      "action_id": "669b63b1-71de-4294-92d1-7565d2ac3f80",
+      "timestamp": 1776139632684,
+      "target_name": "input_selectYesRadio",
+      "target_test_object_id": "f3b8da29-7831-4ea9-ac4f-5a03ec0c7f9c",
+      "sub_steps": []
+    },
+    {
+      "id": "66aee6f3-c04f-402d-8093-fd0292b8b643",
+      "name": "Click on matIcon calendarDualTextfield",
+      "action_id": "8f58dbfb-24f5-409b-8914-9df088d747ec",
+      "timestamp": 1776139646339,
+      "target_name": "matIcon_calendarDualTextfield",
+      "target_test_object_id": "a70e677f-b14a-4993-9048-2505eac73a91",
+      "sub_steps": []
+    },
+    {
+      "id": "cce00326-7127-4b26-893c-8a801fe17527",
+      "name": "Click on matIcon calendarPrevious",
+      "action_id": "2285ac35-82e5-415f-beb5-928f09fca1da",
+      "timestamp": 1776139648440,
+      "target_name": "matIcon_calendarPrevious",
+      "target_test_object_id": "420d52b2-7725-4d3f-aec4-8f068cfdd0a8",
+      "sub_steps": []
+    },
+    {
+      "id": "27ada684-4507-45bf-a3c5-1322226aedc1",
+      "name": "Click on span periodOfHospitalizationDateRangeLabel",
+      "action_id": "9a1e31b1-b164-45d1-817b-7098d8960d29",
+      "timestamp": 1776139689109,
+      "target_name": "span_periodOfHospitalizationDateRangeLabel",
+      "target_test_object_id": "d8ab689a-457f-4752-ae83-d0ee8f6158f7",
+      "sub_steps": []
+    },
+    {
+      "id": "1fb513d6-654b-4407-9c82-c079d403488a",
+      "name": "Click on matIcon calendarPrevious",
+      "action_id": "8de4e95e-68e2-4cb3-9839-1de40accce6c",
+      "timestamp": 1776139690327,
+      "target_name": "matIcon_calendarPrevious",
+      "target_test_object_id": "420d52b2-7725-4d3f-aec4-8f068cfdd0a8",
+      "sub_steps": []
+    },
+    {
+      "id": "96401f68-d9b0-49d0-a28f-99722a63f143",
+      "name": "Click on matIcon calendarNext",
+      "action_id": "a1c8837c-3eb0-4d74-96bf-41319b390dc0",
+      "timestamp": 1776139691631,
+      "target_name": "matIcon_calendarNext",
+      "target_test_object_id": "1beefc61-9ffe-4d51-8a11-ee5b2fdff54a",
+      "sub_steps": []
+    },
+    {
+      "id": "39c8cf77-9d9d-457a-a2c7-2fa50c916dc1",
+      "name": "Click on matIcon calendarPrevious",
+      "action_id": "4e8febd4-27f0-4334-a756-d468f0fb5145",
+      "timestamp": 1776139693658,
+      "target_name": "matIcon_calendarPrevious",
+      "target_test_object_id": "420d52b2-7725-4d3f-aec4-8f068cfdd0a8",
+      "sub_steps": []
+    },
+    {
+      "id": "d006bf64-1fe8-442c-a231-3cc9b46e8dce",
+      "name": "Click on input radioNoOption",
+      "action_id": "03eb5402-556f-4ae5-b59c-188e76ccb34e",
+      "timestamp": 1776139694609,
+      "target_name": "input_radioNoOption",
+      "target_test_object_id": "c63bc0ec-2edc-4fb0-9bbd-6d56808c7235",
+      "sub_steps": []
+    },
+    {
+      "id": "a7d54ea9-d58b-4cff-b309-27e4e3436749",
+      "name": "Click on input radioYesOption",
+      "action_id": "0b1f1ab8-a010-4838-9e8e-24bbc472e79b",
+      "timestamp": 1776139695804,
+      "target_name": "input_radioYesOption",
+      "target_test_object_id": "8607de1d-acbf-4253-b907-26bf73988126",
+      "sub_steps": []
+    },
+    {
+      "id": "b798bde9-939c-4f92-a1ca-e474b63afcb2",
+      "name": "Click on matIcon calendarDualTextfield",
+      "action_id": "67d7d0a0-d035-4881-ba24-f8cf7a8391d5",
+      "timestamp": 1776139696995,
+      "target_name": "matIcon_calendarDualTextfield",
+      "target_test_object_id": "a70e677f-b14a-4993-9048-2505eac73a91",
+      "sub_steps": []
+    },
+    {
+      "id": "b4de690e-4b18-4ea2-b4e7-6c5d92c0393d",
+      "name": "Click on matIcon calendarPrevious",
+      "action_id": "fa8f2e5e-fdf0-43f6-a00a-9643e2bca515",
+      "timestamp": 1776139698011,
+      "target_name": "matIcon_calendarPrevious",
+      "target_test_object_id": "420d52b2-7725-4d3f-aec4-8f068cfdd0a8",
+      "sub_steps": []
+    },
+    {
+      "id": "001cee02-31d9-4348-8f88-065d4a9a5568",
+      "name": "Click on matIcon calendarNext2",
+      "action_id": "e852b3c4-c3a5-4750-b0eb-35fc6279af9b",
+      "timestamp": 1776139699036,
+      "target_name": "matIcon_calendarNext2",
+      "target_test_object_id": "c075fe3b-aaec-4779-a255-776f2bf40b9f",
+      "sub_steps": []
+    },
+    {
+      "id": "17769dac-85ef-460e-80bc-93bd5997c602",
+      "name": "Click on matIcon calendarYearView (calendarYearViewIcon)",
+      "action_id": "5494567a-f992-4279-9b46-00133419039b",
+      "timestamp": 1776139700133,
+      "target_name": "matIcon_calendarYearView",
+      "target_test_object_id": "6ce9c9a9-b40f-483c-99cf-42cbdef4dc1b",
+      "sub_steps": []
+    },
+    {
+      "id": "e6a14ebe-cb86-48cb-b3ad-a591d73c4fa2",
+      "name": "Click on span calendarMonthCell",
+      "action_id": "d7f4a1a9-0caf-4294-9e51-c9bf40f03ddc",
+      "timestamp": 1776139701084,
+      "target_name": "span_calendarMonthCell",
+      "target_test_object_id": "1b661623-d9db-45ea-b4c0-616cb385b970",
+      "sub_steps": []
+    },
+    {
+      "id": "fc3b1396-0ac2-4199-b102-550d578eabf7",
+      "name": "Click on matIcon calendarYearView (calendarYearViewIcon2)",
+      "action_id": "00d98e43-46db-41c4-ba04-6b17c5e19a85",
+      "timestamp": 1776139702174,
+      "target_name": "matIcon_calendarYearView",
+      "target_test_object_id": "b2a11c9e-e1fd-42e6-a1ca-786c094fd1a6",
+      "sub_steps": []
+    },
+    {
+      "id": "e62cf5c4-0828-42ce-9024-18282886ed0f",
+      "name": "Click on span calendarMonthCell2",
+      "action_id": "c00a5bf7-0a6d-4219-a5a7-2d814c275d46",
+      "timestamp": 1776139703466,
+      "target_name": "span_calendarMonthCell2",
+      "target_test_object_id": "3ce4d51d-6643-4fcb-aa2e-2d69e70ce5fd",
+      "sub_steps": []
+    },
+    {
+      "id": "9491643a-7c25-41ba-87ea-716088ab8225",
+      "name": "Click on matIcon calendarPrevious",
+      "action_id": "9281fda3-e95e-455f-8a6a-febe4d94a3ca",
+      "timestamp": 1776139704475,
+      "target_name": "matIcon_calendarPrevious",
+      "target_test_object_id": "420d52b2-7725-4d3f-aec4-8f068cfdd0a8",
+      "sub_steps": []
+    },
+    {
+      "id": "ac154d56-6022-465f-9e87-d40c029ce90c",
+      "name": "Click on span calendarDayCell",
+      "action_id": "5128343d-6218-4588-8045-5b72bb0af2fc",
+      "timestamp": 1776139707871,
+      "target_name": "span_calendarDayCell",
+      "target_test_object_id": "257fea47-3171-4161-8f31-c0c65cf5fc73",
+      "sub_steps": []
+    },
+    {
+      "id": "38b79620-1b51-4530-8f1b-b809a3520697",
+      "name": "Click on span calendarDayCell2",
+      "action_id": "3698214e-5f12-4834-abaa-5aabc64058c2",
+      "timestamp": 1776139709658,
+      "target_name": "span_calendarDayCell2",
+      "target_test_object_id": "e80c1c2f-dcf2-4edc-8ff9-8c5c80f9beb4",
+      "sub_steps": []
+    },
+    {
+      "id": "5da98ade-1b3a-45dd-8046-665ef3ffa2c1",
+      "name": "Click on appQuestionFormInput accidentDetails",
+      "action_id": "ec180937-c6d2-44c7-807d-0e38fc172d04",
+      "timestamp": 1776139710466,
+      "target_name": "appQuestionFormInput_accidentDetails",
+      "target_test_object_id": "92ff42eb-752a-48b1-98ba-fe35bd35850d",
+      "sub_steps": []
+    },
+    {
+      "id": "fce637d7-e2f4-4bce-ba7c-4f34ce8a9726",
+      "name": "Click on matIcon calendarDateAccident",
+      "action_id": "e0a95239-18d8-43df-bb4e-7b2bd7828788",
+      "timestamp": 1776139716670,
+      "target_name": "matIcon_calendarDateAccident",
+      "target_test_object_id": "6346c704-84f4-4e75-8b70-69c2dd9c124a",
+      "sub_steps": []
+    },
+    {
+      "id": "75baf9ba-fac7-4fba-a5b8-ba70e608e8a6",
+      "name": "Click on span calendarDayCell3",
+      "action_id": "f387d252-2fa5-4355-8a38-f15ac84f5446",
+      "timestamp": 1776139718216,
+      "target_name": "span_calendarDayCell3",
+      "target_test_object_id": "0c02bec8-0154-4031-bc46-40a5dec06c9b",
+      "sub_steps": []
+    },
+    {
+      "id": "89d8f604-f8fb-466d-a981-08edc7c904b2",
+      "name": "Click on appQuestionFormItem timeDisplay",
+      "action_id": "5790d452-de88-452d-9c1a-008f5ea1a1ab",
+      "timestamp": 1776139719291,
+      "target_name": "appQuestionFormItem_timeDisplay",
+      "target_test_object_id": "fdc60645-bf32-4128-8fbc-b6eb41d7ac99",
+      "sub_steps": []
+    },
+    {
+      "id": "842397b9-57dd-496f-a5af-80539ad86bd0",
+      "name": "Click on input radioPm",
+      "action_id": "341094a2-f2e0-495d-9415-c09785f21ed8",
+      "timestamp": 1776139720354,
+      "target_name": "input_radioPm",
+      "target_test_object_id": "a353ea78-ad5d-4026-8e27-3fd48f31a04b",
+      "sub_steps": []
+    },
+    {
+      "id": "e52b43df-b2d9-4b66-ad32-7db42925299e",
+      "name": "Click on input radioAm",
+      "action_id": "69564d3f-daba-4cd6-b354-1bd5ddd2e8fe",
+      "timestamp": 1776139721167,
+      "target_name": "input_radioAm",
+      "target_test_object_id": "c9d223bc-9f04-4f63-8421-bcebbf19c2bb",
+      "sub_steps": []
+    },
+    {
+      "id": "fa8ec1ee-501d-4d2d-ac3c-06c6d43164ea",
+      "name": "Click on matRadioGroup dateTime",
+      "action_id": "af5cee92-1622-4454-abe1-53f5747e4765",
+      "timestamp": 1776139721837,
+      "target_name": "matRadioGroup_dateTime",
+      "target_test_object_id": "e0d49d82-0cb1-4fc3-a83b-48f8a9e049f9",
+      "sub_steps": []
+    },
+    {
+      "id": "af1bc8ef-ef2c-45b2-99b2-a51d1448467d",
+      "name": "Click on matRadioGroup dateTime",
+      "action_id": "ee18319a-20b0-417c-90aa-65aa5b2b8c5e",
+      "timestamp": 1776139722930,
+      "target_name": "matRadioGroup_dateTime",
+      "target_test_object_id": "e0d49d82-0cb1-4fc3-a83b-48f8a9e049f9",
+      "sub_steps": []
+    },
+    {
+      "id": "8232ee5f-fd02-46b4-8255-eb6f9c1d3858",
+      "name": "Click on div claimInformationSection -> Navigate to page ''",
+      "action_id": "4f45363b-83d0-43f8-9d16-cda9d118b974",
+      "timestamp": 1776139727871,
+      "target_name": "div_claimInformationSection",
+      "target_test_object_id": "b6423ca3-42cb-4a34-b4ac-5c28d9cfb286",
+      "sub_steps": []
+    },
+    {
+      "id": "bf169b21-f264-4d52-a792-f37e1cd352f1",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
