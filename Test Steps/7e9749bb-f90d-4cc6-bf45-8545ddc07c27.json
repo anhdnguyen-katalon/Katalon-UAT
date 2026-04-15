@@ -1,0 +1,334 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "7f55f4d3-60a0-4b74-86fd-f8e49815a4bf",
+      "name": "Navigate to /welcome",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "c7f877f3-b4b1-4375-9d8e-8153d602bb19",
+      "name": "Click on matSelect language",
+      "action_id": "55986321-247a-4bc2-ab0f-29969a7008c6",
+      "timestamp": 1776237063330,
+      "target_name": "matSelect_language",
+      "target_test_object_id": "fbce9078-6d2f-40ed-8101-78c72c11e5f8",
+      "sub_steps": []
+    },
+    {
+      "id": "607619ae-99f2-40a9-b54c-b6f52a93d164",
+      "name": "Click on matOption english",
+      "action_id": "394c9dbc-2e5c-4911-9229-e1100ac3a191",
+      "timestamp": 1776237064118,
+      "target_name": "matOption_english",
+      "target_test_object_id": "5d8aa840-e578-48a7-9549-d55c56cdf0a0",
+      "sub_steps": []
+    },
+    {
+      "id": "c594555d-a770-449f-9d4e-02ad50d95525",
+      "name": "Click on matIcon object",
+      "action_id": "826ca828-8bf8-4302-ba04-d0af33888550",
+      "timestamp": 1776237067959,
+      "target_name": "matIcon_object",
+      "target_test_object_id": "1a95ab74-ce13-4c12-8eb5-69fdce379948",
+      "sub_steps": []
+    },
+    {
+      "id": "14f98a6e-3f65-4f6c-aaec-7fcce27c5e56",
+      "name": "Click on button ok",
+      "action_id": "568e5d73-0911-498c-a7f7-08772bfbf402",
+      "timestamp": 1776237075792,
+      "target_name": "button_ok",
+      "target_test_object_id": "af2f2727-9b3d-4a2a-a45a-bedf4515bcb4",
+      "sub_steps": []
+    },
+    {
+      "id": "90c13bc9-e97e-44d1-91c4-b94779c18a4a",
+      "name": "Click on button continue -> Navigate to page '/ext/eclaims-submission-ui/id/#/customer-info'",
+      "action_id": "bdf8075d-8ef9-471a-bda7-895c2e0047e8",
+      "timestamp": 1776237081268,
+      "target_name": "button_continue",
+      "target_test_object_id": "5eb12d8e-a498-466c-9bdd-1071e8ca5868",
+      "sub_steps": []
+    },
+    {
+      "id": "2f51224e-bbc6-4819-a534-0e6e25c51cc8",
+      "name": "Click on input phoneNumber",
+      "action_id": "b0fd391b-a1d8-4941-9256-0d631c3d2c4d",
+      "timestamp": 1776237086240,
+      "target_name": "input_phoneNumber",
+      "target_test_object_id": "0b30ef03-b40c-4cb0-95fb-55228a3c3e85",
+      "sub_steps": []
+    },
+    {
+      "id": "4af76d37-f980-4397-a33f-4a1c13dcdc55",
+      "name": "Press key Enter on input phoneNumberInput",
+      "action_id": "230ae86d-3271-4a20-a517-b5b7d4a2ff14",
+      "timestamp": 1776237086964,
+      "target_name": "input_phoneNumberInput",
+      "target_test_object_id": "ec338c10-5aa6-4d55-8048-379ef508d12d",
+      "sub_steps": []
+    },
+    {
+      "id": "d720ec16-28a6-49ff-aa3a-b58902d7000a",
+      "name": "Enter input value in input phoneNumber",
+      "action_id": "39e9ea1b-a86e-48a1-b746-b93b42d9eae3",
+      "timestamp": 1776237086965,
+      "target_name": "input_phoneNumber",
+      "target_test_object_id": "0b30ef03-b40c-4cb0-95fb-55228a3c3e85",
+      "sub_steps": []
+    },
+    {
+      "id": "ef748097-7a41-4407-a051-3778bfd7a4a9",
+      "name": "Click on input dateOfBirth",
+      "action_id": "5fa6259f-e373-4429-819d-cfbd13e2a2bb",
+      "timestamp": 1776237089750,
+      "target_name": "input_dateOfBirth",
+      "target_test_object_id": "32080ec0-b3ae-4b4b-9479-bca5dfeb72a4",
+      "sub_steps": []
+    },
+    {
+      "id": "cb36ad99-a58c-4537-bcc5-e5dddcac54b4",
+      "name": "Press key Enter on input dateInput",
+      "action_id": "b2ff67f8-d3eb-4a94-804f-bfd943e3db8e",
+      "timestamp": 1776237091307,
+      "target_name": "input_dateInput",
+      "target_test_object_id": "7c7ae1dd-cd8e-4da7-934e-30cb9b8df052",
+      "sub_steps": []
+    },
+    {
+      "id": "b8dc083c-f15d-4570-8173-f2c2f70c70aa",
+      "name": "Enter input value in input dateOfBirth",
+      "action_id": "3b6b073f-3836-4769-91a3-8c0aa0d5b3bc",
+      "timestamp": 1776237091308,
+      "target_name": "input_dateOfBirth",
+      "target_test_object_id": "32080ec0-b3ae-4b4b-9479-bca5dfeb72a4",
+      "sub_steps": []
+    },
+    {
+      "id": "b8965d7e-0cd8-4ec4-b6ff-c4e1f0fa5b64",
+      "name": "Click on button continue2 -> Navigate to page '/ext/eclaims-submission-ui/id/#/claim-info'",
+      "action_id": "9049c2ae-9681-48ab-8a32-5ccab30f0fff",
+      "timestamp": 1776237094067,
+      "target_name": "button_continue2",
+      "target_test_object_id": "4370f8bf-2d2f-47d0-baa6-75228470509e",
+      "sub_steps": []
+    },
+    {
+      "id": "1980f6e6-a834-4f7d-873c-39b539c4e318",
+      "name": "Click on input radioDisabilityType (outpatientRadio)",
+      "action_id": "a6b419db-399d-4793-81eb-59d55203adf6",
+      "timestamp": 1776237098640,
+      "target_name": "input_radioDisabilityType",
+      "target_test_object_id": "c5e238d4-6592-4573-9fbf-0ae63d2d0a56",
+      "sub_steps": []
+    },
+    {
+      "id": "de48e4cc-c7e5-4ab3-bae7-539b42a3ef9a",
+      "name": "Click on input radioMedicalCondition (accidentRadio)",
+      "action_id": "a93c902f-b004-47cc-9ea4-c79849174238",
+      "timestamp": 1776237099609,
+      "target_name": "input_radioMedicalCondition",
+      "target_test_object_id": "7c802087-6256-441f-a888-0997f5e035ef",
+      "sub_steps": []
+    },
+    {
+      "id": "9be63075-2f32-4ae8-9d53-d5b079a08da2",
+      "name": "Click on input radioMedicalCondition (radioMedicalCondition)",
+      "action_id": "e4cac0bd-8e1f-43f7-8107-45ffd2145acd",
+      "timestamp": 1776237100766,
+      "target_name": "input_radioMedicalCondition",
+      "target_test_object_id": "4c6c6637-bb85-4c55-99af-83eac883ee89",
+      "sub_steps": []
+    },
+    {
+      "id": "77221145-31c1-4f18-a9c3-cc9401b42818",
+      "name": "Click on input radioMedicalCondition (accidentRadio)",
+      "action_id": "0edec193-7a6b-4017-b6c7-febf7ddd10e5",
+      "timestamp": 1776237101874,
+      "target_name": "input_radioMedicalCondition",
+      "target_test_object_id": "7c802087-6256-441f-a888-0997f5e035ef",
+      "sub_steps": []
+    },
+    {
+      "id": "60033b6e-4ec7-488d-9189-5309e6f80e22",
+      "name": "Click on input radioDisabilityType (radioDisability)",
+      "action_id": "01eb11d8-cc2f-45e7-bd37-7d1664188964",
+      "timestamp": 1776237102840,
+      "target_name": "input_radioDisabilityType",
+      "target_test_object_id": "a2959167-7744-4e92-9b66-da3b87dcacaf",
+      "sub_steps": []
+    },
+    {
+      "id": "a69042af-fd77-4fa4-b37f-d94cc645ecf9",
+      "name": "Click on input radioDisabilityType (outpatientRadio)",
+      "action_id": "22b15bbc-d18f-4b27-9e36-5d5e80629c19",
+      "timestamp": 1776237103766,
+      "target_name": "input_radioDisabilityType",
+      "target_test_object_id": "c5e238d4-6592-4573-9fbf-0ae63d2d0a56",
+      "sub_steps": []
+    },
+    {
+      "id": "ef3b788b-dc57-4c19-b24d-4f5bc5342b31",
+      "name": "Click on input radioMedicalCondition (accidentRadio2)",
+      "action_id": "5639a66a-17d0-4953-8c38-85788c3cf67c",
+      "timestamp": 1776237104516,
+      "target_name": "input_radioMedicalCondition",
+      "target_test_object_id": "cc32fc29-ca47-434b-a05d-d3b03429937c",
+      "sub_steps": []
+    },
+    {
+      "id": "4408186b-ce0b-45f2-943b-53e8b605c091",
+      "name": "Click on input radioYes",
+      "action_id": "1200c8c6-a4b8-4a71-b311-febd2eddbba5",
+      "timestamp": 1776237105581,
+      "target_name": "input_radioYes",
+      "target_test_object_id": "a491e2b9-3ee8-4a6d-8ac7-dc2db07f0c32",
+      "sub_steps": []
+    },
+    {
+      "id": "370b561c-b32b-4ccc-9778-629ad624fa5d",
+      "name": "Click on matIcon dateRangeIcon",
+      "action_id": "6279e0f5-ac42-4173-aaa6-0da0c4f1af5d",
+      "timestamp": 1776237110420,
+      "target_name": "matIcon_dateRangeIcon",
+      "target_test_object_id": "75a10a54-c28e-4f77-ad22-1dae16f81dbd",
+      "sub_steps": []
+    },
+    {
+      "id": "da9570d2-2ae4-4520-ba14-c992cba796f8",
+      "name": "Click on matIcon calendarNavigation",
+      "action_id": "89f8b460-6c0c-4b05-9b0a-bb8dfd699680",
+      "timestamp": 1776237112762,
+      "target_name": "matIcon_calendarNavigation",
+      "target_test_object_id": "5dc7c7ba-be99-484b-b5d9-486bf88d810d",
+      "sub_steps": []
+    },
+    {
+      "id": "59db682b-9eb1-4623-be4c-3a0ca8097aee",
+      "name": "Click on matIcon calendarNavigation",
+      "action_id": "017629c2-39e6-4260-b3de-c8575e059010",
+      "timestamp": 1776237113719,
+      "target_name": "matIcon_calendarNavigation",
+      "target_test_object_id": "5dc7c7ba-be99-484b-b5d9-486bf88d810d",
+      "sub_steps": []
+    },
+    {
+      "id": "116464e7-7c0f-440b-8403-85c734ddc327",
+      "name": "Click on matIcon calendarMultiYearIcon",
+      "action_id": "c4f797eb-6255-4bb4-af72-39fb97a77e49",
+      "timestamp": 1776237115621,
+      "target_name": "matIcon_calendarMultiYearIcon",
+      "target_test_object_id": "8fa73333-9ad4-4a0f-bd71-9f839ba8bd91",
+      "sub_steps": []
+    },
+    {
+      "id": "4e860694-10af-43d5-983a-f175da11161b",
+      "name": "Click on matIcon calendarNavigation",
+      "action_id": "1d650c05-a87b-4bb6-bda5-29c8aa4d1d45",
+      "timestamp": 1776237117309,
+      "target_name": "matIcon_calendarNavigation",
+      "target_test_object_id": "5dc7c7ba-be99-484b-b5d9-486bf88d810d",
+      "sub_steps": []
+    },
+    {
+      "id": "5b645e32-a595-411c-9f26-231dc4d63d78",
+      "name": "Click on span calendarDayCell",
+      "action_id": "e3e817ee-ca81-4565-929d-4201e267e6e7",
+      "timestamp": 1776237119216,
+      "target_name": "span_calendarDayCell",
+      "target_test_object_id": "257fea47-3171-4161-8f31-c0c65cf5fc73",
+      "sub_steps": []
+    },
+    {
+      "id": "e7cdb291-4dff-430e-acfa-ce36cfc333c2",
+      "name": "Click on matIcon calendarMultiYearIcon2",
+      "action_id": "05018582-0761-4591-be74-47788072cbe0",
+      "timestamp": 1776237133291,
+      "target_name": "matIcon_calendarMultiYearIcon2",
+      "target_test_object_id": "d0982ab1-0b07-4304-b89e-193eeb18d312",
+      "sub_steps": []
+    },
+    {
+      "id": "919d3b88-93c9-4345-9d1f-b1dac9a95b0e",
+      "name": "Click on span calendarYearText",
+      "action_id": "e6514299-c4f6-4a98-8429-a179f5d029c1",
+      "timestamp": 1776237135535,
+      "target_name": "span_calendarYearText",
+      "target_test_object_id": "320d6255-0904-4f99-b438-58a1ec622d44",
+      "sub_steps": []
+    },
+    {
+      "id": "95014be3-6361-44c2-95c9-4f6328a3cc73",
+      "name": "Click on matIcon calendarMultiYearIcon3",
+      "action_id": "e0761646-1cb3-47df-a7bb-c4be28595e8c",
+      "timestamp": 1776237137335,
+      "target_name": "matIcon_calendarMultiYearIcon3",
+      "target_test_object_id": "86e5e0f2-9800-48a2-bfde-78ed411a86b5",
+      "sub_steps": []
+    },
+    {
+      "id": "3cf51616-b3c5-4246-b990-9c34107afb5b",
+      "name": "Click on span calendarMonthText",
+      "action_id": "b769edcf-d4d5-4661-a4bc-441b619d3913",
+      "timestamp": 1776237138558,
+      "target_name": "span_calendarMonthText",
+      "target_test_object_id": "f675dba8-c75f-4d83-ac26-a5af200ffb49",
+      "sub_steps": []
+    },
+    {
+      "id": "9a129472-5687-42a5-9d28-8ffb7fad8bfe",
+      "name": "Click on label creditDebitExpiry",
+      "action_id": "1dc4e3eb-b587-4e36-bcf9-7019c0bb86b9",
+      "timestamp": 1776237139774,
+      "target_name": "label_creditDebitExpiry",
+      "target_test_object_id": "4bd32465-12f0-483c-98a5-5b76b17949b7",
+      "sub_steps": []
+    },
+    {
+      "id": "55dae6e7-1caa-4e80-a30d-72a50dba2df8",
+      "name": "Click on matIcon calendarMultiYearIcon4",
+      "action_id": "fd407817-a975-4074-983b-56851ceccc87",
+      "timestamp": 1776237141628,
+      "target_name": "matIcon_calendarMultiYearIcon4",
+      "target_test_object_id": "30288093-eb70-40e9-b190-e3b0d11d7620",
+      "sub_steps": []
+    },
+    {
+      "id": "ace8da95-3084-4485-a102-523f0d90b9c3",
+      "name": "Click on span calendarDayText (calendarDayText)",
+      "action_id": "41510d90-a697-453c-ad01-2f240726a7c8",
+      "timestamp": 1776237143794,
+      "target_name": "span_calendarDayText",
+      "target_test_object_id": "b5179224-c9bc-4188-8701-61358befa95b",
+      "sub_steps": []
+    },
+    {
+      "id": "164b5602-1da4-47fd-bc6e-9e450fedff73",
+      "name": "Click on input radioRoadTrafficAccident",
+      "action_id": "70e5323c-37b9-4315-846e-121986caf806",
+      "timestamp": 1776237153805,
+      "target_name": "input_radioRoadTrafficAccident",
+      "target_test_object_id": "175691b9-99e0-45f0-947d-54c27dddbec4",
+      "sub_steps": []
+    },
+    {
+      "id": "7a59dade-f6bc-4091-a7fa-8cb9a5286495",
+      "name": "Click on div yesNoOptions -> Navigate to page ''",
+      "action_id": "576152ae-3775-4ed3-a1f4-25feda739a23",
+      "timestamp": 1776237165687,
+      "target_name": "div_yesNoOptions",
+      "target_test_object_id": "5acc604f-3a1f-4181-8c69-15c8d088af48",
+      "sub_steps": []
+    },
+    {
+      "id": "26836bbd-368f-4195-992d-00e53efff45a",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}

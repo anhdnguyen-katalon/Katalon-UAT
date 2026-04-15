@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the eclaims submission UI, set language, enter phone and date of birth, select disability and medical condition options, choose date range, select road traffic accident, then proceed to home.</description>
+   <name>TC5-Complete Ext Eclaims Submission Form for Disability and Road Traffic Accident Claim</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55aa05da-2af9-41cc-8ba1-9190e8238397</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>TRUETEST</productName>
+      <properties>
+         <entry>
+            <key>flowId</key>
+            <value>7e9749bb-f90d-4cc6-bf45-8545ddc07c27</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 12: Enter input value in input dateOfBirth - (Input data variable)</description>
+      <id>c79524ae-2c30-4418-b3c3-f61c764bf91a</id>
+      <masked>false</masked>
+      <name>input_dateOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 9: Enter input value in input phoneNumber - (Input data variable)</description>
+      <id>dadf7eaa-af69-47a4-9d75-3a3dd1dc7806</id>
+      <masked>false</masked>
+      <name>input_phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Outpatient'</defaultValue>
+      <description>Step 14: Click on input radioDisabilityType (outpatientRadio) - (Dynamic locator variable)</description>
+      <id>b4b87140-67b7-4251-8e8a-1d1f7e582e8a</id>
+      <masked>false</masked>
+      <name>input_radioDisabilityType_InternalLabel</name>
+   </variable>
+   <variable>
+      <defaultValue>'Disability'</defaultValue>
+      <description>Step 18: Click on input radioDisabilityType (radioDisability) - (Dynamic locator variable)</description>
+      <id>f45deb67-763f-4c8d-9b45-dd9e9bd28481</id>
+      <masked>false</masked>
+      <name>input_radioDisabilityType_InternalLabel_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Outpatient'</defaultValue>
+      <description>Step 19: Click on input radioDisabilityType (outpatientRadio) - (Dynamic locator variable)</description>
+      <id>b4b1c4ab-f7fd-4820-b35e-41855f508ae5</id>
+      <masked>false</masked>
+      <name>input_radioDisabilityType_InternalLabel_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;mat-radio-0-input\&quot;]'</defaultValue>
+      <description>Step 14: Click on input radioDisabilityType (outpatientRadio) - (Dynamic locator variable)</description>
+      <id>665d996e-e9d2-41d3-b41d-85135ef0ef20</id>
+      <masked>false</masked>
+      <name>input_radioDisabilityType_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;mat-radio-3-input\&quot;]'</defaultValue>
+      <description>Step 18: Click on input radioDisabilityType (radioDisability) - (Dynamic locator variable)</description>
+      <id>dd4c547b-23c0-4b59-bca9-bccd506df976</id>
+      <masked>false</masked>
+      <name>input_radioDisabilityType_css_value_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;mat-radio-0-input\&quot;]'</defaultValue>
+      <description>Step 19: Click on input radioDisabilityType (outpatientRadio) - (Dynamic locator variable)</description>
+      <id>45e80265-58f6-4286-bc33-8cf51b7e7a55</id>
+      <masked>false</masked>
+      <name>input_radioDisabilityType_css_value_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Accident'</defaultValue>
+      <description>Step 15: Click on input radioMedicalCondition (accidentRadio) - (Dynamic locator variable)</description>
+      <id>12373d81-be8c-4d97-ab93-610eefe42704</id>
+      <masked>false</masked>
+      <name>input_radioMedicalCondition_InternalLabel</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medical Condition (Please select for dental and illness)'</defaultValue>
+      <description>Step 16: Click on input radioMedicalCondition (radioMedicalCondition) - (Dynamic locator variable)</description>
+      <id>83b59b96-faef-4dd1-b926-51f48efbbef6</id>
+      <masked>false</masked>
+      <name>input_radioMedicalCondition_InternalLabel_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Accident'</defaultValue>
+      <description>Step 17: Click on input radioMedicalCondition (accidentRadio) - (Dynamic locator variable)</description>
+      <id>11f2baff-48a0-467a-84d9-5baaec669d55</id>
+      <masked>false</masked>
+      <name>input_radioMedicalCondition_InternalLabel_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Accident'</defaultValue>
+      <description>Step 20: Click on input radioMedicalCondition (accidentRadio2) - (Dynamic locator variable)</description>
+      <id>ef616d90-03cd-48d7-b883-528bd92dd50a</id>
+      <masked>false</masked>
+      <name>input_radioMedicalCondition_InternalLabel_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;mat-radio-5-input\&quot;]'</defaultValue>
+      <description>Step 15: Click on input radioMedicalCondition (accidentRadio) - (Dynamic locator variable)</description>
+      <id>f246cc38-6112-4395-9beb-fba93e906bfb</id>
+      <masked>false</masked>
+      <name>input_radioMedicalCondition_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;mat-radio-6-input\&quot;]'</defaultValue>
+      <description>Step 16: Click on input radioMedicalCondition (radioMedicalCondition) - (Dynamic locator variable)</description>
+      <id>8d4ce176-f3e9-4775-8ad2-e56fa126dc71</id>
+      <masked>false</masked>
+      <name>input_radioMedicalCondition_css_value_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;mat-radio-5-input\&quot;]'</defaultValue>
+      <description>Step 17: Click on input radioMedicalCondition (accidentRadio) - (Dynamic locator variable)</description>
+      <id>7174ebaa-a740-48da-9f4a-82c53f59e386</id>
+      <masked>false</masked>
+      <name>input_radioMedicalCondition_css_value_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'[id=\&quot;mat-radio-11-input\&quot;]'</defaultValue>
+      <description>Step 20: Click on input radioMedicalCondition (accidentRadio2) - (Dynamic locator variable)</description>
+      <id>690ebbe6-011b-4eed-ac98-7a959eab4315</id>
+      <masked>false</masked>
+      <name>input_radioMedicalCondition_css_value_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description>Step 34: Click on span calendarDayText (calendarDayText) - (Dynamic locator variable)</description>
+      <id>cc17c2f3-dc59-438f-aa3a-e6e99db30aad</id>
+      <masked>false</masked>
+      <name>span_calendarDayText_CdsCalendarItemNthChild</name>
+   </variable>
+   <variable>
+      <defaultValue>'body:nth-of-type(1) > app-root:nth-of-type(1) > div:nth-of-type(1) > app-claim-information:nth-of-type(1) > app-submission-wizard:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > app-hospitalization-benetifs:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > esub-daterange-picker:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > cds-calendar:nth-of-type(1) > div:nth-of-type(1) > cds-calendar-month:nth-of-type(1) > section:nth-of-type(2) > cds-calendar-item:nth-of-type(2) > span:nth-of-type(1)'</defaultValue>
+      <description>Step 34: Click on span calendarDayText (calendarDayText) - (Dynamic locator variable)</description>
+      <id>a5bbbfe5-7089-4e07-81fe-657f9e4e8ee7</id>
+      <masked>false</masked>
+      <name>span_calendarDayText_css_value</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>7e9749bb-f90d-4cc6-bf45-8545ddc07c27</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
